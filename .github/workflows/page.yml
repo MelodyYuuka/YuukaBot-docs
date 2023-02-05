@@ -17,25 +17,22 @@ jobs:
           # “最近更新时间” 等 git 日志相关信息，需要拉取全部提交记录
           fetch-depth: 0
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          # 选择要使用的 pnpm 版本
-          version: 7
-          # 使用 pnpm 安装依赖
-          run_install: true
-
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           # 选择要使用的 node 版本
           node-version: 18
-          # 缓存 pnpm 依赖
-          cache: pnpm
+          # 缓存 yarn 依赖
+          cache: yarn
+
+      - name: Run install
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: install
 
       # 运行构建脚本
       - name: Build VuePress site
-        run: pnpm docs:build
+        run: yarn docs:build
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
