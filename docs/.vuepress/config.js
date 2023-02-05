@@ -4,7 +4,7 @@ import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
-    base: '/',
+    base: '/YuukaBot-docs/',
     lang: 'zh-CN',
     host: '0.0.0.0',
     title: 'YuukaBot-v6',
