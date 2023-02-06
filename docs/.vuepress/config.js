@@ -11,11 +11,11 @@ export default defineUserConfig({
     description: '高性能の跨平台Bot',
     head: [
         [
-            'link', { rel: 'icon', href: '/images/logo.png' }
+            'link', { rel: 'icon', href: '/images/logo.webp' }
         ]
     ],
     theme: defaultTheme({
-        logo: '/images/logo.png',
+        logo: '/images/logo.webp',
         navbar: [
             {
                 text: '首页',

@@ -1,8 +1,8 @@
 ---
 home: true
 navbar: true
-heroImage: /images/logo.png
-heroImageDark: /images/logo.png
+heroImage: /images/logo.webp
+heroImageDark: /images/logo.webp
 actions:
   - text: 开始使用
     link: /start/
