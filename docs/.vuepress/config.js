@@ -34,6 +34,11 @@ export default defineUserConfig({
         backToHome: "回到主页",
         repo: 'MelodyYuuka/YuukaBot-docs',
         repoLabel: '文档仓库',
+        editLinkText: '编辑此页',
+        docsBranch: 'main',
+        docsDir: 'docs',
+        editLinkPattern: ':repo/edit/:branch/:path',
+        lastUpdatedText: '最后编辑'
     }),
     plugins: [
         backToTopPlugin(),
