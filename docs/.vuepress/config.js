@@ -12,7 +12,10 @@ export default defineUserConfig({
     head: [
         [
             'link', { rel: 'icon', href: '/images/logo.webp' }
-        ]
+        ],
+        [
+            'meta', { name: 'baidu-site-verification', content: 'codeva-EFdJjOjtRF'}
+        ],
     ],
     theme: defaultTheme({
         logo: '/images/logo.webp',
