@@ -4,9 +4,13 @@
 
 ## YuukaBot
 
-**YuukaBot** 是一个完全公益的高性能、跨平台功能型 Bot。文档目前还在施工中。
+**YuukaBot** 是一个完全公益的高性能、跨平台功能型 Bot。
 
 ![](https://github.com/MelodyYuuka/YuukaBot-docs/workflows/docs/badge.svg)
+
+::: warning
+文档目前还在施工中
+:::
 
 ## Why v6 ？
 
