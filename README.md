@@ -11,4 +11,6 @@
 
 **高性能の跨平台Bot**
 
+![](https://github.com/MelodyYuuka/YuukaBot-docs/workflows/docs/badge.svg)
+
 </div>

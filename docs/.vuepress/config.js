@@ -13,9 +13,6 @@ export default defineUserConfig({
         [
             'link', { rel: 'icon', href: '/images/logo.webp' }
         ],
-        [
-            'meta', { name: 'baidu-site-verification', content: 'codeva-EFdJjOjtRF'}
-        ],
     ],
     theme: defaultTheme({
         logo: '/images/logo.webp',
@@ -26,22 +23,32 @@ export default defineUserConfig({
             },
             {
                 text: '指令',
-                link: '/guide/',
+                link: '/function/',
+            },
+            {
+                text: 'Q&A',
+                link: '/FAQ/',
             },
             {
                 text: '群组',
                 link: 'https://jq.qq.com/?_wv=1027&k=fV5yn9GQ',
             },
         ],
+        // sidebar: [
+
+        // ],
         notFound: ["呜哇，你怎么到这里来的"],
         backToHome: "回到主页",
         repo: 'MelodyYuuka/YuukaBot-docs',
         repoLabel: '文档仓库',
-        editLinkText: '编辑此页',
+        editLinkText: '在 GitHub 上编辑此页',
         docsBranch: 'main',
         docsDir: 'docs',
         editLinkPattern: ':repo/edit/:branch/:path',
-        lastUpdatedText: '最后编辑'
+        lastUpdatedText: '上次更新',
+        tip: '🟢提示',
+        warning: '🟡注意',
+        danger: '🔴警告',
     }),
     plugins: [
         backToTopPlugin(),
