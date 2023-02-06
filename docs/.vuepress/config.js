@@ -18,16 +18,16 @@ export default defineUserConfig({
         logo: '/images/logo.webp',
         navbar: [
             {
-                text: '首页',
-                link: '/',
-            },
-            {
-                text: '开始使用',
+                text: '开始',
                 link: '/start/',
             },
             {
                 text: '指令',
                 link: '/guide/',
+            },
+            {
+                text: '群组',
+                link: 'https://jq.qq.com/?_wv=1027&k=fV5yn9GQ',
             },
         ],
         notFound: ["呜哇，你怎么到这里来的"],

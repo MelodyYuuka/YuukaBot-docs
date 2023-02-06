@@ -1,6 +1,6 @@
 <p align='center'>
     <a herf=''>
-        <img src='./docs/.vuepress/public/images/logo.png' width='250px' height='250px' akt='YuukaBot'>
+        <img src='./docs/.vuepress/public/images/logo.webp' width='250px' height='250px' akt='YuukaBot'>
     </a>
 </p>
 

@@ -12,10 +12,10 @@ actions:
     type: secondary
 features:
   - title: 这是左边
-    details: 这是左边的颠趴文案
+    details: 写点什么，我不到啊
   - title: 这是中间
-    details: 这是中间的颠趴文案
+    details: 我也不到啊
   - title: 这是右边
-    details: 这是右边的颠趴文案
+    details: 这里写点什么呢
 footer: CC-BY-SA-4.0 Licensed | Copyright © 2023-present MelodyYuuka
 ---
