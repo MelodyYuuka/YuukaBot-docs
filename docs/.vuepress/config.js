@@ -4,7 +4,7 @@ import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
-    base: '/YuukaBot-docs/',
+    base: '/',
     lang: 'zh-CN',
     host: '0.0.0.0',
     title: 'YuukaBot-v6',
@@ -31,7 +31,9 @@ export default defineUserConfig({
             },
         ],
         notFound: ["呜哇，你怎么到这里来的"],
-        backToHome: "回到主页"
+        backToHome: "回到主页",
+        repo: 'MelodyYuuka/YuukaBot-docs',
+        repoLabel: '文档仓库',
     }),
     plugins: [
         backToTopPlugin(),
