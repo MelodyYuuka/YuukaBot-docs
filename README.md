@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# YuukaBot
+# YuukaBot 帮助文档
 
 **高性能の跨平台Bot**
 
