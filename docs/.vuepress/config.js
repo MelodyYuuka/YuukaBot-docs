@@ -13,10 +13,6 @@ export default defineUserConfig({
         [
             'link', { rel: 'icon', href: '/images/logo.webp' }
         ],
-        //<meta name="msvalidate.01" content="6594406952D33FE79E9DDE236BBCCE50" />
-        [
-            'meta', { name: 'msvalidate.01', content: '6594406952D33FE79E9DDE236BBCCE50' }
-        ],
     ],
     theme: defaultTheme({
         logo: '/images/logo.webp',
