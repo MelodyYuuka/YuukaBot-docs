@@ -10,6 +10,13 @@
 ### 读懂世界
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -18,12 +25,20 @@
         <td>读懂世界</td>
         <td>查看今天消息</td>
     </tr>
+</tbody>
 </table>
 
 
 ### B站相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -31,12 +46,20 @@
     <tr>
         <td colspan="2">发送av/bv号等解析</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 倒计时相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -53,12 +76,20 @@
         <td>高考倒计时</td>
         <td>高考倒计时</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 地震监测
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -67,12 +98,20 @@
         <td>地震监测(小时数)</td>
         <td>地震监测</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 每日一句
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -81,12 +120,20 @@
         <td>每日一句(年-月-日)</td>
         <td>每日一句</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 垃圾分类
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -95,12 +142,20 @@
         <td>xxx是什么垃圾</td>
         <td>查询垃圾分类</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 一言
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -115,12 +170,20 @@
     <tr>
         <td colspan="2">来自网络|其他|影视|网易云|哲学</td>
     </tr>
+</tbody>
 </table>
 
 
 ### hypixel信息查询
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -144,12 +207,20 @@
     <tr>
         <td colspan="2">绑定账号后即可省略上述游戏名，默认使用绑定账户查询</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 识别图片标签
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -158,12 +229,20 @@
         <td>tag识别</td>
         <td>识别图片内元素（一般用于二次元图片）</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 通用图像识别相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -200,12 +279,20 @@
         <td>网文识别</td>
         <td>识别网图文字</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 地图相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -226,12 +313,20 @@
         <td>查坐标[经度],[纬度]</td>
         <td>查询坐标地点</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 点歌相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -255,12 +350,20 @@
     <tr>
         <td colspan="2">网易云点歌请查看"网易云音乐相关"</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 图片转链接
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -269,12 +372,20 @@
         <td>图片转链接</td>
         <td>图片转链接</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 闹钟提醒
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -289,12 +400,20 @@
     <tr>
         <td colspan="2">默认在设置该提醒的群提醒</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 运行代码
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -312,12 +431,20 @@
     <tr>
         <td colspan="2">assembly/ats/bash/c/clojure/cobol/coffeescript/cpp/crystal/csharp/d/elixir/elm/erlang/fsharp/go/groovy/hare/haskell/idris/java/javascript/julia/kotlin/lua/mercury/nim/nix/ocaml/perl/php/python/raku/ruby/rust/sac/scala/swift/typescript/zig</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 搜索相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -353,12 +480,20 @@
     <tr>
         <td colspan="2">（-1~-3为镜像站，-e为源站）</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 缩写释义
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -367,12 +502,20 @@
         <td>缩写释义</td>
         <td>查询缩写释义</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 今日运势
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -381,12 +524,20 @@
         <td>今日运势</td>
         <td>查看今日运势</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 便民服务
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -431,12 +582,20 @@
         <td>营销号生成</td>
         <td>营销号文案生成器</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 反向词典
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -457,12 +616,20 @@
         <td>英找英词</td>
         <td>用英文找英文词</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 天气
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -474,12 +641,20 @@
     <tr>
         <td colspan="2">➡️上级地区参数可选，用于筛选同名地区</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 微博功能
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -492,12 +667,20 @@
         <td>最新微博[用户数字id]</td>
         <td>获取用户最新微博</td>
     </tr>
+</tbody>
 </table>
 
 
 ### ygo相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -506,6 +689,7 @@
         <td>ygo搜卡[关键词]</td>
         <td>ygo搜卡</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -514,6 +698,13 @@
 ### Bot信息
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -522,12 +713,20 @@
         <td>.bot</td>
         <td>查看信息</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 帮助菜单
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -536,12 +735,20 @@
         <td>/help</td>
         <td>唤出帮助菜单</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 早晚安
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -558,12 +765,20 @@
         <td>获取早安情况</td>
         <td>可视化早安历史记录</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 骰子相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -572,12 +787,20 @@
         <td>.r</td>
         <td>掷骰</td>
     </tr>
+</tbody>
 </table>
 
 
 ### ping
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -586,6 +809,7 @@
         <td>/ping</td>
         <td>ping一下</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -594,6 +818,13 @@
 ### 网易云音乐相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -602,6 +833,7 @@
         <td>点歌[歌名](*序号)</td>
         <td>网易云点歌</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -610,6 +842,13 @@
 ### 图片简单编辑
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -658,12 +897,20 @@
         <td>圆图生成</td>
         <td>圆图生成</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 以图搜图
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -684,12 +931,20 @@
         <td>yandex以图搜图</td>
         <td>使用yandex引擎以图搜图</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 文字-图片生成
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -748,12 +1003,20 @@
         <td>悄悄话</td>
         <td>生成悄悄话图</td>
     </tr>
+</tbody>
 </table>
 
 
 ### Pixiv功能
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -805,12 +1068,20 @@
         <td>随机tag</td>
         <td>查看热门tag</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 随机图相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -818,12 +1089,20 @@
     <tr>
         <td colspan="2">●随机景观/纸片人/萌妹●</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 随机东方
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -839,12 +1118,20 @@
     <tr>
         <td colspan="2">（-w代表竖屏图，xxx替换为人物英文名）</td>
     </tr>
+</tbody>
 </table>
 
 
 ### safebooru相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -865,6 +1152,7 @@
         <td>搜tag</td>
         <td>搜索tag</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -873,6 +1161,13 @@
 ### 图片-图片生成
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -960,6 +1255,7 @@
         <td>别被拐了</td>
         <td>生成别被拐了图</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -968,6 +1264,13 @@
 ### Asoul相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -980,12 +1283,20 @@
         <td>枝江小作文(关键词)</td>
         <td>随机小作文</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 字符反转
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -994,12 +1305,20 @@
         <td>字符反转[字母句子]</td>
         <td>反转英文字符</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 烂剧制造
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1008,12 +1327,20 @@
         <td>烂剧制造</td>
         <td>烂剧制造</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 幻想系统
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1022,12 +1349,20 @@
         <td>*查询</td>
         <td>查询当前状态</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 帮你选择
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1036,12 +1371,20 @@
         <td>选择xxx还是xxx</td>
         <td>帮你选择</td>
     </tr>
+</tbody>
 </table>
 
 
 ### mc相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1050,12 +1393,20 @@
         <td>mc状态</td>
         <td>查看Minecraft目前状态</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 诗词相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1068,12 +1419,20 @@
         <td>藏尾诗[句子]</td>
         <td>藏尾诗</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 人生重开模拟器
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1082,12 +1441,20 @@
         <td>人生重开！</td>
         <td>开始重开</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 语录相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1136,12 +1503,20 @@
         <td>段子</td>
         <td>段子</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 生成器系统
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1198,12 +1573,20 @@
         <td>神必故事xxx</td>
         <td>属于你的神必故事</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 车万生草机
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1212,12 +1595,20 @@
         <td>车万生草机</td>
         <td>生成车万生草句</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 东方新闻
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1226,12 +1617,20 @@
         <td>东方新闻</td>
         <td>获取东方新闻</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 东方问答
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1260,12 +1659,20 @@
         <td>*答[答案]</td>
         <td>回答知识问答</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 语音功能
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1289,6 +1696,7 @@
         <td>支付宝到账xxx</td>
         <td>听支付宝到账语音</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -1297,6 +1705,13 @@
 ### 化学工具
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1305,12 +1720,20 @@
         <td>配平</td>
         <td>配平化学方程式</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 数学工具
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1359,6 +1782,7 @@
         <td>/latex[公式]</td>
         <td>生成latex公式图</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -1367,6 +1791,13 @@
 ### 扫雷
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1382,6 +1813,7 @@
     <tr>
         <td colspan="2">!代表插旗，不写代表扫雷</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -1390,6 +1822,13 @@
 ### 百科相关
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1482,6 +1921,7 @@
         <td>搜文明百科 xxx</td>
         <td>搜索文明VI百科</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -1490,6 +1930,13 @@
 ### 管理操作
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1498,12 +1945,20 @@
         <td>推送消息</td>
         <td>推送消息</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 封禁
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1520,12 +1975,20 @@
         <td>/checkban [QQ号]</td>
         <td>检查一个QQ的状态</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 群状态管理
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1538,12 +2001,20 @@
         <td>(.bot|本群服务)(off|on|开启|关闭)</td>
         <td>开关本群服务</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 好友|邀请请求处理
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1588,12 +2059,20 @@
         <td>/修改群聊担保[S]</td>
         <td>修改群聊担保</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 负载均衡
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1614,12 +2093,20 @@
         <td>查看所有服务</td>
         <td>查看所有Bot</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 功能管理
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1656,12 +2143,20 @@
         <td>设置名单模板[模板名]</td>
         <td>设置名单模板</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 任务/被动功能管理
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1682,12 +2177,20 @@
         <td>查看任务[任务/被动功能名]</td>
         <td>查看对应任务</td>
     </tr>
+</tbody>
 </table>
 
 
 ### 用户互动操作
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1700,6 +2203,7 @@
         <td>*查看屏蔽名单</td>
         <td>查看屏蔽了什么人</td>
     </tr>
+</tbody>
 </table>
 
 
@@ -1708,6 +2212,13 @@
 ### 翻译
 
 <table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
     <tr>
         <td><b>指令</b></td>
         <td><b>描述</b></td>
@@ -1740,6 +2251,7 @@
     <tr>
         <td colspan="2">捷 罗 斯 瑞 匈 繁 越</td>
     </tr>
+</tbody>
 </table>
 
 
