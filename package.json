@@ -1,20 +1,20 @@
 {
   "name": "yuukabot_docs",
   "version": "6.0.0",
+  "description": "YuukaBot 帮助文档",
   "main": "index.js",
   "author": "MelodyYuuka",
-  "license": "MIT",
+  "license": "CC-BY-SA-4.0",
   "devDependencies": {
     "@vuepress/client": "^2.0.0-beta.60",
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.60",
     "vue": "^3.2.47",
-    "vuepress": "^2.0.0-beta.60"
+    "vuepress": "^2.0.0-beta.60",
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.60"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "dependencies": {
-    "@vuepress/plugin-back-to-top": "^2.0.0-beta.60",
-    "@vuepress/plugin-search": "^2.0.0-beta.60"
-  }
+  "dependencies": {}
 }
