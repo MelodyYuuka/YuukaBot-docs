@@ -1,7 +1,9 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
-import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { sitemapPlugin } from 'vuepress-plugin-sitemap2'
+import { seoPlugin } from 'vuepress-plugin-seo2'
+
 
 export default defineUserConfig({
     base: '/',
@@ -51,7 +53,6 @@ export default defineUserConfig({
         danger: '🔴警告',
     }),
     plugins: [
-        backToTopPlugin(),
         docsearchPlugin({
             apiKey: '2525b098427a1e6609e6f839b9a831b1',
             indexName: 'yuukabot-yunmengdu',
@@ -95,7 +96,16 @@ export default defineUserConfig({
                     },
                 },
             },
-        })
+        }),
+        sitemapPlugin({
+            hostname: 'yuukabot.yunmengdu.cn',
+            excludeUrls: ['/404.html'],
+            sitemapFilename: 'sitemap.xml',
+            changefreq: 'daily',
+        }),
+        seoPlugin({
+            hostname: 'yuukabot.yunmengdu.cn',
+        }),
     ],
 })
 
