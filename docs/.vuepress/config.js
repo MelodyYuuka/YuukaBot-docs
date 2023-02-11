@@ -29,7 +29,7 @@ export default defineUserConfig({
                 link: '/function/',
             },
             {
-                text: 'Q&A',
+                text: 'FAQ',
                 link: '/FAQ/',
             },
             {
