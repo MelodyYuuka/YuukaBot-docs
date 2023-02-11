@@ -3,6 +3,7 @@ import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { sitemapPlugin } from 'vuepress-plugin-sitemap2'
 import { seoPlugin } from 'vuepress-plugin-seo2'
+import { searchConsolePlugin } from 'vuepress-plugin-china-search-console'
 
 
 export default defineUserConfig({
@@ -106,6 +107,10 @@ export default defineUserConfig({
         seoPlugin({
             hostname: 'yuukabot.yunmengdu.cn',
         }),
+        searchConsolePlugin({
+            baiduId: '7a0d3a4e8454cc167b63e7dc1de54488',
+            autoPushBaiduSwitch: true,
+        })
     ],
 })
 
