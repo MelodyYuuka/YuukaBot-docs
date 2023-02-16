@@ -122,6 +122,40 @@
 </table>
 
 
+### Github相关
+
+<table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>owner/repo</td>
+        <td>通过仓库缩写查看 OpenGraph</td>
+    </tr>
+    <tr>
+        <td>github.com/<owner>/<repo></td>
+        <td>通过 GitHub 仓库链接查看 OpenGraph</td>
+    </tr>
+    <tr>
+        <td>github.com/<owner>/<repo>/commit/<hash></td>
+        <td> 通过 GitHub 提交链接查看 OpenGraph</td>
+    </tr>
+    <tr>
+        <td>github.com/<owner>/<repo>/pull/<number>/commits/<hash></td>
+        <td> 通过 GitHub PR 提交链接查看 OpenGraph</td>
+    </tr>
+    <tr>
+        <td>github.com/<owner>/<repo>/releases/tag/<tag></td>
+        <td>通过 GitHub 发布链接查看 OpenGraph</td>
+    </tr>
+</tbody>
+</table>
+
+
 ### 一言
 
 <table>
