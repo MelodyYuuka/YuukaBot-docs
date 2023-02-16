@@ -137,19 +137,19 @@
         <td>通过仓库缩写查看 OpenGraph</td>
     </tr>
     <tr>
-        <td>github.com/<owner>/<repo></td>
+        <td>github.com/&lt;owner&gt;/&lt;repo&gt;</td>
         <td>通过 GitHub 仓库链接查看 OpenGraph</td>
     </tr>
     <tr>
-        <td>github.com/<owner>/<repo>/commit/<hash></td>
+        <td>github.com/&lt;owner&gt;/&lt;repo&gt;/commit/&lt;hash&gt;</td>
         <td> 通过 GitHub 提交链接查看 OpenGraph</td>
     </tr>
     <tr>
-        <td>github.com/<owner>/<repo>/pull/<number>/commits/<hash></td>
+        <td>github.com/&lt;owner&gt;/&lt;repo&gt;/pull/&lt;number&gt;/commits/&lt;hash&gt;</td>
         <td> 通过 GitHub PR 提交链接查看 OpenGraph</td>
     </tr>
     <tr>
-        <td>github.com/<owner>/<repo>/releases/tag/<tag></td>
+        <td>github.com/&lt;owner&gt;/&lt;repo&gt;/releases/tag/&lt;tag&gt;</td>
         <td>通过 GitHub 发布链接查看 OpenGraph</td>
     </tr>
 </tbody>
@@ -334,7 +334,7 @@
         <td>咪咕点歌</td>
     </tr>
     <tr>
-        <td colspan="2">网易云点歌请查看"网易云音乐相关"</td>
+        <td colspan="2">网易云点歌请查看&quot;网易云音乐相关&quot;</td>
     </tr>
 </tbody>
 </table>
