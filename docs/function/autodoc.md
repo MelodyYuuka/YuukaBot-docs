@@ -324,30 +324,6 @@
 </table>
 
 
-### 闹钟提醒
-
-<table>
-<thead>
-    <tr>
-        <th>指令</th>
-        <th>描述</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>*提醒[at想提醒的人][时间]*[消息]</td>
-        <td>提醒</td>
-    </tr>
-    <tr>
-        <td colspan="2">时间最多精确到分</td>
-    </tr>
-    <tr>
-        <td colspan="2">默认在设置该提醒的群提醒</td>
-    </tr>
-</tbody>
-</table>
-
-
 ### 运行代码
 
 <table>
@@ -370,6 +346,47 @@
     </tr>
     <tr>
         <td colspan="2">assembly/ats/bash/c/clojure/cobol/coffeescript/cpp/crystal/csharp/d/elixir/elm/erlang/fsharp/go/groovy/hare/haskell/idris/java/javascript/julia/kotlin/lua/mercury/nim/nix/ocaml/perl/php/python/raku/ruby/rust/sac/scala/swift/typescript/zig</td>
+    </tr>
+</tbody>
+</table>
+
+
+### 群日程提醒
+
+<table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>导入日历[日历文件名]</td>
+        <td>导入群文件内的ics文件，并覆盖原有日程</td>
+    </tr>
+    <tr>
+        <td>展示今日日程</td>
+        <td>展示今日日程</td>
+    </tr>
+    <tr>
+        <td>展示所有日程</td>
+        <td>展示所有日程</td>
+    </tr>
+    <tr>
+        <td>清空日程</td>
+        <td>清空日程</td>
+    </tr>
+    <tr>
+        <td>添加日程[日程名]*[起始时间]</td>
+        <td>添加日程</td>
+    </tr>
+    <tr>
+        <td>删除日程[日程名]</td>
+        <td>删除日程</td>
+    </tr>
+    <tr>
+        <td colspan="2">Tips: 时间格式需要形如 2023/2/15 12:00:00 一般</td>
     </tr>
 </tbody>
 </table>
@@ -415,6 +432,24 @@
     </tr>
     <tr>
         <td colspan="2">（-1~-3为镜像站，-e为源站）</td>
+    </tr>
+</tbody>
+</table>
+
+
+### 影之诗相关
+
+<table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>影之诗搜卡[关键词]</td>
+        <td>影之诗搜卡</td>
     </tr>
 </tbody>
 </table>
@@ -1852,6 +1887,10 @@
     <tr>
         <td>查看所有服务</td>
         <td>查看所有Bot</td>
+    </tr>
+    <tr>
+        <td>恢复服务</td>
+        <td>清除Bot所有异常状态</td>
     </tr>
 </tbody>
 </table>
