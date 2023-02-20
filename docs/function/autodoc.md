@@ -203,6 +203,10 @@
         <td>查看空岛战争数据</td>
     </tr>
     <tr>
+        <td>/hyp mm [游戏名]</td>
+        <td>查看密室杀手数据</td>
+    </tr>
+    <tr>
         <td>/hyp bind [游戏名]</td>
         <td>绑定账号</td>
     </tr>
@@ -1683,7 +1687,7 @@
 </thead>
 <tbody>
     <tr>
-        <td>百科 xxx[停用]</td>
+        <td>百度百科 xxx</td>
         <td>百度百科</td>
     </tr>
     <tr>
@@ -1731,43 +1735,43 @@
         <td>文明VI百科</td>
     </tr>
     <tr>
-        <td>搜THBxxx(*页数)</td>
+        <td>搜百度百科 xxx</td>
+        <td>搜索百度百科</td>
+    </tr>
+    <tr>
+        <td>搜THB xxx(*页数)</td>
         <td>搜索东方百科</td>
     </tr>
     <tr>
-        <td>搜萌娘百科xxx(*页数)</td>
+        <td>搜萌娘百科 xxx(*页数)</td>
         <td>搜萌娘百科</td>
     </tr>
     <tr>
-        <td>搜THB xxx</td>
-        <td>搜索东方百科</td>
-    </tr>
-    <tr>
-        <td>搜Arc百科 xxx</td>
+        <td>搜Arc百科 xxx(*页数)</td>
         <td>搜索Arcaea百科</td>
     </tr>
     <tr>
-        <td>搜羊羊百科 xxx</td>
+        <td>搜羊羊百科 xxx(*页数)</td>
         <td>搜索羊羊百科</td>
     </tr>
     <tr>
-        <td>搜MLP百科 xxx</td>
+        <td>搜MLP百科 xxx(*页数)</td>
         <td>搜索小马宝莉百科</td>
     </tr>
     <tr>
-        <td>搜猫武士百科 xxx</td>
+        <td>搜猫武士百科 xxx(*页数)</td>
         <td>搜索猫武士百科</td>
     </tr>
     <tr>
-        <td>搜泰拉瑞亚百科 xxx</td>
+        <td>搜泰拉瑞亚百科 xxx(*页数)</td>
         <td>搜索泰拉瑞亚百科</td>
     </tr>
     <tr>
-        <td>搜海绵宝宝百科 xxx</td>
+        <td>搜海绵宝宝百科 xxx(*页数)</td>
         <td>搜索海绵宝宝百科</td>
     </tr>
     <tr>
-        <td>搜文明百科 xxx</td>
+        <td>搜文明百科 xxx(*页数)</td>
         <td>搜索文明VI百科</td>
     </tr>
 </tbody>
@@ -1911,8 +1915,8 @@
         <td>更改本群首选Bot服务</td>
     </tr>
     <tr>
-        <td>查看首选服务</td>
-        <td>查看本群当前首选Bot服务</td>
+        <td>查看当前服务</td>
+        <td>查看本群当前Bot服务</td>
     </tr>
     <tr>
         <td>清除首选服务</td>
