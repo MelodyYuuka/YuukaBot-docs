@@ -84,6 +84,25 @@ export const sidebar: SidebarConfig = {
                 '/function/useful/wantwords.md',
                 '/function/useful/weather.md',
                 '/function/useful/shortof.md',
+                '/function/useful/useful.md',
+            ]
+        },
+        {
+            text: "娱乐功能",
+            collapsible: true,
+            children: [
+                '/function/play/asoul.md',
+                '/function/play/char_reverse.md',
+                '/function/play/drama_generator.md',
+                '/function/play/help_choose.md',
+                '/function/play/hitokoto.md',
+                '/function/play/minesweeper.md',
+                '/function/play/poem_writer.md',
+                '/function/play/remake.md',
+                '/function/play/saying.md',
+                '/function/play/shindanmaker.md',
+                '/function/play/today_luck.md',
+                '/function/play/voice.md'
             ]
         },
     ],
