@@ -91,6 +91,7 @@ export const sidebar: SidebarConfig = {
             text: "娱乐功能",
             collapsible: true,
             children: [
+                '/function/play/fantasy.md',
                 '/function/play/asoul.md',
                 '/function/play/char_reverse.md',
                 '/function/play/drama_generator.md',
