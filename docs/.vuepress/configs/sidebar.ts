@@ -60,12 +60,32 @@ export const sidebar: SidebarConfig = {
                 '/function/query/minecraft.md',
                 '/function/query/patchyvideo.md',
                 '/function/query/shadowverse.md',
-                '/function/query/shortof.md',
                 '/function/query/weibo.md',
                 '/function/query/wiki.md',
                 '/function/query/ygo.md'
             ]
-        }
+        },
+        {
+            text: '实用功能',
+            collapsible: true,
+            children: [
+                '/function/useful/60s.md',
+                '/function/useful/chemical.md',
+                '/function/useful/countdown.md',
+                '/function/useful/dice.md',
+                '/function/useful/everyday_en.md',
+                '/function/useful/math.md',
+                '/function/useful/music.md',
+                '/function/useful/netease_plugin.md',
+                '/function/useful/run_code.md',
+                '/function/useful/schedule_reminder.md',
+                '/function/useful/search.md',
+                '/function/useful/translate.md',
+                '/function/useful/wantwords.md',
+                '/function/useful/weather.md',
+                '/function/useful/shortof.md',
+            ]
+        },
     ],
     '/function/autodoc.html': [
         {

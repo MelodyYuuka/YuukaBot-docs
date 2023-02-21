@@ -17,27 +17,40 @@
 :::
 
 
-## 在 QQ 平台如何邀请 Bot？
+## 在 QQ 平台如何邀请 Bot ?
 
 邀请 Bot 进群视为同意遵守 [使用须知](/LICENSE.md)
 
 请前往 [云梦都](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
 
 
-## Why v6 ？
+## Why v6 ?
 
 **YuukaBot** 自 2018 年写下第一行代码以来，陪伴大家欢声笑语。
-为了追求更优异的性能，更方便地更新功能，更好地为大家服务，YuukaBot 于 2021 年末完全重构，从 0 开始编码。
+为了追求更优异的性能，更方便地更新功能，更好地为大家服务，YuukaBot 于 2021 年末完全重构，从 0 开始重新编码。
 
 YuukaBot-v6 相较于 v5 功能更多，交互更简洁，支持多 bot 服务，实现负载均衡，让任一 bot 因 *不可抗力* 而无法继续正常服务时，自动切换其他 bot 继续服务。
 
 
-## YuukaBot-v6 是如何工作的？
+## YuukaBot-v6 是如何工作的 ?
 
 **YuukaBot-v6** 使用 [FastAPI](https://github.com/tiangolo/fastapi) 驱动，基于 Python [asyncio (异步)](https://docs.python.org/3/library/asyncio.html) 编写，为 YuukaBot-v6 的高并发，响应迅速提供了框架基础。
 
 
 ## 完善文档
 
-如果对 [文档](https://github.com/MelodyYuuka/YuukaBot-docs) 有更多补充或建议, 欢迎提 Pull request
+如果对 [文档](https://github.com/MelodyYuuka/YuukaBot-docs) 有更多补充或建议, 欢迎提 issue 或 Pull request
+
+```shell
+git clone https://github.com/MelodyYuuka/YuukaBot-docs
+# 拉取源码
+
+cd YuukaBot-docs
+
+yarn install
+# 安装依赖
+
+yarn docs:dev
+# 开始写作
+```
 

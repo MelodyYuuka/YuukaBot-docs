@@ -18,8 +18,21 @@
 
 ## 完善文档
 
-如果对文档有更多补充或建议, 欢迎提 Pull request
+如果对文档有更多补充或建议, 欢迎提 issue 或 Pull request
 
+
+```shell
+git clone https://github.com/MelodyYuuka/YuukaBot-docs
+# 拉取源码
+
+cd YuukaBot-docs
+
+yarn install
+# 安装依赖
+
+yarn docs:dev
+# 开始写作
+```
 
 
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
