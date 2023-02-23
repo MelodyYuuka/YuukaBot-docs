@@ -18,5 +18,5 @@
 
 
 ::: warning
-文档尚未完善，请暂时前往 → [autodoc](./autodoc.md)
+文档尚未完善，缺失部分请前往 → [autodoc](./autodoc.md)
 :::
