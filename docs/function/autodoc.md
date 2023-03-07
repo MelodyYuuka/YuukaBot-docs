@@ -4,7 +4,6 @@
 本文档为自动生成，可能存在可读性不高的问题，敬请谅解
 :::
 
-
 ## 便民
 
 ### 读懂世界
@@ -24,7 +23,6 @@
 </tbody>
 </table>
 
-
 ### B站相关
 
 <table>
@@ -40,7 +38,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 倒计时相关
 
@@ -67,7 +64,6 @@
 </tbody>
 </table>
 
-
 ### 地震监测
 
 <table>
@@ -84,7 +80,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 每日一句
 
@@ -103,7 +98,6 @@
 </tbody>
 </table>
 
-
 ### 垃圾分类
 
 <table>
@@ -120,7 +114,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### Github相关
 
@@ -155,7 +148,6 @@
 </tbody>
 </table>
 
-
 ### 一言
 
 <table>
@@ -178,7 +170,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### hypixel信息查询
 
@@ -216,7 +207,6 @@
 </tbody>
 </table>
 
-
 ### 识别图片标签
 
 <table>
@@ -233,7 +223,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 通用图像识别相关
 
@@ -280,7 +269,6 @@
 </tbody>
 </table>
 
-
 ### 地图相关
 
 <table>
@@ -309,7 +297,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 点歌相关
 
@@ -343,7 +330,6 @@
 </tbody>
 </table>
 
-
 ### 图片转链接
 
 <table>
@@ -360,7 +346,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 运行代码
 
@@ -388,7 +373,6 @@
 </tbody>
 </table>
 
-
 ### 群日程提醒
 
 <table>
@@ -404,11 +388,15 @@
         <td>导入群文件内的ics文件，并覆盖原有日程</td>
     </tr>
     <tr>
+        <td>展示日程[YYYY/MM/DD]</td>
+        <td>展示指定日期的日程</td>
+    </tr>
+    <tr>
         <td>展示今日日程</td>
         <td>展示今日日程</td>
     </tr>
     <tr>
-        <td>展示所有日程</td>
+        <td>展示所有日程(序号)</td>
         <td>展示所有日程</td>
     </tr>
     <tr>
@@ -428,7 +416,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 搜索相关
 
@@ -474,7 +461,6 @@
 </tbody>
 </table>
 
-
 ### 影之诗相关
 
 <table>
@@ -491,7 +477,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 缩写释义
 
@@ -510,7 +495,6 @@
 </tbody>
 </table>
 
-
 ### 今日运势
 
 <table>
@@ -528,8 +512,48 @@
 </tbody>
 </table>
 
+### 翻译
 
-### 便民服务
+<table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td colspan="2">翻译规范：</td>
+    </tr>
+    <tr>
+        <td>a译b[原文]</td>
+        <td>从a语言翻译为b语言</td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+    </tr>
+    <tr>
+        <td colspan="2">现支持语言：</td>
+    </tr>
+    <tr>
+        <td colspan="2">自→自动检测语言</td>
+    </tr>
+    <tr>
+        <td colspan="2">中 英 粤 文 日 韩 法</td>
+    </tr>
+    <tr>
+        <td colspan="2">西 泰 阿 俄 葡 德 意</td>
+    </tr>
+    <tr>
+        <td colspan="2">希 荷 波 保 爱 丹 芬</td>
+    </tr>
+    <tr>
+        <td colspan="2">捷 罗 斯 瑞 匈 繁 越</td>
+    </tr>
+</tbody>
+</table>
+
+### 其它实用功能
 
 <table>
 <thead>
@@ -582,7 +606,6 @@
 </tbody>
 </table>
 
-
 ### 反向词典
 
 <table>
@@ -612,7 +635,6 @@
 </tbody>
 </table>
 
-
 ### 天气
 
 <table>
@@ -632,7 +654,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 微博功能
 
@@ -655,7 +676,6 @@
 </tbody>
 </table>
 
-
 ### ygo相关
 
 <table>
@@ -672,7 +692,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ## 其它
 
@@ -693,7 +712,6 @@
 </tbody>
 </table>
 
-
 ### 帮助菜单
 
 <table>
@@ -710,7 +728,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 早晚安
 
@@ -737,7 +754,6 @@
 </tbody>
 </table>
 
-
 ### 骰子相关
 
 <table>
@@ -755,7 +771,6 @@
 </tbody>
 </table>
 
-
 ### ping
 
 <table>
@@ -772,7 +787,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ## 听歌
 
@@ -792,7 +806,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ## 图片
 
@@ -853,7 +866,6 @@
 </tbody>
 </table>
 
-
 ### 以图搜图
 
 <table>
@@ -882,7 +894,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 文字-图片生成
 
@@ -951,7 +962,6 @@
 </tbody>
 </table>
 
-
 ### Pixiv功能
 
 <table>
@@ -1012,7 +1022,6 @@
 </tbody>
 </table>
 
-
 ### 随机图相关
 
 <table>
@@ -1028,7 +1037,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 随机东方
 
@@ -1053,7 +1061,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### safebooru相关
 
@@ -1084,106 +1091,6 @@
 </tbody>
 </table>
 
-
-## 图片操作
-
-### 图片-图片生成
-
-<table>
-<thead>
-    <tr>
-        <th>指令</th>
-        <th>描述</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>头像生成[序号]</td>
-        <td>生成头像</td>
-    </tr>
-    <tr>
-        <td colspan="2">当前序号有1-7</td>
-    </tr>
-    <tr>
-        <td>恰个</td>
-        <td>生成恰人图</td>
-    </tr>
-    <tr>
-        <td>摸个</td>
-        <td>生成摸人图</td>
-    </tr>
-    <tr>
-        <td>扔个</td>
-        <td>生成扔人图</td>
-    </tr>
-    <tr>
-        <td>精神支柱</td>
-        <td>精神支柱图</td>
-    </tr>
-    <tr>
-        <td>意见如下</td>
-        <td>生成意见如下图</td>
-    </tr>
-    <tr>
-        <td>要我一直</td>
-        <td>生成要我一直吗图</td>
-    </tr>
-    <tr>
-        <td>zun举牌</td>
-        <td>生成zun举牌图</td>
-    </tr>
-    <tr>
-        <td>zun拿牌</td>
-        <td>生成zun拿牌图</td>
-    </tr>
-    <tr>
-        <td>无法加载</td>
-        <td>生成无法加载图</td>
-    </tr>
-    <tr>
-        <td>膜拜</td>
-        <td>生成膜拜图</td>
-    </tr>
-    <tr>
-        <td>回去干活</td>
-        <td>生成回去干活图</td>
-    </tr>
-    <tr>
-        <td>完美的东西</td>
-        <td>生成完美东西图</td>
-    </tr>
-    <tr>
-        <td>像样的亲亲</td>
-        <td>生成像样亲亲图</td>
-    </tr>
-    <tr>
-        <td>结婚登记</td>
-        <td>生成结婚登记图</td>
-    </tr>
-    <tr>
-        <td>你可能需要</td>
-        <td>生成可能需要图</td>
-    </tr>
-    <tr>
-        <td>捂脸</td>
-        <td>生成捂脸图</td>
-    </tr>
-    <tr>
-        <td>顶个</td>
-        <td>生成顶球图</td>
-    </tr>
-    <tr>
-        <td>打拳</td>
-        <td>生成打拳图</td>
-    </tr>
-    <tr>
-        <td>别被拐了</td>
-        <td>生成别被拐了图</td>
-    </tr>
-</tbody>
-</table>
-
-
 ## 娱乐
 
 ### Asoul相关
@@ -1207,7 +1114,6 @@
 </tbody>
 </table>
 
-
 ### 字符反转
 
 <table>
@@ -1224,7 +1130,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 烂剧制造
 
@@ -1243,7 +1148,6 @@
 </tbody>
 </table>
 
-
 ### 幻想系统
 
 <table>
@@ -1260,7 +1164,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 帮你选择
 
@@ -1279,6 +1182,21 @@
 </tbody>
 </table>
 
+### 表情包制作
+
+<table>
+<thead>
+    <tr>
+        <th>指令</th>
+        <th>描述</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td colspan="2">/要我一直，/精神支柱，/头像生成[1-7]，/恰个，/无法加载，/意见如下，/摸个，/扔个，/zun举牌，/zun拿牌，/膜拜，/回去干活，/完美的东西，/像样的亲亲，/结婚登记，/你可能需要，/捂脸，/顶个，/打拳，/别被拐了</td>
+    </tr>
+</tbody>
+</table>
 
 ### mc相关
 
@@ -1296,7 +1214,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 诗词相关
 
@@ -1319,7 +1236,6 @@
 </tbody>
 </table>
 
-
 ### 人生重开模拟器
 
 <table>
@@ -1336,7 +1252,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 语录相关
 
@@ -1395,8 +1310,7 @@
 </tbody>
 </table>
 
-
-### 生成器系统
+### 人设生成器系统
 
 <table>
 <thead>
@@ -1461,7 +1375,6 @@
 </tbody>
 </table>
 
-
 ### 车万生草机
 
 <table>
@@ -1479,7 +1392,6 @@
 </tbody>
 </table>
 
-
 ### 东方新闻
 
 <table>
@@ -1496,7 +1408,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 东方问答
 
@@ -1535,7 +1446,6 @@
 </tbody>
 </table>
 
-
 ### 语音功能
 
 <table>
@@ -1568,7 +1478,6 @@
 </tbody>
 </table>
 
-
 ## 学习
 
 ### 化学工具
@@ -1587,7 +1496,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 数学工具
 
@@ -1646,7 +1554,6 @@
 </tbody>
 </table>
 
-
 ## 游戏
 
 ### 扫雷
@@ -1672,7 +1579,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ## 百科
 
@@ -1777,7 +1683,6 @@
 </tbody>
 </table>
 
-
 ## 管理
 
 ### 管理操作
@@ -1796,7 +1701,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 封禁
 
@@ -1823,7 +1727,6 @@
 </tbody>
 </table>
 
-
 ### 群状态管理
 
 <table>
@@ -1844,7 +1747,6 @@
     </tr>
 </tbody>
 </table>
-
 
 ### 好友|邀请请求处理
 
@@ -1899,7 +1801,6 @@
 </tbody>
 </table>
 
-
 ### 负载均衡
 
 <table>
@@ -1926,13 +1827,8 @@
         <td>查看所有服务</td>
         <td>查看所有Bot</td>
     </tr>
-    <tr>
-        <td>恢复服务</td>
-        <td>清除Bot所有异常状态</td>
-    </tr>
 </tbody>
 </table>
-
 
 ### 功能管理
 
@@ -1979,7 +1875,6 @@
 </tbody>
 </table>
 
-
 ### 任务/被动功能管理
 
 <table>
@@ -2009,7 +1904,6 @@
 </tbody>
 </table>
 
-
 ### 用户互动操作
 
 <table>
@@ -2030,49 +1924,3 @@
     </tr>
 </tbody>
 </table>
-
-
-## 翻译
-
-### 翻译
-
-<table>
-<thead>
-    <tr>
-        <th>指令</th>
-        <th>描述</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td colspan="2">翻译规范：</td>
-    </tr>
-    <tr>
-        <td>a译b[原文]</td>
-        <td>从a语言翻译为b语言</td>
-    </tr>
-    <tr>
-        <td colspan="2"></td>
-    </tr>
-    <tr>
-        <td colspan="2">现支持语言：</td>
-    </tr>
-    <tr>
-        <td colspan="2">自→自动检测语言</td>
-    </tr>
-    <tr>
-        <td colspan="2">中 英 粤 文 日 韩 法</td>
-    </tr>
-    <tr>
-        <td colspan="2">西 泰 阿 俄 葡 德 意</td>
-    </tr>
-    <tr>
-        <td colspan="2">希 荷 波 保 爱 丹 芬</td>
-    </tr>
-    <tr>
-        <td colspan="2">捷 罗 斯 瑞 匈 繁 越</td>
-    </tr>
-</tbody>
-</table>
-
-
