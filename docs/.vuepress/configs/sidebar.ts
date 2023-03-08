@@ -38,8 +38,7 @@ export const sidebar: SidebarConfig = {
             children: [
                 '/function/img_function/pixiv_plugin.md',
                 '/function/img_function/img_search.md',
-                '/function/img_function/img_maker.md',
-                '/function/img_function/img_writer.md',
+                '/function/img_function/img_meme.md',
                 '/function/img_function/img_recognition.md',
                 '/function/img_function/img_deeper.md',
                 '/function/img_function/img_editor.md',
