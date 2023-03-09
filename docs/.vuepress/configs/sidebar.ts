@@ -120,8 +120,11 @@ export const sidebar: SidebarConfig = {
     ],
     '/about': [
         {
-            text: '更多',
-            link: '/about/',
+            text: '贡献指南',
+            collapsible: true,
+            children: [
+                '/about/contribute/docs.html'
+            ]
         }
     ],
 }

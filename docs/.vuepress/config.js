@@ -6,6 +6,8 @@ import { seoPlugin } from 'vuepress-plugin-seo2'
 import { searchConsolePlugin } from 'vuepress-plugin-china-search-console'
 import { sidebar } from './configs/sidebar'
 import { navbar } from './configs/navbar'
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
+import { copyCodePlugin } from "vuepress-plugin-copy-code2";
 
 
 export default defineUserConfig({
@@ -35,16 +37,13 @@ export default defineUserConfig({
         docsDir: 'docs',
         editLinkPattern: ':repo/edit/:branch/:path',
         lastUpdatedText: '上次更新',
-        tip: '🟢提示',
-        warning: '🟡注意',
-        danger: '🔴警告',
-        
+
     }),
     markdown: {
         extendMarkdown: md => {
             // 使用更多的 markdown-it 插件!
-            
-          }
+
+        }
     },
     plugins: [
         docsearchPlugin({
@@ -103,6 +102,13 @@ export default defineUserConfig({
         searchConsolePlugin({
             baiduId: '7a0d3a4e8454cc167b63e7dc1de54488',
             autoPushBaiduSwitch: true,
+        }),
+        mdEnhancePlugin({
+            // 启用自定义容器
+            container: true,
+        }),
+        copyCodePlugin({
+            
         })
     ],
 })

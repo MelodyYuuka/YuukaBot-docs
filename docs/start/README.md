@@ -47,3 +47,7 @@ yarn install
 yarn docs:dev
 # 开始写作
 ```
+
+:::tip
+更多可见 [文档贡献指南](../../about/contribute/docs.md)
+:::
