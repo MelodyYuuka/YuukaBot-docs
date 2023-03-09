@@ -30,7 +30,7 @@ export default defineUserConfig({
         backToHome: "回到主页",
         repo: 'MelodyYuuka/YuukaBot-docs',
         repoLabel: '文档仓库',
-        editLinkText: '在 GitHub 上编辑此页',
+        editLinkText: '编辑此页面',
         docsBranch: 'main',
         docsDir: 'docs',
         editLinkPattern: ':repo/edit/:branch/:path',
@@ -38,7 +38,14 @@ export default defineUserConfig({
         tip: '🟢提示',
         warning: '🟡注意',
         danger: '🔴警告',
+        
     }),
+    markdown: {
+        extendMarkdown: md => {
+            // 使用更多的 markdown-it 插件!
+            
+          }
+    },
     plugins: [
         docsearchPlugin({
             apiKey: '2525b098427a1e6609e6f839b9a831b1',

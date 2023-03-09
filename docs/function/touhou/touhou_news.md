@@ -4,7 +4,9 @@
 
 通过 [東方よもやまニュース](https://touhou-project.news) 获取的最新东方新闻并推送给用户。
 
-该功能已注册**推送服务**，详见 [服务管理](../admin/task_manager.md)
+:::tip
+该功能已注册 **推送服务**，详见 [服务管理](../admin/task_manager.md)
+:::
 
 ## 指令
 

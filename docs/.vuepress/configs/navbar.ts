@@ -15,6 +15,10 @@ export const navbar: NavbarConfig = [
         link: '/FAQ/',
     },
     {
+        text: '更多',
+        link: '/about/',
+    },
+    {
         text: '群组',
         link: 'https://jq.qq.com/?_wv=1027&k=fV5yn9GQ',
     },

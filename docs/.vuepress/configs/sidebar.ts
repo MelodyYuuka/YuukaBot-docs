@@ -10,11 +10,11 @@ export const sidebar: SidebarConfig = {
     ],
     '/function': [
         {
-            text: '概览',
+            text: '🍥概览',
             link: '/function',
         },
         {
-            text: '管理功能',
+            text: '🛠️管理功能',
             collapsible: true,
             children: [
                 '/function/admin/plugin_manager.md',
@@ -23,7 +23,7 @@ export const sidebar: SidebarConfig = {
             ]
         },
         {
-            text: '东方相关',
+            text: '☯️东方相关',
             collapsible: true,
             children: [
                 '/function/touhou/touhou_quiz.md',
@@ -33,7 +33,7 @@ export const sidebar: SidebarConfig = {
             ]
         },
         {
-            text: '图片功能',
+            text: '🎨图片功能',
             collapsible: true,
             children: [
                 '/function/img_function/pixiv_plugin.md',
@@ -47,7 +47,7 @@ export const sidebar: SidebarConfig = {
             ]
         },
         {
-            text: '查询数据',
+            text: '🔍查询数据',
             collapsible: true,
             children: [
                 '/function/query/bilibili.md',
@@ -65,7 +65,7 @@ export const sidebar: SidebarConfig = {
             ]
         },
         {
-            text: '实用功能',
+            text: '🌐实用功能',
             collapsible: true,
             children: [
                 '/function/useful/60s.md',
@@ -75,7 +75,7 @@ export const sidebar: SidebarConfig = {
                 '/function/useful/everyday_en.md',
                 '/function/useful/math.md',
                 '/function/useful/music.md',
-                '/function/useful/netease_plugin.md',
+                '/function/useful/ncm_plugin.md',
                 '/function/useful/run_code.md',
                 '/function/useful/schedule_reminder.md',
                 '/function/useful/search.md',
@@ -87,7 +87,7 @@ export const sidebar: SidebarConfig = {
             ]
         },
         {
-            text: "娱乐功能",
+            text: "🎈娱乐功能",
             collapsible: true,
             children: [
                 '/function/play/fantasy.md',
@@ -117,5 +117,11 @@ export const sidebar: SidebarConfig = {
             text: 'FAQ',
             link: '/FAQ/',
         }
-    ]
+    ],
+    '/about': [
+        {
+            text: '更多',
+            link: '/about/',
+        }
+    ],
 }

@@ -35,7 +35,7 @@ YuukaBot-v6 相较于 v5 功能更多，交互更简洁，支持多 bot 服务�
 
 如果对 [文档](https://github.com/MelodyYuuka/YuukaBot-docs) 有更多补充或建议, 欢迎提 issue 或 Pull request
 
-```shell
+```shell:no-line-numbers
 git clone https://github.com/MelodyYuuka/YuukaBot-docs
 # 拉取源码
 
