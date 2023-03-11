@@ -18,7 +18,7 @@
 
 使用、邀请 Bot 进群视为同意遵守 [**使用须知**](/about/instructions.md)
 
-### 在 QQ 平台邀请
+### QQ 平台
 
 请前往 [云梦都](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
 

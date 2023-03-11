@@ -46,6 +46,7 @@ export default defineUserConfig({
             indexName: 'yuukabot-yunmengdu',
             appId: '5UHRJG3CUA',
             placeholder: '搜索文档',
+            toggleColorMode: '切换颜色模式',
             translations: {
                 button: {
                     buttonText: '搜索文档',
