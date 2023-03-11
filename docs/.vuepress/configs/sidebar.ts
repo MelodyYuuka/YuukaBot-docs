@@ -20,6 +20,8 @@ export const sidebar: SidebarConfig = {
                 '/function/admin/plugin_manager.md',
                 '/function/admin/task_manager.md',
                 '/function/admin/load_balance.md',
+                '/function/admin/invite_request.md',
+                '/function/admin/user_interaction.md',
             ]
         },
         {

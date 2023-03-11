@@ -1,0 +1,1 @@
+export { yuukabotTheme } from "./theme"

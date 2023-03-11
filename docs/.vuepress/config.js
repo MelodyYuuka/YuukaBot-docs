@@ -8,6 +8,7 @@ import { sidebar } from './configs/sidebar'
 import { navbar } from './configs/navbar'
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+import { yuukabotTheme } from './theme'
 
 
 export default defineUserConfig({
@@ -21,7 +22,7 @@ export default defineUserConfig({
             'link', { rel: 'icon', href: '/images/logo.webp' }
         ],
     ],
-    theme: defaultTheme({
+    theme: yuukabotTheme({
         logo: '/images/logo.webp',
         navbar: navbar,
         sidebar: sidebar,
@@ -32,19 +33,13 @@ export default defineUserConfig({
         backToHome: "回到主页",
         repo: 'MelodyYuuka/YuukaBot-docs',
         repoLabel: '文档仓库',
-        editLinkText: '编辑此页面',
+        editLinkText: '在 GitHub 上编辑此页',
         docsBranch: 'main',
         docsDir: 'docs',
         editLinkPattern: ':repo/edit/:branch/:path',
         lastUpdatedText: '上次更新',
 
     }),
-    markdown: {
-        extendMarkdown: md => {
-            // 使用更多的 markdown-it 插件!
-
-        }
-    },
     plugins: [
         docsearchPlugin({
             apiKey: '2525b098427a1e6609e6f839b9a831b1',
