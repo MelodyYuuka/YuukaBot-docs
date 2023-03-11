@@ -22,6 +22,7 @@ export const sidebar: SidebarConfig = {
                 '/function/admin/load_balance.md',
                 '/function/admin/invite_request.md',
                 '/function/admin/user_interaction.md',
+                '/function/admin/group_manager.md',
             ]
         },
         {
