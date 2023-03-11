@@ -123,11 +123,19 @@ export const sidebar: SidebarConfig = {
     ],
     '/about': [
         {
+            text: '关于',
+            collapsible: false,
+            children: [
+                '/about/instructions.html',
+                '/about/about.html'
+            ]
+        },
+        {
             text: '贡献指南',
-            collapsible: true,
+            collapsible: false,
             children: [
                 '/about/contribute/docs.html'
             ]
-        }
+        },
     ],
 }
