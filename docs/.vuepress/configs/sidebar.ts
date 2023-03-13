@@ -137,5 +137,10 @@ export const sidebar: SidebarConfig = {
                 '/about/contribute/docs.html'
             ]
         },
+        {
+            text: '术语表',
+            collapsible: false,
+            link: '/about/glossary.html',
+        },
     ],
 }

@@ -102,6 +102,7 @@ export default defineUserConfig({
         mdEnhancePlugin({
             // 启用自定义容器
             container: true,
+            imgSize: true,
         }),
         copyCodePlugin({
             
