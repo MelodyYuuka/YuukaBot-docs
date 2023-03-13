@@ -1,0 +1,1 @@
+import{_ as i,p as t,q as a,R as e,t as l}from"./framework-cdd531e6.js";const c={},r=e("h1",{id:"bilibili-功能",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bilibili-功能","aria-hidden":"true"},"#"),l(" bilibili 功能")],-1),s=[r];function o(n,_){return t(),a("div",null,s)}const b=i(c,[["render",o],["__file","bilibili.html.vue"]]);export{b as default};

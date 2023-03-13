@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as c}from"./framework-cdd531e6.js";const r={},o=e("h1",{id:"其它实用功能",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#其它实用功能","aria-hidden":"true"},"#"),c(" 其它实用功能")],-1),n=[o];function _(d,l){return a(),s("div",null,n)}const f=t(r,[["render",_],["__file","useful.html.vue"]]);export{f as default};

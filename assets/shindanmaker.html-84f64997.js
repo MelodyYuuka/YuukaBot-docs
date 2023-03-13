@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as n,R as e,t as r}from"./framework-cdd531e6.js";const s={},c=e("h1",{id:"人设生成器系统",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#人设生成器系统","aria-hidden":"true"},"#"),r(" 人设生成器系统")],-1),o=[c];function _(d,i){return t(),n("div",null,o)}const l=a(s,[["render",_],["__file","shindanmaker.html.vue"]]);export{l as default};

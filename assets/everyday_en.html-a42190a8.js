@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as c}from"./framework-cdd531e6.js";const n={},s=e("h1",{id:"每日一句",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#每日一句","aria-hidden":"true"},"#"),c(" 每日一句")],-1),_=[s];function o(d,i){return a(),r("div",null,_)}const l=t(n,[["render",o],["__file","everyday_en.html.vue"]]);export{l as default};

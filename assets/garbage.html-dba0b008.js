@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as r,R as e,t as c}from"./framework-cdd531e6.js";const s={},o=e("h1",{id:"垃圾分类",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#垃圾分类","aria-hidden":"true"},"#"),c(" 垃圾分类")],-1),n=[o];function _(d,i){return t(),r("div",null,n)}const l=a(s,[["render",_],["__file","garbage.html.vue"]]);export{l as default};

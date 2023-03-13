@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as c}from"./framework-cdd531e6.js";const r={},o=e("h1",{id:"读懂世界",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#读懂世界","aria-hidden":"true"},"#"),c(" 读懂世界")],-1),_=[o];function n(d,i){return a(),s("div",null,_)}const l=t(r,[["render",n],["__file","60s.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as a,R as e,t as c}from"./framework-cdd531e6.js";const n={},r=e("h1",{id:"倒计时相关",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#倒计时相关","aria-hidden":"true"},"#"),c(" 倒计时相关")],-1),s=[r];function _(d,i){return o(),a("div",null,s)}const l=t(n,[["render",_],["__file","countdown.html.vue"]]);export{l as default};

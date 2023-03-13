@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as o,R as e,t as c}from"./framework-cdd531e6.js";const r={},s=e("h1",{id:"游戏王相关",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#游戏王相关","aria-hidden":"true"},"#"),c(" 游戏王相关")],-1),n=[s];function _(d,i){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","ygo.html.vue"]]);export{l as default};

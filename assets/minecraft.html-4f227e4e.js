@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as r}from"./framework-cdd531e6.js";const n={},s=e("h1",{id:"minecraft-功能",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#minecraft-功能","aria-hidden":"true"},"#"),r(" Minecraft 功能")],-1),o=[s];function i(_,d){return a(),c("div",null,o)}const h=t(n,[["render",i],["__file","minecraft.html.vue"]]);export{h as default};

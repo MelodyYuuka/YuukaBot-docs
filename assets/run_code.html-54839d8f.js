@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as r}from"./framework-cdd531e6.js";const o={},n=e("h1",{id:"运行代码",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#运行代码","aria-hidden":"true"},"#"),r(" 运行代码")],-1),s=[n];function _(d,i){return a(),c("div",null,s)}const l=t(o,[["render",_],["__file","run_code.html.vue"]]);export{l as default};

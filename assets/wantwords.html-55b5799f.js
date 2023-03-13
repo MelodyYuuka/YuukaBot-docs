@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as s}from"./framework-cdd531e6.js";const o={},c=e("h1",{id:"反向词典",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#反向词典","aria-hidden":"true"},"#"),s(" 反向词典")],-1),n=[c];function _(d,i){return a(),r("div",null,n)}const l=t(o,[["render",_],["__file","wantwords.html.vue"]]);export{l as default};

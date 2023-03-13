@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as r}from"./framework-cdd531e6.js";const s={},o=e("h1",{id:"百科相关",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#百科相关","aria-hidden":"true"},"#"),r(" 百科相关")],-1),n=[o];function _(i,d){return a(),c("div",null,n)}const l=t(s,[["render",_],["__file","wiki.html.vue"]]);export{l as default};

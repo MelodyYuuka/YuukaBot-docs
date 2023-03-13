@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as r,R as e,t as o}from"./framework-cdd531e6.js";const c={},n=e("h1",{id:"烂剧制造",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#烂剧制造","aria-hidden":"true"},"#"),o(" 烂剧制造")],-1),s=[n];function _(d,i){return t(),r("div",null,s)}const l=a(c,[["render",_],["__file","drama_generator.html.vue"]]);export{l as default};

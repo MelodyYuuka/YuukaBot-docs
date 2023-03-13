@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as r}from"./framework-cdd531e6.js";const s={},o=e("h1",{id:"hypixel-查询",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hypixel-查询","aria-hidden":"true"},"#"),r(" Hypixel 查询")],-1),i=[o];function n(_,l){return a(),c("div",null,i)}const d=t(s,[["render",n],["__file","hypixel.html.vue"]]);export{d as default};

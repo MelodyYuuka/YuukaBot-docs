@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as n}from"./framework-cdd531e6.js";const r={},s=e("h1",{id:"网易云音乐功能",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#网易云音乐功能","aria-hidden":"true"},"#"),n(" 网易云音乐功能")],-1),_=[s];function o(d,i){return a(),c("div",null,_)}const h=t(r,[["render",o],["__file","ncm_plugin.html.vue"]]);export{h as default};

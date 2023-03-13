@@ -1,0 +1,1 @@
+import{_ as a,p as s,q as t,R as e,t as o}from"./framework-cdd531e6.js";const c={},r=e("h1",{id:"asoul-相关",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#asoul-相关","aria-hidden":"true"},"#"),o(" Asoul 相关")],-1),n=[r];function _(l,d){return s(),t("div",null,n)}const u=a(c,[["render",_],["__file","asoul.html.vue"]]);export{u as default};

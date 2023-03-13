@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as a,R as e,t as c}from"./framework-cdd531e6.js";const r={},s=e("h1",{id:"一言",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#一言","aria-hidden":"true"},"#"),c(" 一言")],-1),n=[s];function _(d,i){return o(),a("div",null,n)}const l=t(r,[["render",_],["__file","hitokoto.html.vue"]]);export{l as default};

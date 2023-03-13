@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as s}from"./framework-cdd531e6.js";const c={},n=e("h1",{id:"翻译",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#翻译","aria-hidden":"true"},"#"),s(" 翻译")],-1),o=[n];function _(d,l){return a(),r("div",null,o)}const h=t(c,[["render",_],["__file","translate.html.vue"]]);export{h as default};

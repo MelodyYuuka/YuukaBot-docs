@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as o}from"./framework-cdd531e6.js";const r={},s=e("h1",{id:"今日运势",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#今日运势","aria-hidden":"true"},"#"),o(" 今日运势")],-1),_=[s];function n(d,l){return a(),c("div",null,_)}const h=t(r,[["render",n],["__file","today_luck.html.vue"]]);export{h as default};

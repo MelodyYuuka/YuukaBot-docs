@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as r}from"./framework-cdd531e6.js";const s={},o=e("h1",{id:"化学工具",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#化学工具","aria-hidden":"true"},"#"),r(" 化学工具")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const l=t(s,[["render",_],["__file","chemical.html.vue"]]);export{l as default};

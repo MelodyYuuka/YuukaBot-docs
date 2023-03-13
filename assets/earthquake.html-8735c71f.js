@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as c}from"./framework-cdd531e6.js";const s={},o=e("h1",{id:"地震监测",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#地震监测","aria-hidden":"true"},"#"),c(" 地震监测")],-1),n=[o];function _(d,h){return a(),r("div",null,n)}const l=t(s,[["render",_],["__file","earthquake.html.vue"]]);export{l as default};

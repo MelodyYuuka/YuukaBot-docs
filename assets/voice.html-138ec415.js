@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as o}from"./framework-cdd531e6.js";const r={},s=e("h1",{id:"语音相关",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#语音相关","aria-hidden":"true"},"#"),o(" 语音相关")],-1),n=[s];function _(d,i){return a(),c("div",null,n)}const l=t(r,[["render",_],["__file","voice.html.vue"]]);export{l as default};

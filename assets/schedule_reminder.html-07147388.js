@@ -1,0 +1,1 @@
+import{_ as t,p as r,q as a,R as e,t as c}from"./framework-cdd531e6.js";const s={},n=e("h1",{id:"日程提醒",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#日程提醒","aria-hidden":"true"},"#"),c(" 日程提醒")],-1),_=[n];function d(o,i){return r(),a("div",null,_)}const l=t(s,[["render",d],["__file","schedule_reminder.html.vue"]]);export{l as default};

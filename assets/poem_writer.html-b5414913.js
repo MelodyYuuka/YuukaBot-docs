@@ -1,0 +1,1 @@
+import{_ as t,p as r,q as a,R as e,t as o}from"./framework-cdd531e6.js";const c={},s=e("h1",{id:"诗词相关",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#诗词相关","aria-hidden":"true"},"#"),o(" 诗词相关")],-1),_=[s];function n(d,i){return r(),a("div",null,_)}const l=t(c,[["render",n],["__file","poem_writer.html.vue"]]);export{l as default};

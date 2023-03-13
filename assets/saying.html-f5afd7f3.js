@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as c}from"./framework-cdd531e6.js";const n={},r=e("h1",{id:"语录相关",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#语录相关","aria-hidden":"true"},"#"),c(" 语录相关")],-1),o=[r];function _(d,i){return a(),s("div",null,o)}const l=t(n,[["render",_],["__file","saying.html.vue"]]);export{l as default};

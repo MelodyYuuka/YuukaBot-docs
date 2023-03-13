@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as s}from"./framework-cdd531e6.js";const r={},o=e("h1",{id:"点歌相关",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#点歌相关","aria-hidden":"true"},"#"),s(" 点歌相关")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const l=t(r,[["render",_],["__file","music.html.vue"]]);export{l as default};
