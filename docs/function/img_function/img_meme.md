@@ -56,6 +56,6 @@
 |喜报|![喜报](/images/memes/喜报.webp =200x)|文本×1|
 |悲报|![悲报](/images/memes/悲报.webp =200x)|文本×1|
 |悄悄话|![悄悄话](/images/memes/悄悄话.webp =200x)|文本×1|
-|艺术签名|![艺术签名](/images/memes/艺术签名.webp =200x)|文本×1|
-|金龙盘旋|![金龙盘旋](/images/memes/金龙盘旋.gif =200x)|文本×2|
-|金龙飞升|![金龙飞升](/images/memes/金龙飞升.gif =200x)|文本×2|
+|艺术签名|![艺术签名](/images/memes/艺术签名.webp =200x)|文本×1~2|
+|金龙盘旋|![金龙盘旋](/images/memes/金龙盘旋.gif =200x)|文本×3|
+|金龙飞升|![金龙飞升](/images/memes/金龙飞升.gif =200x)|文本×3|
