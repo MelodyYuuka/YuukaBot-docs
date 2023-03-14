@@ -39,14 +39,14 @@ export const sidebar: SidebarConfig = {
             text: '🎨图片功能',
             collapsible: true,
             children: [
-                '/function/img_function/pixiv_plugin.md',
-                '/function/img_function/img_search.md',
-                '/function/img_function/img_meme.md',
-                '/function/img_function/img_recognition.md',
-                '/function/img_function/img_deeper.md',
-                '/function/img_function/img_editor.md',
-                '/function/img_function/safebooru.md',
-                '/function/img_function/pic_to_url.md',
+                '/function/img/pixiv_plugin.md',
+                '/function/img/img_search.md',
+                '/function/img/img_meme.md',
+                '/function/img/img_recognition.md',
+                '/function/img/img_deeper.md',
+                '/function/img/img_editor.md',
+                '/function/img/safebooru.md',
+                '/function/img/pic_to_url.md',
             ]
         },
         {
