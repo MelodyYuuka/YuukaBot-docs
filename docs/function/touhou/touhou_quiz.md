@@ -8,7 +8,7 @@
 
 - 参数：
 
-  - `范围名`：可选，可用 [**查看原曲范围列表**](/function/touhou/touhou_quiz.md#查看原曲范围列表) 获取
+  - `范围名`：可选参数，可用 [**查看原曲范围列表**](/function/touhou/touhou_quiz.md#查看原曲范围列表) 获取
 
 ### 设置原曲范围 <Badge type="tip" text="群管或群主" vertical="top" />
 

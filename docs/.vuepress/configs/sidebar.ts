@@ -126,8 +126,8 @@ export const sidebar: SidebarConfig = {
             text: '关于',
             collapsible: false,
             children: [
+                '/about/about.html',
                 '/about/instructions.html',
-                '/about/about.html'
             ]
         },
         {
