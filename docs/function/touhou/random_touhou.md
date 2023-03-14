@@ -21,5 +21,5 @@
   - `随机东方-w:renko`： 表示获取随机的竖屏莲子图
 
 :::tip
-另有不同图库来源的 [随机东方图](/function/img_function/safebooru.html#随机东方图)
+另有不同图库来源的 [随机东方图](/function/img/safebooru.html#随机东方图)
 :::
