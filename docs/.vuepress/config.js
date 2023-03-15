@@ -103,6 +103,7 @@ export default defineUserConfig({
             // 启用自定义容器
             container: true,
             imgSize: true,
+            katex: true,
         }),
         copyCodePlugin({
             
