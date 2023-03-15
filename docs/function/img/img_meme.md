@@ -50,12 +50,12 @@
 |ph生成|![ph生成](/images/memes/ph生成.webp =200x)|文本×2|
 |yt生成|![yt生成](/images/memes/yt生成.webp =200x)|文本×2|
 |Google生成|![Google生成](/images/memes/Google生成.webp =200x)|文本×1|
-|5000生成|![5000生成](/images/memes/5000生成.webp =200x)|文本×2|
+|5000生成|![5000生成](/images/memes/5000生成.webp =200x)|文本×2，不支持 emoji|
 |诺基亚生成|![诺基亚生成](/images/memes/诺基亚生成.webp =200x)|文本×1|
-|奥利奥生成|![奥利奥生成](/images/memes/奥利奥生成.webp =200x)|文本×1|
+|奥利奥生成|![奥利奥生成](/images/memes/奥利奥生成.webp =200x)|文本×1<br>文本内仅允许有"奥"、"利"二字<br>如 `奥利奥生成奥利奥利奥利奥利奥`|
 |喜报|![喜报](/images/memes/喜报.webp =200x)|文本×1|
 |悲报|![悲报](/images/memes/悲报.webp =200x)|文本×1|
 |悄悄话|![悄悄话](/images/memes/悄悄话.webp =200x)|文本×1|
-|艺术签名|![艺术签名](/images/memes/艺术签名.webp =200x)|文本×1~2|
-|金龙盘旋|![金龙盘旋](/images/memes/金龙盘旋.gif =200x)|文本×3|
-|金龙飞升|![金龙飞升](/images/memes/金龙飞升.gif =200x)|文本×3|
+|艺术签名|![艺术签名](/images/memes/艺术签名.webp =200x)|文本×1~2，不支持 emoji|
+|金龙盘旋|![金龙盘旋](/images/memes/金龙盘旋.gif =200x)|文本×3，不支持 emoji|
+|金龙飞升|![金龙飞升](/images/memes/金龙飞升.gif =200x)|文本×3，不支持 emoji|
