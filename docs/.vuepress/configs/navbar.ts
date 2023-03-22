@@ -16,7 +16,7 @@ export const navbar: NavbarConfig = [
     },
     {
         text: '更多',
-        link: '/about/about.html',
+        link: '/about/',
     },
     {
         text: '群组',

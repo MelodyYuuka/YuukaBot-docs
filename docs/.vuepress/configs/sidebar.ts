@@ -105,7 +105,8 @@ export const sidebar: SidebarConfig = {
                 '/function/play/saying.md',
                 '/function/play/shindanmaker.md',
                 '/function/play/today_luck.md',
-                '/function/play/voice.md'
+                '/function/play/voice.md',
+                '/function/play/tarot.md',
             ]
         },
     ],
@@ -126,7 +127,7 @@ export const sidebar: SidebarConfig = {
             text: '关于',
             collapsible: false,
             children: [
-                '/about/about.html',
+                '/about/',
                 '/about/instructions.html',
             ]
         },
