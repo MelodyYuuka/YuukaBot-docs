@@ -24,7 +24,7 @@ next: /function/
 
 ## 使用
 
-YuukaBot 采用指令式响应，支持通过指令前加 [艾特](../about/glossary.md#艾特) 来指定服务 Bot。详见 [指令](../function/) 部分
+YuukaBot 采用指令-参数式交互，支持通过指令前加 [艾特](../about/glossary.md#艾特) 来指定服务 Bot。详见 [指令](../function/) 部分
 
 ## 完善文档
 
