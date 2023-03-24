@@ -1,3 +1,7 @@
+---
+next: /function/
+---
+
 # 开始
 
 里吼阿，初次见面，请多指教！
@@ -10,10 +14,6 @@
 
 [![badge](https://github.com/MelodyYuuka/YuukaBot-docs/workflows/docs/badge.svg)](https://github.com/MelodyYuuka/YuukaBot-docs)
 
-::: warning
-文档目前还在施工中
-:::
-
 ## 邀请
 
 使用、邀请 Bot 进群视为同意遵守 [**使用须知**](/about/instructions.md)
@@ -22,7 +22,15 @@
 
 请前往 [云梦都](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
 
+## 使用
+
+YuukaBot 采用指令式响应，支持通过指令前加 [艾特](../about/glossary.md#艾特) 来指定服务 Bot。详见 [指令](../function/) 部分
+
 ## 完善文档
+
+:::info
+文档可能有缺漏或不够完善之处，欢迎各位同好贡献
+:::
 
 如果对 [文档](https://github.com/MelodyYuuka/YuukaBot-docs) 有更多补充或建议, 欢迎提 [issue](https://github.com/MelodyYuuka/YuukaBot-docs/issues) 或 [Pull request](https://github.com/MelodyYuuka/YuukaBot-docs/pulls)
 
