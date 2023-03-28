@@ -29,7 +29,7 @@ YuukaBot 采用指令-参数式交互，支持通过指令前加 [艾特](../abo
 ## 完善文档
 
 :::info
-文档可能有缺漏或不够完善之处，欢迎各位同好贡献
+文档可能有缺漏或不够完善之处，欢迎各位同好帮助完善文档
 :::
 
 如果对 [文档](https://github.com/MelodyYuuka/YuukaBot-docs) 有更多补充或建议, 欢迎提 [issue](https://github.com/MelodyYuuka/YuukaBot-docs/issues) 或 [Pull request](https://github.com/MelodyYuuka/YuukaBot-docs/pulls)
