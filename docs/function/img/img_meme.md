@@ -58,6 +58,6 @@
 |喜报|![喜报](/images/memes/喜报.webp =200x)|文本×1|
 |悲报|![悲报](/images/memes/悲报.webp =200x)|文本×1|
 |悄悄话|![悄悄话](/images/memes/悄悄话.webp =200x)|文本×1|
-|艺术签名|![艺术签名](/images/memes/艺术签名.webp =200x)|文本×1~2，不支持 emoji|
+|艺术签名|![艺术签名](/images/memes/艺术签名.webp =200x)|文本×1~2，不支持 emoji<br>文本 1 为签名内容<br>文本 2 为签名字体<br>支持字体：<br>``艺术、连笔、商务、楷书、潇洒``<br>``草体、行书、个性、可爱``|
 |金龙盘旋|![金龙盘旋](/images/memes/金龙盘旋.webp =200x)|文本×3，不支持 emoji|
 |金龙飞升|![金龙飞升](/images/memes/金龙飞升.webp =200x)|文本×3，不支持 emoji|
