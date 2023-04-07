@@ -20,11 +20,15 @@ next: /function/
 
 ### QQ 平台
 
-请前往 [云梦都](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
+请前往 [**云梦都**](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
+
+### Kook
+
+尚处于内测状态，暂不开放
 
 ## 使用
 
-YuukaBot 采用指令-参数式交互，支持通过指令前加 [艾特](../about/glossary.md#艾特) 来指定服务 Bot。详见 [指令](../function/) 部分
+YuukaBot 采用指令-参数式交互，支持通过指令前加 [**艾特**](../about/glossary.md#艾特) 来指定服务 Bot。详见 [**指令**](../function/) 部分
 
 ## 完善文档
 
