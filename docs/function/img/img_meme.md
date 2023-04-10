@@ -50,6 +50,7 @@
 |波奇拿画|![波奇拿画](/images/memes/波奇手稿.webp =200x)|图片×1|
 |烧香|![烧香](/images/memes/烧香.webp =200x)|图片×1|
 |钻出垃圾桶|![钻出垃圾桶](/images/memes/钻出垃圾桶.webp =200x)|图片×1|
+|挠头|![挠头](/images/memes/挠头.webp =200x)|图片×1|
 |ph生成|![ph生成](/images/memes/ph生成.webp =200x)|文本×2|
 |yt生成|![yt生成](/images/memes/yt生成.webp =200x)|文本×2|
 |Google生成|![Google生成](/images/memes/Google生成.webp =200x)|文本×1|
