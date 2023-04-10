@@ -33,6 +33,7 @@ export const sidebar: SidebarConfig = {
                 '/function/touhou/touhou_grass.md',
                 '/function/touhou/touhou_news.md',
                 '/function/touhou/random_touhou.md',
+                '/function/touhou/touhou_doujin.md',
             ]
         },
         {
