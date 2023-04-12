@@ -23,6 +23,7 @@ export const sidebar: SidebarConfig = {
                 '/function/admin/invite_request.md',
                 '/function/admin/user_interaction.md',
                 '/function/admin/group_manager.md',
+                '/function/admin/group_action.md',
             ]
         },
         {
