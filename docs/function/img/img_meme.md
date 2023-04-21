@@ -53,6 +53,8 @@
 |钻出垃圾桶|![钻出垃圾桶](/images/memes/钻出垃圾桶.webp =200x)|图片×1|
 |挠头|![挠头](/images/memes/挠头.webp =200x)|图片×1|
 |搓个|![搓个](/images/memes/搓个.webp =200x)|图片×1|
+|吸个|![吸个](/images/memes/吸个.webp =200x)|图片×1|
+|可达鸭|![可达鸭](/images/memes/可达鸭.webp =200x)|文本×2|
 |ph生成|![ph生成](/images/memes/ph生成.webp =200x)|文本×2|
 |yt生成|![yt生成](/images/memes/yt生成.webp =200x)|文本×2|
 |Google生成|![Google生成](/images/memes/Google生成.webp =200x)|文本×1|
