@@ -48,6 +48,7 @@
 |打拳|![打拳](/images/memes/打拳.webp =200x)|图片×1|
 |别被拐了|![别被拐了](/images/memes/别被拐了.webp =200x)|图片×1|
 |波奇拿画|![波奇拿画](/images/memes/波奇手稿.webp =200x)|图片×1|
+|追火车|![追火车](/images/memes/追火车.webp =200x)|图片×1|
 |烧香|![烧香](/images/memes/烧香.webp =200x)|图片×1|
 |钻出垃圾桶|![钻出垃圾桶](/images/memes/钻出垃圾桶.webp =200x)|图片×1|
 |挠头|![挠头](/images/memes/挠头.webp =200x)|图片×1|
