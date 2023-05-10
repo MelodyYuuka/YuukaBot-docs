@@ -56,6 +56,7 @@
 |吸个|![吸个](/images/memes/吸个.webp =200x)|图片×1|
 |亲亲|![亲亲](/images/memes/亲亲.webp =200x)|图片×1~2<br>图片×1 时会将使用者头像作为参数|
 |来玩游戏|![来玩游戏](/images/memes/来玩游戏.webp =200x)|图片×1<br>文本可选，默认为 `来玩休闲游戏啊`|
+|为什么艾特我/为什么@我|![为什么艾特我](/images/memes/为什么艾特我.webp =200x)|图片×1|
 |可达鸭|![可达鸭](/images/memes/可达鸭.webp =200x)|文本×2|
 |ph生成|![ph生成](/images/memes/ph生成.webp =200x)|文本×2|
 |yt生成|![yt生成](/images/memes/yt生成.webp =200x)|文本×2|
