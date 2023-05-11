@@ -27,11 +27,11 @@
 
 |指令|演示|所需参数|
 |---|----|-------|
-|要我一直|![要我一直](/images/memes/要我一直.webp =200x)|图片×1|
+|要我一直|![要我一直](/images/memes/要我一直.webp =200x)|图片×1，支持GIF|
 |精神支柱|![精神支柱](/images/memes/精神支柱.webp =200x)|图片×1|
 |头像生成|![头像生成](/images/memes/头像生成.webp =200x)|头像生成[1-7] + 图片×1|
 |恰个|![恰个](/images/memes/恰个.webp =200x)|图片×1|
-|无法加载|![无法加载](/images/memes/无法加载.webp =200x)|图片×1|
+|无法加载|![无法加载](/images/memes/无法加载.webp =200x)|图片×1，支持GIF|
 |意见如下|![意见如下](/images/memes/意见如下.webp =200x)|图片×1|
 |摸个|![摸个](/images/memes/摸个.webp =200x)|图片×1|
 |扔个|![扔个](/images/memes/扔个.webp =200x)|图片×1|
@@ -55,7 +55,8 @@
 |搓个|![搓个](/images/memes/搓个.webp =200x)|图片×1|
 |吸个|![吸个](/images/memes/吸个.webp =200x)|图片×1|
 |亲亲|![亲亲](/images/memes/亲亲.webp =200x)|图片×1~2<br>图片×1 时会将使用者头像作为参数|
-|来玩游戏|![来玩游戏](/images/memes/来玩游戏.webp =200x)|图片×1<br>文本可选，默认为 `来玩休闲游戏啊`|
+|来玩游戏|![来玩游戏](/images/memes/来玩游戏.webp =200x)|图片×1，支持GIF<br>文本可选，默认为 `来玩休闲游戏啊`|
+|阿尼亚喜欢|![阿尼亚喜欢](/images/memes/阿尼亚喜欢.webp =200x)|图片×1，支持GIF<br>文本可选，默认为 `阿尼亚喜欢这个`|
 |为什么艾特我/为什么@我|![为什么艾特我](/images/memes/为什么艾特我.webp =200x)|图片×1|
 |可达鸭|![可达鸭](/images/memes/可达鸭.webp =200x)|文本×2|
 |ph生成|![ph生成](/images/memes/ph生成.webp =200x)|文本×2|
