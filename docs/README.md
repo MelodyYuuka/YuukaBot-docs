@@ -7,7 +7,7 @@ actions:
   - text: 开始使用
     link: /start/
     type: primary
-  - text: 帮助文档
+  - text: 指令文档
     link: /function/
     type: secondary
 features:
