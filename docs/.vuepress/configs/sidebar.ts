@@ -24,6 +24,7 @@ export const sidebar: SidebarConfig = {
                 '/function/admin/user_interaction.md',
                 '/function/admin/group_manager.md',
                 '/function/admin/group_action.md',
+                '/function/admin/event_limit.md',
             ]
         },
         {
