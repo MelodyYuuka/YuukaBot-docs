@@ -89,6 +89,7 @@ export const sidebar: SidebarConfig = {
                 '/function/useful/wantwords.md',
                 '/function/useful/weather.md',
                 '/function/useful/shortof.md',
+                '/function/useful/wordcloud.md',
                 '/function/useful/useful.md',
             ]
         },
