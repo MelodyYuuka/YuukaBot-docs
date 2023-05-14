@@ -45,6 +45,7 @@
 |你可能需要|![你可能需要](/images/memes/你可能需要.webp =200x)|图片×1|
 |捂脸|![捂脸](/images/memes/捂脸.webp =200x)|图片×1|
 |顶个|![顶个](/images/memes/顶个.webp =200x)|图片×1|
+|锤个|![锤个](/images/memes/锤个.webp =200x)|图片×1|
 |打拳|![打拳](/images/memes/打拳.webp =200x)|图片×1|
 |别被拐了|![别被拐了](/images/memes/别被拐了.webp =200x)|图片×1|
 |波奇拿画|![波奇拿画](/images/memes/波奇手稿.webp =200x)|图片×1|
