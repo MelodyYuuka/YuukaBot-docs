@@ -91,6 +91,7 @@ export const sidebar: SidebarConfig = {
                 '/function/useful/shortof.md',
                 '/function/useful/wordcloud.md',
                 '/function/useful/exchange_rate.md',
+                '/function/useful/aminer.md',
                 '/function/useful/useful.md',
             ]
         },
