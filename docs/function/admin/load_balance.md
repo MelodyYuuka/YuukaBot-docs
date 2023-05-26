@@ -23,6 +23,17 @@ YuukaBot-v6 的 **负载均衡** 功能实现了一个后端连接多个 Bot 服
 
   更改本群首选 Bot 服务
 
+### 更改当前服务 <Badge type="tip" text="群管或群主" vertical="top" />
+
+- 指令： `更改当前服务[bot_id]`
+
+- 参数：
+  - `bot_id`： 你所需要的 Bot 账号
+
+- 详情：
+
+  更改本群当前的 Bot 服务
+
 ### 清除首选服务 <Badge type="tip" text="群管或群主" vertical="top" />
 
 - 指令： `清除首选服务`
