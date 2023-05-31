@@ -56,6 +56,7 @@
 |挠头|![挠头](/images/memes/挠头.webp =200x)|图片×1|
 |搓个|![搓个](/images/memes/搓个.webp =200x)|图片×1|
 |吸个|![吸个](/images/memes/吸个.webp =200x)|图片×1|
+|敲个|![敲个](/images/memes/敲个.webp =200x)|图片×1|
 |亲个|![亲个](/images/memes/亲个.webp =200x)|图片×1~2<br>图片×1 时会将使用者头像作为参数|
 |来玩游戏|![来玩游戏](/images/memes/来玩游戏.webp =200x)|图片×1，支持GIF<br>文本可选，默认为 `来玩休闲游戏啊`|
 |阿尼亚喜欢|![阿尼亚喜欢](/images/memes/阿尼亚喜欢.webp =200x)|图片×1，支持GIF<br>文本可选，默认为 `阿尼亚喜欢这个`|
