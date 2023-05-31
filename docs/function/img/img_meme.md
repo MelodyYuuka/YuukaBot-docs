@@ -47,6 +47,7 @@
 |顶个|![顶个](/images/memes/顶个.webp =200x)|图片×1|
 |锤个|![锤个](/images/memes/锤个.webp =200x)|图片×1|
 |打拳|![打拳](/images/memes/打拳.webp =200x)|图片×1|
+|鼓个掌|![鼓个掌](/images/memes/鼓个掌.webp =200x)|图片×1|
 |别被拐了|![别被拐了](/images/memes/别被拐了.webp =200x)|图片×1|
 |波奇拿画|![波奇拿画](/images/memes/波奇手稿.webp =200x)|图片×1|
 |追火车|![追火车](/images/memes/追火车.webp =200x)|图片×1|
@@ -58,6 +59,7 @@
 |亲个|![亲个](/images/memes/亲个.webp =200x)|图片×1~2<br>图片×1 时会将使用者头像作为参数|
 |来玩游戏|![来玩游戏](/images/memes/来玩游戏.webp =200x)|图片×1，支持GIF<br>文本可选，默认为 `来玩休闲游戏啊`|
 |阿尼亚喜欢|![阿尼亚喜欢](/images/memes/阿尼亚喜欢.webp =200x)|图片×1，支持GIF<br>文本可选，默认为 `阿尼亚喜欢这个`|
+|让\[名字\]告诉你吧|![让xx告诉你吧](/images/memes/让xx告诉你吧.webp =200x)|关键词内参数×1，图片×1<br>如 `让恋恋告诉你吧` + 图片|
 |为什么艾特我/为什么@我|![为什么艾特我](/images/memes/为什么艾特我.webp =200x)|图片×1|
 |可达鸭|![可达鸭](/images/memes/可达鸭.webp =200x)|文本×2|
 |ph生成|![ph生成](/images/memes/ph生成.webp =200x)|文本×2|
