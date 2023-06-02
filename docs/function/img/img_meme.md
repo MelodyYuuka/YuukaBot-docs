@@ -54,6 +54,7 @@
 |烧香|![烧香](/images/memes/烧香.webp =200x)|图片×1|
 |钻出垃圾桶|![钻出垃圾桶](/images/memes/钻出垃圾桶.webp =200x)|图片×1|
 |挠头|![挠头](/images/memes/挠头.webp =200x)|图片×1|
+|永远爱你|![永远爱你](/images/memes/永远爱你.webp =200x)|图片×1|
 |搓个|![搓个](/images/memes/搓个.webp =200x)|图片×1|
 |吸个|![吸个](/images/memes/吸个.webp =200x)|图片×1|
 |敲个|![敲个](/images/memes/敲个.webp =200x)|图片×1|
@@ -74,6 +75,7 @@
 |悄悄话|![悄悄话](/images/memes/悄悄话.webp =200x)|文本×1|
 |哦不爆炸|![哦不爆炸](/images/memes/哦不爆炸.webp =200x)|文本×2|
 |盔甲破防|![盔甲破防](/images/memes/盔甲破防.webp =200x)|文本×1|
+|早苗喊|![早苗喊](/images/memes/早苗喊.webp =200x)|文本×1|
 |艺术签名|![艺术签名](/images/memes/艺术签名.webp =200x)|文本×1~2，不支持 emoji<br>文本 1 为签名内容<br>文本 2 为签名字体<br>支持字体：<br>``艺术、连笔、商务、楷书、潇洒``<br>``草体、行书、个性、可爱``|
 |金龙盘旋|![金龙盘旋](/images/memes/金龙盘旋.webp =200x)|文本×3，不支持 emoji|
 |金龙飞升|![金龙飞升](/images/memes/金龙飞升.webp =200x)|文本×3，不支持 emoji|
