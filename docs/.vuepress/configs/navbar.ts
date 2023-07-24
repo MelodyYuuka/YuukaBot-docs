@@ -20,6 +20,10 @@ export const navbar: NavbarConfig = [
     },
     {
         text: '群组',
-        link: 'https://jq.qq.com/?_wv=1027&k=fV5yn9GQ',
+        children: [
+            {'text': 'QQ群', 'link': 'https://jq.qq.com/?_wv=1027&k=fV5yn9GQ'},
+            {'text': 'Kook', 'link': 'https://kook.top/4wZDH7'},
+            {'text': 'QQ 频道', 'link': 'https://pd.qq.com/s/5iyaamyir'},
+        ]
     },
 ]
