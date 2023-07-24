@@ -24,6 +24,10 @@ next: /function/
 
 ### Kook
 
+正在测试开发，功能不完整，可前往 [**Dreamer云梦都**](https://kook.top/4wZDH7) 围观开发进度
+
+### QQ 频道
+
 尚处于内测状态，暂不开放
 
 ## 使用
