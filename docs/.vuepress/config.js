@@ -8,6 +8,7 @@ import { sidebar } from './configs/sidebar'
 import { navbar } from './configs/navbar'
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+import AnchorRight from './plugins/anchor-right';
 import { yuukabotTheme } from './theme'
 
 
@@ -104,10 +105,13 @@ export default defineUserConfig({
             container: true,
             imgSize: true,
             katex: true,
+            card: true,
+            tabs: true,
         }),
         copyCodePlugin({
-            
-        })
+
+        }),
+        [AnchorRight()],
     ],
 })
 

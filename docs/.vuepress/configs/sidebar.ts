@@ -149,5 +149,15 @@ export const sidebar: SidebarConfig = {
             collapsible: false,
             link: '/about/glossary.html',
         },
+        {
+            text: 'Bot 列表',
+            collapsible: false,
+            link: '/about/botlist.html',
+        },
+        {
+            text: '赞助',
+            collapsible: false,
+            link: '/about/sponsor.html',
+        },
     ],
 }
