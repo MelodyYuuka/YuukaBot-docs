@@ -25,6 +25,8 @@ export const sidebar: SidebarConfig = {
                 '/function/admin/group_manager.md',
                 '/function/admin/group_action.md',
                 '/function/admin/event_limit.md',
+                '/function/admin/platform.md',
+                '/function/admin/follow_delete.md',
             ]
         },
         {
