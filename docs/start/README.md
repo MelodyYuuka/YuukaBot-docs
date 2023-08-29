@@ -24,11 +24,11 @@ next: /function/
 
 ### Kook
 
-正在测试开发，功能不完整，可前往 [**Dreamer云梦都** (Kook频道)](https://kook.top/4wZDH7) 围观开发进度
+开发中，功能基本完整，可前往 [**Dreamer云梦都** (Kook频道)](https://kook.top/4wZDH7) 围观开发进度
 
 ### QQ 频道
 
-即将开放测试，可前往 [**Dreamer云梦都** (QQ频道)](https://pd.qq.com/s/5iyaamyir) 围观
+开发中，功能基本完整，可前往 [**Dreamer云梦都** (QQ频道)](https://pd.qq.com/s/5iyaamyir) 围观开发进度
 
 ## 使用
 
