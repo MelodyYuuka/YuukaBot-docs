@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD041 -->
 <p align='center'>
     <a herf=''>
         <img src='./docs/.vuepress/public/images/logo.webp' width='250px' height='250px' akt='YuukaBot'>
@@ -8,9 +9,16 @@
 
 # YuukaBot 帮助文档
 
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable-next-line MD036 -->
 **高性能の跨平台Bot**
+<!-- prettier-ignore-end -->
 
 ![docs](https://github.com/MelodyYuuka/YuukaBot-docs/workflows/docs/badge.svg)
+<br/>
+[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-618356332-orange?style=flat-square)](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ)
+[![QQ频道](https://img.shields.io/badge/QQ%E9%A2%91%E9%81%93-Dreamer云梦都-5492ff?style=flat-square)](https://pd.qq.com/s/5iyaamyir)
+[![KOOK](https://img.shields.io/badge/KOOK-Dreamer云梦都-007ec6?style=flat-square)](https://kook.top/4wZDH7)
 
 </div>
 
