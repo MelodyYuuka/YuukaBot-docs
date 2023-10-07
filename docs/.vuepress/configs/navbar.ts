@@ -19,6 +19,10 @@ export const navbar: NavbarConfig = [
         link: '/about/',
     },
     {
+        text: '更新日志',
+        link: '/changelog/next.md'
+    },
+    {
         text: '群组',
         children: [
             {'text': 'QQ群', 'link': 'https://jq.qq.com/?_wv=1027&k=fV5yn9GQ'},

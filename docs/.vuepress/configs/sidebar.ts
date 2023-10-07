@@ -163,4 +163,14 @@ export const sidebar: SidebarConfig = {
             link: '/about/sponsor.html',
         },
     ],
+    '/changelog': [
+        {
+            text: '更新日志',
+            collapsible: false,
+            children: [
+                '/changelog/next.html',
+                '/changelog/v6.7.0.html'
+            ]
+        },
+    ]
 }
