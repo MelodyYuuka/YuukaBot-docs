@@ -115,6 +115,7 @@ export const sidebar: SidebarConfig = {
                 '/function/play/today_luck.md',
                 '/function/play/voice.md',
                 '/function/play/tarot.md',
+                '/function/play/random.md',
             ]
         },
     ],
