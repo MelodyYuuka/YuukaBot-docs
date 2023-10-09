@@ -9,7 +9,7 @@
 ### 2023-10-09
 
 - 更新 [语音功能](../function/play/voice.md) (`宁宁说`, `爱瑠说`, `芳乃说`, `茉子说`, `丛雨说`, `小春说`, `七海说`)
-- 因为 [东方新作](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%85%BD%E7%8E%8B%E5%9B%AD) 的原因，更新 [东方问答](../function/touhou/touhou_quiz.md) 知识问答部分
+- 因为 [东方新作](https://thwiki.cc/%E4%B8%9C%E6%96%B9%E5%85%BD%E7%8E%8B%E5%9B%AD) 的原因，更新 [东方问答](../function/touhou/touhou_quiz.md) 知识问答部分题目
 - 更新 [表情包制作](../function/img/img_meme.md) (`紧抓不放`, `沙沙想`)
 
 ### 2023-10-07
