@@ -169,7 +169,16 @@ export const sidebar: SidebarConfig = {
             collapsible: false,
             children: [
                 '/changelog/next.html',
-                '/changelog/v6.7.0.html'
+                '/changelog/v6.7.0.html',
+                '/changelog/v6.6.0.html',
+                '/changelog/v6.5.0.html',
+                '/changelog/v6.4.0.html',
+                '/changelog/v6.3.0.html',
+                '/changelog/v6.2.0.html',
+                '/changelog/v6.1.0.html',
+                '/changelog/v6.0.0.html',
+                '/changelog/v6.0.0-rc4.html',
+                '/changelog/v6.0.0-rc3.html',
             ]
         },
     ]
