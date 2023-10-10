@@ -14,7 +14,7 @@
 
 ### 2023-10-07
 
-- 更新 [随机词条生成器](../function/play/random.md) (`随机玩stg`, `随机合约stg`)
+- 新增 [随机词条生成器](../function/play/random.md) (`随机玩stg`, `随机合约stg`)
 
 ### 2023-10-06
 
