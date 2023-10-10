@@ -15,12 +15,12 @@ export const navbar: NavbarConfig = [
         link: '/FAQ/',
     },
     {
-        text: '更多',
-        link: '/about/',
-    },
-    {
         text: '更新日志',
         link: '/changelog/next.md'
+    },
+    {
+        text: '更多',
+        link: '/about/',
     },
     {
         text: '群组',
