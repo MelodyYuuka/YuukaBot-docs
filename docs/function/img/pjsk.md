@@ -51,3 +51,12 @@ Tips:
 
 - 使用示例：
   - /pjsk 香草泥 -i 233
+
+    ![233](/images/pjsk/pjsk233.webp)
+  - /pjsk 我怎么有十根手指 -i 123
+
+    ![123](/images/pjsk/pjsk123.webp)
+
+:::warning
+QQ 平台因未知原因，发送 png 图片均会转换成 jpg 图片而丢失透明层，如需获得最佳体验请移步 `KOOK` 或 `QQ频道`
+:::
