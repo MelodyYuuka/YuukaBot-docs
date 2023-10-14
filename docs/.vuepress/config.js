@@ -107,6 +107,7 @@ export default defineUserConfig({
             katex: true,
             card: true,
             tabs: true,
+            align: true,
         }),
         copyCodePlugin({
 

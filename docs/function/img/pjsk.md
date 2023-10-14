@@ -18,7 +18,7 @@
 
 - 帮助菜单： `/pjsk -h`
 
-```bash
+```bash:no-line-numbers
 用法: /pjsk [-i ID] [-h] [-x X] [-y Y] [-r ROTATE] [-s SIZE] [-c FONT_COLOR]
             [-W STROKE_WIDTH] [-C STROKE_COLOR] [-S LINE_SPACING]
             [text ...]

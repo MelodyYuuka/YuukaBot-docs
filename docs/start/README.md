@@ -40,13 +40,17 @@ YuukaBot 采用指令-参数式交互，支持通过指令前加 [**艾特**](..
 文档可能有缺漏或不够完善之处，欢迎各位同好帮助完善文档
 :::
 
+:::center
+
 ```card
 title: YuukaBot-docs
 desc: YuukaBot 帮助文档仓库
 logo: /images/logo.webp
 link: https://github.com/MelodyYuuka/YuukaBot-docs
-color: rgba(200, 90, 200, 0.15)
+color: rgba(62, 175, 124, 0.15)
 ```
+
+:::
 
 如果对 [文档](https://github.com/MelodyYuuka/YuukaBot-docs) 有更多补充或建议, 欢迎提 [issue](https://github.com/MelodyYuuka/YuukaBot-docs/issues) 或 [Pull request](https://github.com/MelodyYuuka/YuukaBot-docs/pulls)
 
