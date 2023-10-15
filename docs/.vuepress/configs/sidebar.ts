@@ -179,6 +179,9 @@ export const sidebar: SidebarConfig = {
                 '/changelog/v6.0.0.html',
                 '/changelog/v6.0.0-rc4.html',
                 '/changelog/v6.0.0-rc3.html',
+                '/changelog/v6.0.0-rc2.html',
+                '/changelog/v6.0.0-rc1.html',
+                '/changelog/v6.0.0-beta23.html',
             ]
         },
     ]
