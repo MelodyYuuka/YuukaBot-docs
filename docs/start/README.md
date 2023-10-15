@@ -68,5 +68,5 @@ yarn docs:dev
 ```
 
 :::tip
-更多可见 [文档贡献指南](../../about/contribute/docs.md)
+更多可见 [文档贡献指南](../about/contribute/docs.md)
 :::
