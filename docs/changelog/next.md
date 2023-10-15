@@ -6,6 +6,10 @@
 
 ## 更新时间线
 
+### 2023-10-15
+
+- 更新 [表情包制作](../function/img/img_meme.md) (`balogo`)
+
 ### 2023-10-13
 
 - 新增 [pjsk 表情包生成器](../function/img/pjsk.md)

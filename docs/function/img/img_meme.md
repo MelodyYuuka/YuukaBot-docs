@@ -65,7 +65,7 @@
 |来玩游戏|![来玩游戏](/images/memes/来玩游戏.webp =200x)|图片×1，支持GIF<br>文本可选，默认为 `来玩休闲游戏啊`|
 |阿尼亚喜欢|![阿尼亚喜欢](/images/memes/阿尼亚喜欢.webp =200x)|图片×1，支持GIF<br>文本可选，默认为 `阿尼亚喜欢这个`|
 |让\[名字\]告诉你吧<br><br>让\[名字\]告诉你吧(-他/她/TA/它)|![让xx告诉你吧](/images/memes/让xx告诉你吧.webp =200x)|关键词内参数×1~2，图片×1<br>关键词内参数：<br>前者必填，为名字<br>后者可选，为人称代词，默认`她`<br>如 `让恋恋告诉你吧` + 图片<br>如 `让zun告诉你吧-他` + 图片|
-|为什么艾特我/为什么@我|![为什么艾特我](/images/memes/为什么艾特我.webp =200x)|图片×1|
+|为什么艾特我<br>为什么@我|![为什么艾特我](/images/memes/为什么艾特我.webp =200x)|图片×1|
 |可达鸭|![可达鸭](/images/memes/可达鸭.webp =200x)|文本×2|
 |ph生成|![ph生成](/images/memes/ph生成.webp =200x)|文本×2|
 |yt生成|![yt生成](/images/memes/yt生成.webp =200x)|文本×2|
@@ -89,3 +89,4 @@
 |拍个瓜|![拍个瓜](/images/memes/拍个瓜.webp =200x)|图片×1|
 |紧抓不放|![紧抓不放](/images/memes/紧抓不放.webp =200x)|图片×1|
 |沙沙想|![沙沙想](/images/memes/沙沙想.webp =200x)|图片×1|
+|balogo<br>碧蓝档案logo<br>蔚蓝档案logo|![balogo](/images/memes/balogo.webp =200x)|文本×2|
