@@ -6,6 +6,11 @@
 
 ## 更新时间线
 
+### 2023-10-19
+
+- 修复 [ascii以图搜图](../function/img/img_search.md#ascii以图搜图) 在某些特定情况下不返回正确信息的问题
+- 修复 [天气](../function/useful/weather.md)：现在在数据源缺失部分信息的极端情况下，也可以正常返回信息
+
 ### 2023-10-15
 
 - 更新 [表情包制作](../function/img/img_meme.md) (`balogo`)
