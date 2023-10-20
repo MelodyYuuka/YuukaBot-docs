@@ -16,7 +16,7 @@ export default defineUserConfig({
     base: '/',
     lang: 'zh-CN',
     host: '0.0.0.0',
-    title: 'YuukaBot 帮助文档',
+    title: 'YuukaBot-v6 帮助文档',
     description: '高性能の跨平台Bot',
     head: [
         [
