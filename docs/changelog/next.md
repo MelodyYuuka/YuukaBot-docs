@@ -6,6 +6,13 @@
 
 ## 更新时间线
 
+### 2023-10-21
+
+- 新增 [AI 聊天](../function/useful/chatai.md) （测试）
+- 修改部分 Bot 称谓
+- 修复 [表情包制作](../function/img/img_meme.md) (`balogo`)：修复了在输入为空的情况下，不能正常输出图片的问题
+- 修复 [百度以图搜图](../function/img/img_search.md#百度以图搜图)：百度删除了匹配度属性
+
 ### 2023-10-19
 
 - 修复 [ascii以图搜图](../function/img/img_search.md#ascii以图搜图) 在某些特定情况下不返回正确信息的问题
