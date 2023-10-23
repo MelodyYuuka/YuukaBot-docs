@@ -95,6 +95,7 @@ export const sidebar: SidebarConfig = {
                 '/function/useful/exchange_rate.md',
                 '/function/useful/aminer.md',
                 '/function/useful/useful.md',
+                '/function/useful/chatai.md',
             ]
         },
         {
@@ -104,7 +105,6 @@ export const sidebar: SidebarConfig = {
                 '/function/play/fantasy.md',
                 '/function/play/asoul.md',
                 '/function/play/char_reverse.md',
-                '/function/play/drama_generator.md',
                 '/function/play/help_choose.md',
                 '/function/play/hitokoto.md',
                 '/function/play/minesweeper.md',
