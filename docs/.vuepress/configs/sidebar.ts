@@ -11,7 +11,7 @@ export const sidebar: SidebarConfig = {
     '/function': [
         {
             text: '🍥概览',
-            link: '/function',
+            link: '/function/',
         },
         {
             text: '🛠️管理功能',

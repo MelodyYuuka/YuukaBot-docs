@@ -6,6 +6,11 @@
 
 ## 更新时间线
 
+### 2023-10-25
+
+- 修复因优化导致的 [词云](../function/useful/wordcloud.md) 无法显示的问题
+- 优化 [AI 聊天](../function/useful/chatai.md) （测试）：添加三种模型
+
 ### 2023-10-24
 
 - 修复 在 `QQ频道` 平台下，[表情包制作](../function/img/img_meme.md)无法正确识别图片的问题
