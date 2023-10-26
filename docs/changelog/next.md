@@ -6,6 +6,11 @@
 
 ## 更新时间线
 
+### 2023-10-26
+
+- 修复 [网易云音乐功能](../function/useful/ncm_plugin.md)：更新到最新版网易云接口
+- 优化 [AI 聊天](../function/useful/chatai.md) （测试）：添加 gpt3.5
+
 ### 2023-10-25
 
 - 修复因优化导致的 [词云](../function/useful/wordcloud.md) 无法显示的问题
