@@ -9,6 +9,8 @@
 ### 2023-11-01
 
 - 更新 [诗词相关](../function/play/poem_writer.md)：优化并添加更多藏句子的姿势
+- 重构 [跨平台服务](../function/admin/platform.md)：现在支持同平台绑定多个账户
+- 修复 [百度百科](../function/query/wiki.md)：修复在某些极端情况下，无法返回的问题
 
 ### 2023-10-26
 
