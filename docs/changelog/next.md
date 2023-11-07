@@ -6,6 +6,10 @@
 
 ## 更新时间线
 
+### 2023-11-07
+
+- 优化 [词云](../function/useful/wordcloud.md) 的生成速度
+
 ### 2023-11-01
 
 - 更新 [诗词相关](../function/play/poem_writer.md)：优化并添加更多藏句子的姿势
