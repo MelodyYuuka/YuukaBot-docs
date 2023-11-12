@@ -51,7 +51,7 @@ export const sidebar: SidebarConfig = {
                 '/function/img/img_deeper.md',
                 '/function/img/img_editor.md',
                 '/function/img/safebooru.md',
-                '/function/img/pic_to_url.md',
+                '/function/img/img2url.md',
             ]
         },
         {
