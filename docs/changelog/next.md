@@ -9,6 +9,8 @@
 ### 2023-11-17
 
 - 新增 [RGB色图生成器](../function/img/rgb.md)
+- 更新 [表情包制作](../function/img/img_meme.md)：`虹夏举牌` 取消反光蒙版
+- 更新 [表情包制作](../function/img/img_meme.md)：弃用提醒改为图片形式
 
 ### 2023-11-16
 
