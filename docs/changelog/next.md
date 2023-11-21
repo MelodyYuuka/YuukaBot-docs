@@ -6,6 +6,12 @@
 
 ## 更新时间线
 
+### 2023-11-21
+
+- 更新 [东方问答](../function/touhou/touhou_quiz.md) 知识问答部分题目
+- 由于 tx 的问题，暂时关闭自动推送 [东方新闻](../function/touhou/touhou_news.md)
+- 更新 [读懂世界](../function/useful/60s.md)：现在支持多平台服务
+
 ### 2023-11-17
 
 - 新增 [RGB色图生成器](../function/img/rgb.md)
