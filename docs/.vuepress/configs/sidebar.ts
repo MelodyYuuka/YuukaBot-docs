@@ -53,6 +53,7 @@ export const sidebar: SidebarConfig = {
                 '/function/img/safebooru.md',
                 '/function/img/img2url.md',
                 '/function/img/pjsk.md',
+                '/function/img/rgb.md',
             ]
         },
         {
