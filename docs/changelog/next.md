@@ -10,6 +10,7 @@
 
 - 支持官方群 bot 的语音发送
 - 更新 [网易云音乐功能](../function/useful/ncm_plugin.md)：支持多平台
+- 更新 [点歌相关](../function/useful/music.md)：支持多平台，修复酷我点歌
 
 ### 2023-11-28
 
