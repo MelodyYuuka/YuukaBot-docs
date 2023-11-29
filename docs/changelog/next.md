@@ -9,6 +9,7 @@
 ### 2023-11-29
 
 - 支持官方群 bot 的语音发送
+- 更新 [网易云音乐功能](../function/useful/ncm_plugin.md)：支持多平台
 
 ### 2023-11-28
 
@@ -20,8 +21,8 @@
 
 ### 2023-11-26
 
-- 修复 [东方新闻] 推送
-- 修复 [读懂世界] 推送
+- 修复 [东方新闻](../function/touhou/touhou_news.md) 推送
+- 修复 [读懂世界](../function/useful/60s.md) 推送
 - 优化 [AI 聊天](../function/useful/chatai.md)：限制历史记录长度
 
 ### 2023-11-22
