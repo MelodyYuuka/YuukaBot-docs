@@ -105,7 +105,6 @@ export const sidebar: SidebarConfig = {
             collapsible: true,
             children: [
                 '/function/play/fantasy.md',
-                '/function/play/asoul.md',
                 '/function/play/char_reverse.md',
                 '/function/play/help_choose.md',
                 '/function/play/hitokoto.md',
