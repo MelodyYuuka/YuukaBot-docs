@@ -28,7 +28,7 @@ next: /function/
 
 ### QQ 频道
 
-开发中，功能基本完整，可前往 [**Dreamer云梦都** (QQ频道)](https://pd.qq.com/s/5iyaamyir) 围观开发进度
+已上架官方机器人，可前往 [**Dreamer云梦都** (QQ频道)](https://pd.qq.com/s/5iyaamyir) 围观开发进度
 
 ## 使用
 
