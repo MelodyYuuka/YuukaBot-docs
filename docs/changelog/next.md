@@ -11,6 +11,8 @@
 - 更新 [东方问答]：删除了原曲认知的 `Loading...` ，为原曲认知添加了单群五秒冷却，防止多人同时游玩时同时开始导致覆盖题目
 - 💥优化 [表情包制作](../function/img/img_meme.md) 和 [百科](../function/query/wiki.md)：现在艾特可以替代 `/`
 - 优化 [语音功能](../function/play/voice.md)：修复了在出错的情况下不返回信息的问题
+- 更新 [扫雷](../function/play/minesweeper.md)：适配了全部平台
+- 更新 [骰子相关](../function/useful/dice.md)：修改了匹配模式，防止误触发；支持掷骰描述
 
 ### 2023-12-02
 
