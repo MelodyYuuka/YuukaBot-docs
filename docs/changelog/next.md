@@ -10,6 +10,7 @@
 
 - 优化 [表情包制作](../function/img/img_meme.md)：QQ官方群bot拿不到头像，现在会有一个fallback
 - 优化 [读懂世界](../function/useful/60s.md)：修复了某些情况下无法返回的问题
+- 💥更新 [搜索](../function/useful/search.md)：`搜索` → `百度搜索`
 
 ### 2023-12-04
 
