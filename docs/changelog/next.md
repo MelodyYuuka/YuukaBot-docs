@@ -9,10 +9,11 @@
 ### 2023-12-05
 
 - 优化 [表情包制作](../function/img/img_meme.md)：QQ官方群bot拿不到头像，现在会有一个fallback
+- 优化 [读懂世界](../function/useful/60s.md)：修复了某些情况下无法返回的问题
 
 ### 2023-12-04
 
-- 更新 [东方问答]：删除了原曲认知的 `Loading...` ，为原曲认知添加了单群五秒冷却，防止多人同时游玩时同时开始导致覆盖题目
+- 更新 [东方问答](../function/touhou/touhou_quiz.md)：删除了原曲认知的 `Loading...` ，为原曲认知添加了单群五秒冷却，防止多人同时游玩时同时开始导致覆盖题目
 - 💥优化 [表情包制作](../function/img/img_meme.md) 和 [百科](../function/query/wiki.md)：现在艾特可以替代 `/`
 - 优化 [语音功能](../function/play/voice.md)：修复了在出错的情况下不返回信息的问题
 - 更新 [扫雷](../function/play/minesweeper.md)：适配了全部平台
