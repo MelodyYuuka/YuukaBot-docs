@@ -6,6 +6,19 @@
 
 ## 更新时间线
 
+### 2023-12-07
+
+- 修复上次更新所导致的 [扫雷](../function/play/minesweeper.md) 无法正常使用的问题
+- 修复上次更新导致的 [网易云音乐功能](../function/useful/ncm_plugin.md) 与 [点歌相关](../function/useful/music.md) 在 QQ 平台下无法使用的问题
+- 修复 [功能管理](../function/admin/plugin_manager.md)：无法正常使用功能模板的问题
+
+### 2023-12-06
+
+- 优化 [网易云音乐功能](../function/useful/ncm_plugin.md)：优化多平台显示
+- 优化 [点歌相关](../function/useful/music.md)：优化多平台显示
+- 优化 [东方问答](../function/touhou/touhou_quiz.md)：现在回答也可以用 `/` 代替 `*`
+- 修复了 QQ官方群Bot 有转义错误的问题
+
 ### 2023-12-05
 
 - 优化 [表情包制作](../function/img/img_meme.md)：QQ官方群bot拿不到头像，现在会有一个fallback
