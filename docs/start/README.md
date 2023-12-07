@@ -20,15 +20,47 @@ next: /function/
 
 ### QQ 平台
 
-请前往 [**云梦都**](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
+- 第三方野生 Bot （功能完整，但容易死）：
+  > 请前往 [**云梦都**](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
 
-### Kook
+- 官方 Bot （功能基本完整，不容易死，每次使用需要 [**艾特**](/about/glossary.html#%E8%89%BE%E7%89%B9)）：
 
-开发中，功能基本完整，可前往 [**Dreamer云梦都** (Kook频道)](https://kook.top/4wZDH7) 围观开发进度
+  > 点击下方链接可以直接邀请进群
+
+  ```card
+  title: 幽幽子
+  desc: 里吼啊，这里是墨染的吃货，快和我一起幻想入吧~
+  logo: /images/avatar/yuyuko.webp
+  link: https://qun.qq.com/qunpro/robot/qunshare?robot_uin=3889001246
+  color: rgba(255, 183, 197, 0.15)
+  ```
 
 ### QQ 频道
 
-已上架官方机器人，可前往 [**Dreamer云梦都** (QQ频道)](https://pd.qq.com/s/5iyaamyir) 围观开发进度
+- 可前往 [**Dreamer云梦都** (QQ频道)](https://pd.qq.com/s/5iyaamyir) 围观开发进度
+
+  > 点击下方链接可以直接邀请进频道
+
+  ```card
+  title: 幽幽子
+  desc: 里吼啊，这里是墨染的吃货，快和我一起幻想入吧~
+  logo: /images/avatar/yuyuko.webp
+  link: https://qun.qq.com/qunpro/robot/share?robot_appid=102076836
+  color: rgba(255, 183, 197, 0.15)
+  ```
+
+### KOOK （开黑啦）
+
+- 功能基本完整，可前往 [**Dreamer云梦都** (Kook频道)](https://kook.top/4wZDH7) 围观开发进度
+- 已经可以拉入自己的 KOOK 频道啦
+
+### 米游社大别野
+
+- 开发中，功能基本完整，可前往 [**Dreamer云梦都** (大别野)](https://dby.miyoushe.com/chat/14803) 围观开发进度
+
+:::warning
+受大别野限制，每次使用 Bot 都需要 [**艾特**](/about/glossary.html#%E8%89%BE%E7%89%B9) 机器人
+:::
 
 ## 使用
 
