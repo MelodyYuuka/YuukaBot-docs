@@ -114,3 +114,12 @@
 |紧抓不放|![紧抓不放](/images/memes/紧抓不放.webp =200x)|图片×1|
 |沙沙想|![沙沙想](/images/memes/沙沙想.webp =200x)|图片×1|
 |balogo<br>碧蓝档案logo<br>蔚蓝档案logo|![balogo](/images/memes/balogo.webp =200x)|文本×2|
+|axl指|![axl指](/images/memes/axl指.webp =200x)|图片×1，文本×1|
+|旅行伙伴加入|![旅行伙伴加入](/images/memes/旅行伙伴加入.webp =200x)|图片×1，支持GIF|
+|旅行伙伴觉醒|![旅行伙伴觉醒](/images/memes/旅行伙伴觉醒.webp =200x)|图片×1，支持GIF|
+|脑子无响应|![脑子无响应](/images/memes/脑子无响应.webp =200x)|图片×1|
+|不叫我是吧|![不叫我是吧](/images/memes/不叫我是吧.webp =200x)|文本×1|
+|我想上的|![我想上的](/images/memes/我想上的.webp =200x)|图片×1，支持GIF|
+|满脑子都是|![满脑子都是](/images/memes/满脑子都是.webp =200x)|图片×1，支持GIF；文本×0~1，默认为 `它`|
+|不是很礼貌|![不是很礼貌](/images/memes/不是很礼貌.webp =200x)|图片×1；文本×0~1，默认为 `你刚才说的话不是很礼貌！`|
+|唱片转|![唱片转](/images/memes/唱片转.webp =200x)|图片×1|
