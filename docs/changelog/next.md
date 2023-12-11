@@ -13,6 +13,7 @@
 - 优化 [网易云音乐功能](../function/useful/ncm_plugin.md)：现在在指令前加上 `/` 也可以使用
 - 优化 [骰子相关](../function/useful/dice.md)：添加一个骰子菜单，现在将 `.` 改成 `/` 也可以使用
 - 优化 [帮我选择](../function/play/help_choose.md)：现在在指令前加上 `/` 也可以使用，添加了一个解释
+- 优化 [表情包制作](../function/img/img_meme.md)：添加了一个指令糖，允许使用 `/表情包帮助` 来获取所有表情包
 
 ### 2023-12-10
 
