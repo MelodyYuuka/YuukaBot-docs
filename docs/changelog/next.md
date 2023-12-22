@@ -6,6 +6,10 @@
 
 ## 更新时间线
 
+### 2023-12-22
+
+- 更新 [骰子相关](../function/useful/dice.md)：现在 `.r` 表达式支持括号
+
 ### 2023-12-21
 
 - 更新 [bilibili 功能](../function/query/bilibili.md)：适配多平台
