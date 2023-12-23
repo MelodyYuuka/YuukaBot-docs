@@ -18,5 +18,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-plugin-remove-html-extension": "^1.7.0"
   }
 }

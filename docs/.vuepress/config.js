@@ -10,6 +10,7 @@ import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 import { copyCodePlugin } from "vuepress-plugin-copy-code2";
 import AnchorRight from './plugins/anchor-right';
 import { yuukabotTheme } from './theme'
+import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
 
 
 export default defineUserConfig({
@@ -113,6 +114,7 @@ export default defineUserConfig({
 
         }),
         [AnchorRight()],
+        removeHtmlExtensionPlugin(),
     ],
 })
 

@@ -16,7 +16,7 @@ export const navbar: NavbarConfig = [
     },
     {
         text: '更新日志',
-        link: '/changelog/next.html'
+        link: '/changelog/next'
     },
     {
         text: '更多',
