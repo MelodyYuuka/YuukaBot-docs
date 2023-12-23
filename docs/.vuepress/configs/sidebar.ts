@@ -151,17 +151,17 @@ export const sidebar: SidebarConfig = {
         {
             text: '术语表',
             collapsible: false,
-            link: '/about/glossary.md',
+            link: '/about/glossary.html',
         },
         {
             text: 'Bot 列表',
             collapsible: false,
-            link: '/about/botlist.md',
+            link: '/about/botlist.html',
         },
         {
             text: '赞助',
             collapsible: false,
-            link: '/about/sponsor.md',
+            link: '/about/sponsor.html',
         },
     ],
     '/changelog': [
