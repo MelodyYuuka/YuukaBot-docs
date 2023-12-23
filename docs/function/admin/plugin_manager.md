@@ -23,7 +23,7 @@ YuukaBot-v6 提供了 **功能管理** 这一模块来方便各群更好的使�
 - 指令： `查看功能帮助[功能名]`
 
 - 参数：
-  - `功能名`： 在 [**查看所有功能**](/function/admin/plugin_manager.html#查看所有功能) 中获取到的功能名
+  - `功能名`： 在 [**查看所有功能**](/function/admin/plugin_manager.md#查看所有功能) 中获取到的功能名
 
 - 详情：
 
@@ -50,7 +50,7 @@ YuukaBot-v6 提供了 **功能管理** 这一模块来方便各群更好的使�
 
 - 参数：
   - `开启|关闭`： 开启或关闭功能
-  - `功能名`： 在 [**查看所有功能**](/function/admin/plugin_manager.html#查看所有功能) 中获取到的功能名
+  - `功能名`： 在 [**查看所有功能**](/function/admin/plugin_manager.md#查看所有功能) 中获取到的功能名
 
 - 详情：
 

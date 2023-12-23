@@ -23,7 +23,7 @@ next: /function/
 - 第三方野生 Bot （功能完整，但容易死）：
   > 请前往 [**云梦都**](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
 
-- 官方 Bot （功能基本完整，不容易死，每次使用需要 [**艾特**](/about/glossary.html#%E8%89%BE%E7%89%B9)）：
+- 官方 Bot （功能基本完整，不容易死，每次使用需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9)）：
 
   > 点击下方链接可以直接邀请进群
 
@@ -59,7 +59,7 @@ next: /function/
 - 开发中，功能基本完整，可前往 [**Dreamer云梦都** (大别野)](https://dby.miyoushe.com/chat/14803) 围观开发进度
 
 :::warning
-受大别野限制，每次使用 Bot 都需要 [**艾特**](/about/glossary.html#%E8%89%BE%E7%89%B9) 机器人
+受大别野限制，每次使用 Bot 都需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9) 机器人
 :::
 
 ## 使用

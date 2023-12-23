@@ -1,7 +1,7 @@
 # 当前 Bot 列表
 
 :::tip
-此处仅作参考，具体列表与 Bot 在线情况请发送 [`查看所有服务`](/function/admin/load_balance.html#查看所有服务) 给在线的 Bot 查询
+此处仅作参考，具体列表与 Bot 在线情况请发送 [`查看所有服务`](/function/admin/load_balance.md#查看所有服务) 给在线的 Bot 查询
 :::
 
 ## QQ

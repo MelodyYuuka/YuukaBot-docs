@@ -120,10 +120,10 @@ export const sidebar: SidebarConfig = {
             ]
         },
     ],
-    '/function/autodoc.html': [
+    '/function/autodoc.md': [
         {
             text: 'autodoc',
-            link: '/function/autodoc.html',
+            link: '/function/autodoc.md',
         }
     ],
     '/FAQ': [
@@ -138,30 +138,30 @@ export const sidebar: SidebarConfig = {
             collapsible: false,
             children: [
                 '/about/',
-                '/about/instructions.html',
+                '/about/instructions.md',
             ]
         },
         {
             text: '贡献指南',
             collapsible: false,
             children: [
-                '/about/contribute/docs.html'
+                '/about/contribute/docs.md'
             ]
         },
         {
             text: '术语表',
             collapsible: false,
-            link: '/about/glossary.html',
+            link: '/about/glossary.md',
         },
         {
             text: 'Bot 列表',
             collapsible: false,
-            link: '/about/botlist.html',
+            link: '/about/botlist.md',
         },
         {
             text: '赞助',
             collapsible: false,
-            link: '/about/sponsor.html',
+            link: '/about/sponsor.md',
         },
     ],
     '/changelog': [
@@ -169,21 +169,21 @@ export const sidebar: SidebarConfig = {
             text: '更新日志',
             collapsible: false,
             children: [
-                '/changelog/next.html',
-                '/changelog/v6.8.0.html',
-                '/changelog/v6.7.0.html',
-                '/changelog/v6.6.0.html',
-                '/changelog/v6.5.0.html',
-                '/changelog/v6.4.0.html',
-                '/changelog/v6.3.0.html',
-                '/changelog/v6.2.0.html',
-                '/changelog/v6.1.0.html',
-                '/changelog/v6.0.0.html',
-                '/changelog/v6.0.0-rc4.html',
-                '/changelog/v6.0.0-rc3.html',
-                '/changelog/v6.0.0-rc2.html',
-                '/changelog/v6.0.0-rc1.html',
-                '/changelog/v6.0.0-beta23.html',
+                '/changelog/next.md',
+                '/changelog/v6.8.0.md',
+                '/changelog/v6.7.0.md',
+                '/changelog/v6.6.0.md',
+                '/changelog/v6.5.0.md',
+                '/changelog/v6.4.0.md',
+                '/changelog/v6.3.0.md',
+                '/changelog/v6.2.0.md',
+                '/changelog/v6.1.0.md',
+                '/changelog/v6.0.0.md',
+                '/changelog/v6.0.0-rc4.md',
+                '/changelog/v6.0.0-rc3.md',
+                '/changelog/v6.0.0-rc2.md',
+                '/changelog/v6.0.0-rc1.md',
+                '/changelog/v6.0.0-beta23.md',
             ]
         },
     ]
