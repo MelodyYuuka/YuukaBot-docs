@@ -6,6 +6,17 @@
 
 ## 更新时间线
 
+### 2024-01-01
+
+- 💥更新 [表情包制作](../function/img/img_meme.md)：删除了无前缀不完整参数的弃用提醒
+- 更新 [货币相关](../function/useful/exchange_rate.md)：现在支持在金额整数部分添加 `,` 分隔符
+- 优化 [东方问答](../function/touhou/touhou_quiz.md)：优化部分问答的措辞
+- 优化 [图片转链接](../function/img/img2url.md)：优化 `QQ` 平台下的部分特殊链接问题
+
+### 2023-12-31
+
+- 修复 [百科相关](../function/query/wiki.md)：修复 `百度百科` 在某些极端情况下出现的问题
+
 ### 2023-12-30
 
 - 更新了部分功能的未适配提醒
