@@ -6,6 +6,21 @@
 
 ## 更新时间线
 
+### 2024-01-07
+
+- 更新 [语音功能](../function/play/voice.md)：加强了 `塔菲说` 和 `东雪莲说`，现在可以自动识别中文/英文/日文
+- 优化了 [东方新闻](../function/touhou/touhou_news.md)：优化了获取新闻的速度
+- 优化了 [运行代码](../function/useful/run_code.md)：添加了 `cpp` 的别名 `C++`
+
+### 2024-01-06
+
+- 优化了 `QQ官方` 的使用体验
+
+### 2024-01-04
+
+- 修复 [缩写释义](../function/useful/shortof.md)：在极端情况下无法使用
+- 修复 [表情包制作](../function/img/img_meme.md)：在完整参数时不加斜杠无法使用的问题
+
 ### 2024-01-01
 
 - 💥更新 [表情包制作](../function/img/img_meme.md)：删除了无前缀不完整参数的弃用提醒
