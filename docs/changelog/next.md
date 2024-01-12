@@ -10,7 +10,7 @@
 
 - 应腾讯监管要求，对 `QQ官方Bot` 加入内容安全检查
 - 更改 `人设生成器系统` 为 [设定生成器系统](../function/play/shindanmaker.md)
-- 更新 [设定生成器系统](../function/play/shindanmaker.md)：新增 `我的颜文字`，`特殊能力`
+- 更新 [设定生成器系统](../function/play/shindanmaker.md)：新增 `我的颜文字`，`特殊能力`。`世间万物化为` 更名为 `万物化为`
 
 ### 2024-01-10
 
