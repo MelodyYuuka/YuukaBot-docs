@@ -6,6 +6,19 @@
 
 ## 更新时间线
 
+### 2024-01-18
+
+- 修复 [Hypixel 数据查询](../function/query/hypixel.md)：在某些特定情况下不返回信息的问题
+
+### 2024-01-16
+
+- 修复在某些极端情况下，不能正常返回某些信息的问题
+- 更新 [设定生成器系统](../function/play/shindanmaker.md)：在文本过长的时候会转成图片
+
+### 2024-01-15
+
+- 欢迎投稿 [知识问答](../function/touhou/touhou_quiz.md) 到 <Bot@yunmengdu.cn>
+
 ### 2024-01-14
 
 - 新增 [发病语录](../function/play/fabing.md)
