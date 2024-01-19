@@ -6,6 +6,10 @@
 
 ## 更新时间线
 
+### 2024-01-19
+
+- 修复 [反向词典](../function/useful/wantwords.md)：修复了找不到的问题
+
 ### 2024-01-18
 
 - 修复 [Hypixel 数据查询](../function/query/hypixel.md)：在某些特定情况下不返回信息的问题
