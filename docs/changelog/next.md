@@ -6,6 +6,10 @@
 
 ## 更新时间线
 
+### 2024-01-22
+
+- 更新 [发病语录](../function/play/fabing.md)： `/cp生成`
+
 ### 2024-01-19
 
 - 修复 [反向词典](../function/useful/wantwords.md)：修复了找不到的问题
