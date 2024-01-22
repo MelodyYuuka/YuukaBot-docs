@@ -98,6 +98,7 @@ export const sidebar: SidebarConfig = {
                 '/function/useful/aminer.md',
                 '/function/useful/useful.md',
                 '/function/useful/chatai.md',
+                '/function/useful/lang_plugin.md',
             ]
         },
         {
@@ -117,6 +118,7 @@ export const sidebar: SidebarConfig = {
                 '/function/play/voice.md',
                 '/function/play/tarot.md',
                 '/function/play/random.md',
+                '/function/play/fabing.md',
             ]
         },
     ],
