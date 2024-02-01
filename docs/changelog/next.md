@@ -9,6 +9,7 @@
 ### 2024-02-01
 
 - 更新 [表情包制作](../function/img/img_meme.md)：`给社会添乱`、`高血压`
+- 更改 `随机词条生成器` 为 [随机场景生成器](../function/touhou/random_scene.md)
 
 ### 2024-01-26
 

@@ -38,6 +38,7 @@ export const sidebar: SidebarConfig = {
                 '/function/touhou/touhou_news.md',
                 '/function/touhou/random_touhou.md',
                 '/function/touhou/touhou_doujin.md',
+                '/function/touhou/random_scene.md',
             ]
         },
         {
@@ -117,7 +118,6 @@ export const sidebar: SidebarConfig = {
                 '/function/play/today_luck.md',
                 '/function/play/voice.md',
                 '/function/play/tarot.md',
-                '/function/play/random.md',
                 '/function/play/fabing.md',
             ]
         },
