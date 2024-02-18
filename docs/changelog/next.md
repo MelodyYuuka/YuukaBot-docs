@@ -6,6 +6,13 @@
 
 ## 更新时间线
 
+### 2024-02-18
+
+- 更新 [语音功能](../function/play/voice.md)：增强 `嘉然说` 现在可以说中日英文了
+- 优化了回复速度，提高了吞吐量
+- 修复 [bilibili 功能](../function/query/bilibili.md)：修复了由于b站更新bv号算法导致的问题
+- 修复 [语音功能](../function/play/voice.md)：修复了 `支付宝到账` 无法返回的问题
+
 ### 2024-02-01
 
 - 更新 [表情包制作](../function/img/img_meme.md)：`给社会添乱`、`高血压`
