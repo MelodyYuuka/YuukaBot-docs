@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "vuepress-plugin-remove-html-extension": "^1.7.0"
-  }
+  },
+  "packageManager": "yarn@4.1.0"
 }
