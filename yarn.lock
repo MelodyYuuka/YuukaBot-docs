@@ -6084,7 +6084,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vuepress-plugin-china-search-console@npm:^2.1.5":
+"vuepress-plugin-china-search-console@npm:2.1.5":
   version: 2.1.5
   resolution: "vuepress-plugin-china-search-console@npm:2.1.5"
   dependencies:
@@ -6097,7 +6097,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vuepress-plugin-copy-code2@npm:^2.0.0-beta.235":
+"vuepress-plugin-copy-code2@npm:2.0.0-beta.235":
   version: 2.0.0-beta.235
   resolution: "vuepress-plugin-copy-code2@npm:2.0.0-beta.235"
   dependencies:
@@ -6128,7 +6128,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vuepress-plugin-md-enhance@npm:^2.0.0-beta.235":
+"vuepress-plugin-md-enhance@npm:2.0.0-beta.235":
   version: 2.0.0-beta.235
   resolution: "vuepress-plugin-md-enhance@npm:2.0.0-beta.235"
   dependencies:
@@ -6226,7 +6226,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vuepress-plugin-seo2@npm:^2.0.0-beta.235":
+"vuepress-plugin-seo2@npm:2.0.0-beta.235":
   version: 2.0.0-beta.235
   resolution: "vuepress-plugin-seo2@npm:2.0.0-beta.235"
   dependencies:
@@ -6248,7 +6248,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vuepress-plugin-sitemap2@npm:^2.0.0-beta.235":
+"vuepress-plugin-sitemap2@npm:2.0.0-beta.235":
   version: 2.0.0-beta.235
   resolution: "vuepress-plugin-sitemap2@npm:2.0.0-beta.235"
   dependencies:
@@ -6435,12 +6435,12 @@ __metadata:
     "@vuepress/client": "npm:2.0.0-beta.66"
     "@vuepress/plugin-docsearch": "npm:2.0.0-beta.66"
     vuepress: "npm:2.0.0-beta.66"
-    vuepress-plugin-china-search-console: "npm:^2.1.5"
-    vuepress-plugin-copy-code2: "npm:^2.0.0-beta.235"
-    vuepress-plugin-md-enhance: "npm:^2.0.0-beta.235"
+    vuepress-plugin-china-search-console: "npm:2.1.5"
+    vuepress-plugin-copy-code2: "npm:2.0.0-beta.235"
+    vuepress-plugin-md-enhance: "npm:2.0.0-beta.235"
     vuepress-plugin-remove-html-extension: "npm:^1.7.0"
-    vuepress-plugin-seo2: "npm:^2.0.0-beta.235"
-    vuepress-plugin-sitemap2: "npm:^2.0.0-beta.235"
+    vuepress-plugin-seo2: "npm:2.0.0-beta.235"
+    vuepress-plugin-sitemap2: "npm:2.0.0-beta.235"
   languageName: unknown
   linkType: soft
 
