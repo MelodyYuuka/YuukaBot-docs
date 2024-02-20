@@ -11,6 +11,7 @@ import { copyCodePlugin } from "vuepress-plugin-copy-code2";
 import AnchorRight from './plugins/anchor-right';
 import { yuukabotTheme } from './theme'
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
+import { commentPlugin } from 'vuepress-plugin-comment2'
 
 
 export default defineUserConfig({
@@ -115,6 +116,16 @@ export default defineUserConfig({
         }),
         [AnchorRight()],
         removeHtmlExtensionPlugin(),
+        commentPlugin({
+            comment: true,
+            provider: "Giscus",
+            repo: "MelodyYuuka/YuukaBot-docs",
+            repoId: "R_kgDOI6FjGA",
+            category: "Announcements",
+            categoryId: "DIC_kwDOI6FjGM4CdVzV",
+            strict: true,
+            lazyLoading: true,
+        })
     ],
 })
 
