@@ -45,9 +45,9 @@ export default defineUserConfig({
     }),
     plugins: [
         docsearchPlugin({
-            apiKey: '2525b098427a1e6609e6f839b9a831b1',
-            indexName: 'yuukabot-yunmengdu',
-            appId: '5UHRJG3CUA',
+            apiKey: '7de33b6d5435eb8f4972b2515756f967',
+            indexName: 'bot-yunmengdu',
+            appId: 'MWA1J06RXQ',
             placeholder: '搜索文档',
             toggleColorMode: '切换颜色模式',
             translations: {
