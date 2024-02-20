@@ -101,7 +101,7 @@
 ### 2023-12-30
 
 - 更新了部分功能的未适配提醒
-- 💥更新 [东方同人相关](docs\function\touhou\touhou_doujin.md)：`搜东方同人` → `搜东方专辑`
+- 💥更新 [东方同人相关](../function/touhou/touhou_doujin.md)：`搜东方同人` → `搜东方专辑`
 
 ### 2023-12-27
 

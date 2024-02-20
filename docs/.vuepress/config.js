@@ -89,13 +89,13 @@ export default defineUserConfig({
             },
         }),
         sitemapPlugin({
-            hostname: 'yuukabot.yunmengdu.cn',
+            hostname: 'bot.yunmengdu.cn',
             excludeUrls: ['/404.html'],
             sitemapFilename: 'sitemap.xml',
             changefreq: 'daily',
         }),
         seoPlugin({
-            hostname: 'yuukabot.yunmengdu.cn',
+            hostname: 'bot.yunmengdu.cn',
         }),
         searchConsolePlugin({
             baiduId: '7a0d3a4e8454cc167b63e7dc1de54488',
