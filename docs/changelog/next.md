@@ -6,6 +6,10 @@
 
 ## 更新时间线
 
+### 2024-02-24
+
+- 优化 [Pixiv功能](../function/img/pixiv_plugin.md)：为支持按钮的平台提供了回复消息界面的优化，解决了原图无法查看的问题
+
 ### 2024-02-21
 
 - 修复 [bilibili 功能](../function/query/bilibili.md)：现在可以正常使用b站登录功能了
