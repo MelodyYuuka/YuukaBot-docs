@@ -57,6 +57,6 @@ Tips:
 
     ![123](/images/pjsk/pjsk123.webp)
 
-:::warning
+<!-- :::warning
 QQ 平台因未知原因，发送 png 图片均会转换成 jpg 图片而丢失透明层，如需获得最佳体验请移步 `KOOK` 或 `QQ频道`
-:::
+::: -->
