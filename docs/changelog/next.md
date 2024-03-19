@@ -6,9 +6,19 @@
 
 ## 更新时间线
 
-### 2023-03-16
+### 2024-03-18
 
-- 修复了 [Pixiv功能](../function/img/pixiv_plugin.md)：
+- 优化 [safebooru 功能](../function/img/safebooru.md)：优化了输出速度
+
+### 2024-03-17
+
+- 由于部分"用户"利用本功能违规发布敏感内容/不良内容，并借机造谣幽幽子，以此谋取私利，严重危害幽幽子的安全，故关闭 [运行代码](../function/useful/run_code.md)
+
+### 2024-03-16
+
+- 优化 [Pixiv功能](../function/img/pixiv_plugin.md)：优化了图片逻辑，加快输出速度
+- 优化 [塔罗牌相关](../function/play/tarot.md)：加快输出速度
+- 优化 [游戏王相关](../function/query/ygo.md)：`ygo搜卡` 现在拥有别名 `游戏王搜卡`
 
 ### 2024-03-14
 
