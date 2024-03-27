@@ -56,10 +56,8 @@ next: /function/
 
 ### 米游社大别野
 
-- 开发中，功能基本完整，可前往 [**Dreamer云梦都** (大别野)](https://dby.miyoushe.com/chat/14803) 围观开发进度
-
 :::warning
-受大别野限制，每次使用 Bot 都需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9) 机器人
+YuukaBot 于米游社大别野的服务已于3月11日21:00正式停止
 :::
 
 ## 使用
@@ -98,6 +96,16 @@ yarn install
 yarn docs:dev
 # 开始写作
 ```
+如果使用的是[NPM包管理器](https://www.npmjs.com/) 而非 yarn，请使用
+
+```shell:no-line-numbers
+npm install
+# 安装依赖
+
+npm run docs:dev
+# 开始写作
+```
+
 
 :::tip
 更多可见 [文档贡献指南](../about/contribute/docs.md)
