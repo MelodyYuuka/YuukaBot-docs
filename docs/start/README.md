@@ -54,14 +54,6 @@ next: /function/
 - 功能基本完整，可前往 [**Dreamer云梦都** (Kook频道)](https://kook.top/4wZDH7) 围观开发进度
 - 已经可以拉入自己的 KOOK 频道啦
 
-### 米游社大别野
-
-- 开发中，功能基本完整，可前往 [**Dreamer云梦都** (大别野)](https://dby.miyoushe.com/chat/14803) 围观开发进度
-
-:::warning
-受大别野限制，每次使用 Bot 都需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9) 机器人
-:::
-
 ## 使用
 
 YuukaBot 采用指令-参数式交互，支持通过指令前加 [**艾特**](../about/glossary.md#艾特) 来指定服务 Bot。详见 [**指令**](../function/) 部分
@@ -86,7 +78,11 @@ color: rgba(62, 175, 124, 0.15)
 
 如果对 [文档](https://github.com/MelodyYuuka/YuukaBot-docs) 有更多补充或建议, 欢迎提 [issue](https://github.com/MelodyYuuka/YuukaBot-docs/issues) 或 [Pull request](https://github.com/MelodyYuuka/YuukaBot-docs/pulls)
 
-```shell:no-line-numbers
+::: code-tabs#shell
+
+@tab:active yarn
+
+```bash:no-line-numbers
 git clone https://github.com/MelodyYuuka/YuukaBot-docs
 # 拉取源码
 
@@ -98,6 +94,23 @@ yarn install
 yarn docs:dev
 # 开始写作
 ```
+
+@tab npm
+
+```bash:no-line-numbers
+git clone https://github.com/MelodyYuuka/YuukaBot-docs
+# 拉取源码
+
+cd YuukaBot-docs
+
+npm install
+# 安装依赖
+
+npm run docs:dev
+# 开始写作
+```
+
+:::
 
 :::tip
 更多可见 [文档贡献指南](../about/contribute/docs.md)
