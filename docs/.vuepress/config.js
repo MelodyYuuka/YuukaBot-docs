@@ -109,6 +109,7 @@ export default defineUserConfig({
             card: true,
             tabs: true,
             align: true,
+            codetabs: true,
         }),
         copyCodePlugin({
 
