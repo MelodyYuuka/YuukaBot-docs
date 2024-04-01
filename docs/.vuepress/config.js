@@ -1,17 +1,16 @@
-import { defineUserConfig } from 'vuepress'
-import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
-import { sitemapPlugin } from 'vuepress-plugin-sitemap2'
-import { seoPlugin } from 'vuepress-plugin-seo2'
+import { defineUserConfig } from 'vuepress'
 import { searchConsolePlugin } from 'vuepress-plugin-china-search-console'
-import { sidebar } from './configs/sidebar'
-import { navbar } from './configs/navbar'
-import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
-import { copyCodePlugin } from "vuepress-plugin-copy-code2";
-import AnchorRight from './plugins/anchor-right';
-import { yuukabotTheme } from './theme'
-import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
 import { commentPlugin } from 'vuepress-plugin-comment2'
+import { copyCodePlugin } from "vuepress-plugin-copy-code2"
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
+import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
+import { seoPlugin } from 'vuepress-plugin-seo2'
+import { sitemapPlugin } from 'vuepress-plugin-sitemap2'
+import { navbar } from './configs/navbar'
+import { sidebar } from './configs/sidebar'
+import AnchorRight from './plugins/anchor-right'
+import { yuukabotTheme } from './theme'
 
 
 export default defineUserConfig({

@@ -21,7 +21,7 @@ next: /function/
 ### QQ 平台
 
 - 第三方野生 Bot （功能完整，但容易死）：
-  > 请前往 [**云梦都**](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 了解详情并获取白名单
+  > 请前往 [**云梦都**](https://qm.qq.com/q/2iiZddIyz6) 了解详情并获取白名单
 
 - 官方 Bot （功能基本完整，不容易死，每次使用需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9)）：
 
