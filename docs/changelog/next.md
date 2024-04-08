@@ -6,6 +6,45 @@
 
 ## 更新时间线
 
+### 2024-04-07
+
+- 新增 [100%鲜橙汁](../function/query/orange_juice.md)
+
+### 2024-04-06
+
+- 优化 [词云](../function/useful/wordcloud.md) 的生成速度
+
+### 2024-04-05
+
+- 优化 [safebooru相关](../function/img/safebooru.md)：优化了使用体验
+- 欢迎给 Python 新一代分词工具 [Nazrin](https://github.com/MelodyYuuka/Nazrin) 点点star~
+
+### 2024-04-03
+
+- 重构 [东方问答](../function/touhou/touhou_quiz.md)：重构了原曲认知，优化了出题速度，扩展了原曲范围，现在的范围与 [东方原曲点歌](../function/touhou/touhou_music.md) 中的范围相同
+- 优化 [塔罗牌相关](../function/play/tarot.md)：缩短了 `QQBot` 平台下塔罗牌的消息长度
+- 现在复读检测应该默认关闭
+
+### 2024-04-02
+
+- 修复部分功能无法使用的问题
+- 由于审核要求，在 `QQBot` 平台上关闭部分语音功能
+
+### 2024-04-01
+
+- 重构数据事件逻辑，提升吞吐性能
+- 重构 `KOOK` 平台的适配逻辑
+- 优化 [东方原曲点歌](../function/touhou/touhou_music.md)：现在曲目会尽量按照实际顺序排序
+- 优化 [塔罗牌相关](../function/play/tarot.md)：优化了塔罗牌的发送速度，在 `QQBot` 平台缩小预览图大小
+
+### 2024-03-28
+
+- 修复 `QQBot` 平台有时无法发送语音的问题
+
+### 2024-03-27
+
+- 修复 [东方原曲点歌](../function/touhou/touhou_music.md)：对于某些音乐无法识别的问题
+
 ### 2024-03-26
 
 - 新增 [东方原曲点歌](../function/touhou/touhou_music.md)

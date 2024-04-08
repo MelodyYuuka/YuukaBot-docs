@@ -39,6 +39,7 @@ export const sidebar: SidebarConfig = {
                 '/function/touhou/random_touhou.md',
                 '/function/touhou/touhou_doujin.md',
                 '/function/touhou/random_scene.md',
+                '/function/touhou/touhou_music.md',
             ]
         },
         {
@@ -72,7 +73,8 @@ export const sidebar: SidebarConfig = {
                 '/function/query/shadowverse.md',
                 '/function/query/weibo.md',
                 '/function/query/wiki.md',
-                '/function/query/ygo.md'
+                '/function/query/ygo.md',
+                '/function/query/orange_juice.md'
             ]
         },
         {
