@@ -6,6 +6,10 @@
 
 ## 更新时间线
 
+### 2024-04-12
+
+- 更新 [东方原曲点歌](../function/touhou/touhou_music.md)：现在 `/听原曲` 支持直接输入曲名搜歌
+
 ### 2024-04-10
 
 - 更新 [东方原曲点歌](../function/touhou/touhou_music.md)：现在 `/thmusic` 接受曲名模糊匹配输入
