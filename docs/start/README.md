@@ -20,10 +20,10 @@ next: /function/
 
 ### QQ 平台
 
-- 第三方野生 Bot （功能完整，但容易死）：
-  > 请前往 [**云梦都**](https://qm.qq.com/q/2iiZddIyz6) 了解详情并获取白名单
+- 第三方野生 Bot （容易死）：
+  > 目前此类 bot 非必要不外放
 
-- 官方 Bot （功能基本完整，不容易死，每次使用需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9)）：
+- 官方 Bot （不容易死，每次使用需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9)）：
 
   > 点击下方链接可以直接邀请进群
 
@@ -37,7 +37,7 @@ next: /function/
 
 ### QQ 频道
 
-- 可前往 [**Dreamer云梦都** (QQ频道)](https://pd.qq.com/s/5iyaamyir) 围观开发进度
+- 可前往 [**Dreamer云梦都** (QQ频道)](https://pd.qq.com/s/5iyaamyir) 获取最新情报
 
   > 点击下方链接可以直接邀请进频道
 
