@@ -121,6 +121,7 @@ export const sidebar: SidebarConfig = {
                 '/function/play/voice.md',
                 '/function/play/tarot.md',
                 '/function/play/fabing.md',
+                '/function/play/what2eat.md',
             ]
         },
     ],
