@@ -12,8 +12,8 @@
 
 - 不建议与其他 Bot 搁一个群
 
-- 请勿禁言、踢出 Bot，如有需要请联系旋律或加入 [云梦都](https://qm.qq.com/q/2iiZddIyz6) 寻求帮助
+- 请勿禁言、踢出 Bot，如有需要请联系旋律或加入 [云梦都](https://qm.qq.com/q/RHZqFoSmac) 寻求帮助
 
 - 请勿滥用 Bot， 恶意刷屏
 
-- 建议 20 人以上群聊，小群可直接加入 [云梦都](https://qm.qq.com/q/2iiZddIyz6) 或 [水塘](https://jq.qq.com/?_wv=1027&k=We78cXZP) 游玩
+- 建议 20 人以上群聊，小群可直接加入 [云梦都](https://qm.qq.com/q/RHZqFoSmac) 或 [水塘](https://jq.qq.com/?_wv=1027&k=We78cXZP) 游玩
