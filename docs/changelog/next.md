@@ -6,6 +6,14 @@
 
 ## 更新时间线
 
+### 2024-04-27
+
+- 重构 [人生重开](../function/play/remake.md)
+
+### 2024-04-25
+
+- 部分涉及各群的功能从 [功能管理](../function/admin/plugin_manager.md) 迁移至 [群状态管理](../function/admin/group_manager.md)
+
 ### 2024-04-24
 
 - 更新 [今天吃什么](../function/play/what2eat.md)
