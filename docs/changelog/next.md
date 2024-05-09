@@ -4,6 +4,7 @@
 
 ### 2024-05-09
 
+- 更新 [东方原曲点歌](../function/touhou/touhou_music.md) 和 [东方问答](../function/touhou/touhou_quiz.md)：现在可以正确显示对应作品的曲目名了（以前的行为是显示该曲目最早作品的名字）
 - 发布 [v6.9.0](./v6.9.0.md)
 
 :::tip
