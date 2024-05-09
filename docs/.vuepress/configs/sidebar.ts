@@ -40,6 +40,8 @@ export const sidebar: SidebarConfig = {
                 '/function/touhou/touhou_doujin.md',
                 '/function/touhou/random_scene.md',
                 '/function/touhou/touhou_music.md',
+                '/function/touhou/touhou_guess.md',
+                '/function/touhou/yunmengdu.md',
             ]
         },
         {
