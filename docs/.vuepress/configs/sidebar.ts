@@ -177,6 +177,7 @@ export const sidebar: SidebarConfig = {
             collapsible: false,
             children: [
                 '/changelog/next.md',
+                '/changelog/v6.9.0.md',
                 '/changelog/v6.8.0.md',
                 '/changelog/v6.7.0.md',
                 '/changelog/v6.6.0.md',
