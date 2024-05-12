@@ -1,8 +1,8 @@
 # 云梦都相关
 
-```tip
+:::tip
 本功能主要是支持幽幽子官方群 [云梦都](https://qm.qq.com/q/RHZqFoSmac) 的一些功能，包括 `Minecraft 服务器` 等
-```
+:::
 
 ## 指令
 
