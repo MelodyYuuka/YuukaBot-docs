@@ -2,6 +2,10 @@
 
 ## 更新时间线
 
+### 2024-05-27
+
+- 更新 [100%鲜橙汁](../function/query/orange_juice.md)：更新到最新内容
+
 ### 2024-05-09
 
 - 更新 [东方原曲点歌](../function/touhou/touhou_music.md) 和 [东方问答](../function/touhou/touhou_quiz.md)：现在可以正确显示对应作品的曲目名了（以前的行为是显示该曲目最早作品的名字）
