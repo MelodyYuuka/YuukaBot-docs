@@ -22,8 +22,8 @@ jobs:
         with:
           # 选择要使用的 node 版本
           node-version: 20
-          # 缓存 yarn 依赖
-          cache: yarn
+          # 缓存 pnpm 依赖
+          cache: pnpm
 
       - name: Run install
         uses: pnpm/action-setup@v4
