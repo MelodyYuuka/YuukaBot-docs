@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 <p align='center'>
     <a herf=''>
-        <img src='./docs/.vuepress/public/images/logo.webp' width='250px' height='250px' alt='YuukaBot'>
+        <img src='./docs/src/.vuepress/public/images/logo.webp' width='250px' height='250px' alt='YuukaBot'>
     </a>
 </p>
 
