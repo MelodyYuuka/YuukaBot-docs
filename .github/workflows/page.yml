@@ -15,9 +15,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Switch to Workspace
-        run: cd docs
-
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
@@ -43,7 +40,9 @@ jobs:
             ${{ runner.os }}-pnpm-store-
 
       - name: Install dependencies
-        run: pnpm install
+        run: |
+          cd docs
+          pnpm install
 
       # 运行构建脚本
       - name: Build VuePress site
