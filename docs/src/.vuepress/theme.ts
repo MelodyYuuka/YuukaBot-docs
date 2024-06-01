@@ -44,6 +44,7 @@ export default hopeTheme({
   // 多语言配置
   metaLocales: {
     editLink: "在 GitHub 上编辑此页",
+    date: "更新日期"
   },
 
   routeLocales: {
