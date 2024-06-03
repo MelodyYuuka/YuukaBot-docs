@@ -6,6 +6,11 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-06-03
+
+- 由于腾讯方面的限制，暂时关闭 `QQ官方Bot` 上的 [扫雷](../function/play/minesweeper.md)，等待后续优化
+- 新增 [emoji合成](../src/function/play/emoji_mix.md)
+
 ### 2024-06-01
 
 - 重构文档框架
