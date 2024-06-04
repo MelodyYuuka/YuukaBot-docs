@@ -16,7 +16,7 @@ export default hopeTheme({
   repoLabel: '文档仓库',
   docsBranch: 'main',
   docsDir: "src",
-  editLinkPattern: ':repo/edit/:branch/:path',
+  editLinkPattern: ':repo/edit/:branch/docs/:path',
 
   // 导航栏
   navbar,
