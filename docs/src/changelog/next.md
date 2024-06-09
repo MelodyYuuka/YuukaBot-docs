@@ -6,14 +6,18 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-06-09
+
+- 新增 [Capoo 表情包](../function/img/capoo.md)
+
 ### 2024-06-07
 
-- 更新 [emoji合成](../src/function/play/emoji_mix.md)：添加更多合成
+- 更新 [emoji合成](../function/play/emoji_mix.md)：添加更多合成
 
 ### 2024-06-03
 
 - 由于腾讯方面的限制，暂时关闭 `QQ官方Bot` 上的 [扫雷](../function/play/minesweeper.md)，等待后续优化
-- 新增 [emoji合成](../src/function/play/emoji_mix.md)
+- 新增 [emoji合成](../function/play/emoji_mix.md)
 
 ### 2024-06-01
 
