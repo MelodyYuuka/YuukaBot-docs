@@ -6,6 +6,12 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-06-11
+
+- 修复 [翻译](../function/useful/translate.md)：现在 `图片翻译` 已经可以正常使用
+- 修复 [人生重开](../function/play/remake.md)：优化了某些特定情况下无法使用的问题
+- 修复 [图片智慧功能](../function/img/img_deeper.md)：修复了 `tag识别` 无法使用的问题
+
 ### 2024-06-09
 
 - 新增 [Capoo 表情包](../function/img/capoo.md)
