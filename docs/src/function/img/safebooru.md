@@ -34,7 +34,7 @@
 仅能搜到**关键词后**有额外字段的 tag
 例如使用：
 
-```text
+```text:no-line-numbers
 搜tag usami
 ```
 
@@ -42,7 +42,7 @@
 
 而使用：
 
-```text
+```text:no-line-numbers
 搜tag renko
 ```
 
