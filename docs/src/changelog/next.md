@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-06-19
+
+- 新增 [疯狂星期四](../function/play/crazy_thursday.md)
+
 ### 2024-06-11
 
 - 修复 [翻译](../function/useful/translate.md)：现在 `图片翻译` 已经可以正常使用
