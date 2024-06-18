@@ -151,6 +151,7 @@ export default sidebar({
         'tarot.md',
         'fabing.md',
         'what2eat.md',
+        'crazy_thursday.md',
       ]
     },
   ],
