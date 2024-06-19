@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-06-20
+
+- 新增 [随机宛图](../function/img/random_shion.md)
+
 ### 2024-06-19
 
 - 新增 [疯狂星期四](../function/play/crazy_thursday.md)

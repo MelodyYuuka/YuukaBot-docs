@@ -63,7 +63,6 @@ export default sidebar({
         'random_scene.md',
         'touhou_music.md',
         'touhou_guess.md',
-        'capoo.md',
         'yunmengdu.md',
       ]
     },
@@ -82,6 +81,8 @@ export default sidebar({
         'img2url.md',
         'pjsk.md',
         'rgb.md',
+        'capoo.md',
+        'random_shion.md',
       ]
     },
     {
