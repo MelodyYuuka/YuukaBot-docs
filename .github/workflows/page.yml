@@ -49,7 +49,7 @@ jobs:
           pnpm docs:build
 
       - name: Copy const-dist
-        run: cp -r dist/* docs/src/.vuepress/dist/
+        run: cp -r const-dist/* docs/src/.vuepress/dist/
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
