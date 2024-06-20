@@ -34,23 +34,6 @@ export default sidebar({
       link: '/function/',
     },
     {
-      text: '🛠️管理功能',
-      collapsible: true,
-      prefix: "/function/admin/",
-      children: [
-        'plugin_manager.md',
-        'task_manager.md',
-        'load_balance.md',
-        'invite_request.md',
-        'user_interaction.md',
-        'group_manager.md',
-        'group_action.md',
-        'event_limit.md',
-        'platform.md',
-        'follow_delete.md',
-      ]
-    },
-    {
       text: '☯️东方相关',
       collapsible: true,
       prefix: "/function/touhou/",
@@ -153,6 +136,23 @@ export default sidebar({
         'fabing.md',
         'what2eat.md',
         'crazy_thursday.md',
+      ]
+    },
+    {
+      text: '🛠️管理功能',
+      collapsible: true,
+      prefix: "/function/admin/",
+      children: [
+        'plugin_manager.md',
+        'task_manager.md',
+        'load_balance.md',
+        'invite_request.md',
+        'user_interaction.md',
+        'group_manager.md',
+        'group_action.md',
+        'event_limit.md',
+        'platform.md',
+        'follow_delete.md',
       ]
     },
   ],
