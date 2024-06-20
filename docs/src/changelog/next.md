@@ -8,7 +8,7 @@ icon: clock
 
 ### 2024-06-20
 
-- 新增 [随机宛图](../function/img/random_shion.md)
+- 新增 [随机宛图](../function/touhou/random_shion.md)
 
 ### 2024-06-19
 
