@@ -65,7 +65,7 @@ export default sidebar({
         'img2url.md',
         'pjsk.md',
         'rgb.md',
-        'capoo.md',
+        'random_meme.md',
       ]
     },
     {

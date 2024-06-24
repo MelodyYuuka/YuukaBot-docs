@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-06-24
+
+- 新增 [随机表情包](../function/img/random_meme.md)，`Capoo 表情包` 合并到此功能中
+
 ### 2024-06-20
 
 - 新增 [随机宛图](../function/touhou/random_shion.md)
@@ -22,7 +26,7 @@ icon: clock
 
 ### 2024-06-09
 
-- 新增 [Capoo 表情包](../function/img/capoo.md)
+- 新增 [Capoo 表情包](../function/img/random_meme.md)
 
 ### 2024-06-07
 
