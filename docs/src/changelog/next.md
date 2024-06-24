@@ -9,6 +9,8 @@ icon: clock
 ### 2024-06-24
 
 - 新增 [随机表情包](../function/img/random_meme.md)，`Capoo 表情包` 合并到此功能中
+- 优化 [人设生成器系统](../function/play/shindanmaker.md) 和 [东方原曲点歌](../function/touhou/touhou_music.md) 在无法上传媒体时的提示
+- 优化 [帮我选择](../function/play/help_choose.md)
 
 ### 2024-06-20
 
