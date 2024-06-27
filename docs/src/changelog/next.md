@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-06-27
+
+- 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机狗妈`，`/随机碧蓝档案`，`/随机阿尼亚`
+
 ### 2024-06-24
 
 - 新增 [随机表情包](../function/img/random_meme.md)，`Capoo 表情包` 合并到此功能中
