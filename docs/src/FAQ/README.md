@@ -18,8 +18,8 @@ icon: circle-question
 
 |        平台        | 图片  | 语音  | 回复  | 按钮  | 触发形式  | 备注                                                               |
 | :----------------: | :---: | :---: | :---: | :---: | :-------: | ------------------------------------------------------------------- |
-|       <div style="width: 50pt">QQ野生</div>       |   ✅   |   ✅   |   ✅   |   ❌   | <div style="width: 65pt">🐝直接触发</div> | <div style="width: 170pt">支持全部功能<Badge type="warning" text="已弃用" vertical="top" /><br/>即将弃用，请改用QQ群(官方)</div>                         |
-|  QQ群<br/>(官方)   |   ✅   |   ✅   |   ❌   |   ✅   | @需要艾特 | 适配大部分功能，目前推荐使用                                        |
+|       <div style="width: 50pt">QQ野生</div>       |   ✅   |   ✅   |   ✅   |   ❌   | <div style="width: 70pt">🐝直接触发</div> | <div style="width: 170pt">支持全部功能<Badge type="warning" text="已弃用" vertical="top" /><br/>即将弃用，请改用QQ群(官方)</div>                         |
+|  QQ群<br/>(官方)   |   ✅   |   ✅   |   ❌   |   ✅   | @需要艾特 | 目前主要适配对象，推荐使用                                        |
 | QQ频道<br/>(官方)  |   ✅   |   ❌   |   ✅   |   ✅   | @需要艾特 | 适配大部分功能                                                      |
 | KOOK<br/>(开黑啦)  |   ✅   |   ✅   |   ❌   |   🟨   | 🐝直接触发 | 适配大部分功能                                                      |
 
