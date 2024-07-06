@@ -9,6 +9,11 @@ icon: clock
 ### 2024-07-06
 
 - 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机fufu`，`/随机白圣女`，`/随机柴郡猫`
+- 优化 [东方新闻](../function/touhou/touhou_news.md)：在 `QQBot` 平台上优化排版
+
+### 2024-07-01
+
+- 优化 [一言](../function/play/hitokoto.md)：解决了部分情况下无法返回的问题
 
 ### 2024-06-27
 
