@@ -26,3 +26,6 @@
 |/随机狗妈|/kagura_nana|狗妈表情包|![kagura_nana](/images/random_meme/kagura_nana.webp =200x)|
 |/随机碧蓝档案|/随机ba|碧蓝档案表情包|![ba](/images/random_meme/ba.webp =200x)|
 |/随机阿尼亚|/随机anya|阿尼亚表情包|![anya](/images/random_meme/anya.webp =200x)|
+|/随机fufu|/fufu|fufu表情包|![fufu](/images/random_meme/fufu.webp =200x)|
+|/随机白圣女|/cecilia|白圣女表情包|![cecilia](/images/random_meme/cecilia.webp =200x)|
+|/随机柴郡猫|/cheshire|柴郡猫表情包|![cheshire](/images/random_meme/cheshire.webp =200x)|
