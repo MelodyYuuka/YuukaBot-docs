@@ -6,6 +6,11 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-07-15
+
+- 根据腾讯的政策，在 `QQBot` 上关闭 [字符反转](../function/play/char_reverse.md)，[百科](../function/query/wiki.md)，[表情包制作](../function/img/img_meme.md)
+- 删除 [其它实用功能](../function/useful/useful.md) 中的 `搜提取码`，`还原网址`，`营销号生成`
+
 ### 2024-07-06
 
 - 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机fufu`，`/随机白圣女`，`/随机柴郡猫`
