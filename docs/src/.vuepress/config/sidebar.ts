@@ -136,6 +136,9 @@ export default sidebar({
         'fabing.md',
         'what2eat.md',
         'crazy_thursday.md',
+        'emoji_mix.md',
+        'httpcat.md',
+        'riddle.md',
       ]
     },
     {

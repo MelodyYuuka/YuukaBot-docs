@@ -6,6 +6,19 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-07-27
+
+- 更新 [东方猜](../function/touhou/touhou_guess.md)：添加 `/猜zun绘`
+- 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机柚子社`，`/随机doro`，`/随机eveonecat`
+- 优化了 `QQBot` 上的语音上传
+- 优化 [Hypixel 查询](../function/query/hypixel.md)
+
+### 2024-07-20
+
+- 新增 [http猫猫](../function/play/httpcat.md)
+- 新增 [猜谜语](../function/play/riddle.md)
+- 重新设计了 `帮助菜单`
+
 ### 2024-07-15
 
 - 根据腾讯的政策，在 `QQBot` 上关闭 [字符反转](../function/play/char_reverse.md)，[百科](../function/query/wiki.md)，[表情包制作](../function/img/img_meme.md)
