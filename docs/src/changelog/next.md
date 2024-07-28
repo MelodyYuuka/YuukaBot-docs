@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-07-28
+
+- 新增 [wordle猜单词](../function/play/wordle.md)
+
 ### 2024-07-27
 
 - 更新 [东方猜](../function/touhou/touhou_guess.md)：添加 `/猜zun绘`

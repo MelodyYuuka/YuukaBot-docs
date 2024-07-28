@@ -139,6 +139,7 @@ export default sidebar({
         'emoji_mix.md',
         'httpcat.md',
         'riddle.md',
+        'wordle.md'
       ]
     },
     {
