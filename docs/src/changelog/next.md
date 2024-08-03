@@ -6,6 +6,18 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-07-31
+
+- 更新 [Minecraft 功能](../function/query/minecraft.md)：添加 `上传皮肤`
+
+### 2024-07-30
+
+- 优化 [wordle猜单词](../function/play/wordle.md)
+
+### 2024-07-29
+
+- 为东方功能补全鬼人正邪立绘
+
 ### 2024-07-28
 
 - 新增 [wordle猜单词](../function/play/wordle.md)
