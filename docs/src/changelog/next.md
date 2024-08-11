@@ -6,6 +6,16 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-08-11
+
+- 重构 [随机东方](../function/touhou/random_touhou.md)：现在 `随机东方图` 支持在后面加人物名来指定人物，弃用 `随机东方`，未来可能会改为 `随机东方图` 的别名
+- 更新 [随机宛图](../function/touhou/random_shion.md)：添加了更多宛图
+- 优化 [车万生草机](../function/touhou/touhou_grass.md)
+
+### 2024-08-04
+
+- 优化 [人生重开](../function/play/remake.md)
+
 ### 2024-07-31
 
 - 更新 [Minecraft 功能](../function/query/minecraft.md)：添加 `上传皮肤`
