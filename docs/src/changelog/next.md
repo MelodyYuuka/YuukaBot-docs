@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-08-15
+
+- 新增 [东方日历](../function/touhou/touhou_date.md)
+
 ### 2024-08-11
 
 - 重构 [随机东方](../function/touhou/random_touhou.md)：现在 `随机东方图` 支持在后面加人物名来指定人物，弃用 `随机东方`，未来可能会改为 `随机东方图` 的别名
