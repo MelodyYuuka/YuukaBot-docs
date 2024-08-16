@@ -8,9 +8,11 @@
 
 ### /随机表情包
 
-- 指令： `/随机表情包`
+- 指令： `/随机表情包 [页数]`
 
-- 别名： `/随机表情包菜单`
+- 参数：
+
+  - `页数`：表情包页数，可选，默认为 1
 
 - 详情：
 
@@ -32,3 +34,4 @@
 |/随机柚子社|/随机0721|柚子社表情包|![0721](/images/random_meme/0721.webp =200x)|
 |/随机doro|/doro|doro表情包|![doro](/images/random_meme/doro.webp =200x)|
 |/随机eveonecat|/eveonecat|eveonecat表情包|![eveonecat](/images/random_meme/eveonecat.webp =200x)|
+|/随机fumo||fumo表情包|![fumo](/images/random_meme/fumo.webp =200x)|

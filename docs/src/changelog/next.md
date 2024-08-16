@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-08-16
+
+- 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机fumo`
+
 ### 2024-08-15
 
 - 新增 [东方日历](../function/touhou/touhou_date.md)
