@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-08-17
+
+- 优化 [人生重开](../function/play/remake.md)：修复了偶尔图片过大导致的发送失败
+
 ### 2024-08-16
 
 - 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机fumo`
