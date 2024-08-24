@@ -6,6 +6,12 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-08-24
+
+- 新增 [汉兜猜成语](../function/play/handle.md)
+- 优化 [诗词相关](../function/play/poem_writer.md)
+- 优化 [货币相关](../function/useful/exchange_rate.md)
+
 ### 2024-08-17
 
 - 优化 [人生重开](../function/play/remake.md)：修复了偶尔图片过大导致的发送失败
