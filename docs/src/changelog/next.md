@@ -6,6 +6,20 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-09-01
+
+- 新增 [查成语](../function/query/idiom.md)
+- 优化 [emoji猜成语](../function/play/emoji_idiom.md)
+- 优化 [汉兜猜成语](../function/play/handle.md)：添加了更多可用成语
+
+### 2024-08-31
+
+- 新增 [emoji猜成语](../function/play/emoji_idiom.md)
+
+### 2024-08-25
+
+- 优化 [汉兜猜成语](../function/play/handle.md)：修复了某些多音字问题
+
 ### 2024-08-24
 
 - 新增 [汉兜猜成语](../function/play/handle.md)
@@ -26,7 +40,7 @@ icon: clock
 
 ### 2024-08-11
 
-- 重构 [随机东方](../function/touhou/random_touhou.md)：现在 `随机东方图` 支持在后面加人物名来指定人物，弃用 `随机东方`，未来可能会改为 `随机东方图` 的别名
+- 重构 [随机东方](../function/touhou/random_touhou.md)：现在 `随机东方图` 支持在后面加人物名来指定人物。弃用 `随机东方`，未来可能会改为 `随机东方图` 的别名
 - 更新 [随机宛图](../function/touhou/random_shion.md)：添加了更多宛图
 - 优化 [车万生草机](../function/touhou/touhou_grass.md)
 
