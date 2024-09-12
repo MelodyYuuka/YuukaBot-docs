@@ -63,7 +63,7 @@ export default sidebar({
         'img_editor.md',
         'safebooru.md',
         'img2url.md',
-        'pjsk.md',
+        'stickers.md',
         'rgb.md',
         'random_meme.md',
       ]
@@ -85,7 +85,8 @@ export default sidebar({
         'weibo.md',
         'wiki.md',
         'ygo.md',
-        'orange_juice.md'
+        'orange_juice.md',
+        'idiom.md',
       ]
     },
     {
@@ -139,7 +140,9 @@ export default sidebar({
         'emoji_mix.md',
         'httpcat.md',
         'riddle.md',
-        'wordle.md'
+        'wordle.md',
+        'handle.md',
+        'emoji_idiom.md'
       ]
     },
     {

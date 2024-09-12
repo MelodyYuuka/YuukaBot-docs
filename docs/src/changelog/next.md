@@ -6,6 +6,15 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-09-12
+
+- 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机鹿乃子`，`/随机真寻`，`/随机甘城猫猫`
+- 修改 `pjsk 表情包生成器` 为 [贴纸表情包生成器](../function/img/stickers.md)
+
+### 2024-09-09
+
+- 修复 [设定生成器系统](../function/play/shindanmaker.md)
+
 ### 2024-09-01
 
 - 新增 [查成语](../function/query/idiom.md)

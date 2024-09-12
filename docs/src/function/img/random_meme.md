@@ -35,3 +35,6 @@
 |/随机doro|/doro|doro表情包|![doro](/images/random_meme/doro.webp =200x)|
 |/随机eveonecat|/eveonecat|eveonecat表情包|![eveonecat](/images/random_meme/eveonecat.webp =200x)|
 |/随机fumo||fumo表情包|![fumo](/images/random_meme/fumo.webp =200x)|
+|/随机鹿乃子||鹿乃子表情包|![arako_noriko](/images/random_meme/arako_noriko.webp =200x)|
+|/随机真寻||真寻表情包|![mahiro](/images/random_meme/mahiro.webp =200x)|
+|/随机甘城猫猫||甘城猫猫表情包|![natsuki](/images/random_meme/natsuki.webp =200x)|
