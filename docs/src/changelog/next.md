@@ -6,6 +6,12 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-09-16
+
+- 新增 [绕口令](../function/useful/tongue_twister.md)
+- 新增 `中秋祝福`
+- 优化 `早安`
+
 ### 2024-09-12
 
 - 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机鹿乃子`，`/随机真寻`，`/随机甘城猫猫`
