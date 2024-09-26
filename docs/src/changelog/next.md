@@ -6,6 +6,11 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-09-26
+
+- 根据腾讯要求，在 `QQ官方` 平台上禁用 [图片简单编辑](../function/img/img_editor.md)、[通用图像识别相关](../function/img/img_recognition.md)、[贴纸表情包生成器](../function/img/stickers.md)、[GitHub 相关](../function/query/github.md)、[Hypixel 查询](../function/query/hypixel.md)、[帕琪站视频解析](../function/query/patchyvideo.md)、[微博相关](../function/query/weibo.md)、[读懂世界](../function/useful/60s.md)、[数学工具](../function/useful/math.md)、[缩写释义](../function/useful/shortof.md)、[翻译](../function/useful/translate.md)
+- 根据腾讯要求，在 `QQ官方` 平台上禁用 [图片智慧功能](../function/img/img_deeper.md) 的 `去背景` 功能
+
 ### 2024-09-16
 
 - 新增 [绕口令](../function/useful/tongue_twister.md)
