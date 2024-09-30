@@ -9,6 +9,7 @@ icon: clock
 ### 2024-09-30
 
 - 根据腾讯要求，在 `QQ官方` 平台将部分内容使用占位符替代
+- 根据腾讯要求，在 `QQ官方` 平台上禁用 [语言相关功能](../function/useful/lang_plugin.md)、[safebooru 功能](../function/img/safebooru.md)、[搜索功能](../function/useful/search.md)
 
 ### 2024-09-26
 

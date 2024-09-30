@@ -33,6 +33,7 @@ export default navbar([
       { 'text': 'QQ群', 'link': 'https://qm.qq.com/q/RHZqFoSmac' },
       { 'text': 'Kook', 'link': 'https://kook.top/4wZDH7' },
       { 'text': 'QQ 频道', 'link': 'https://pd.qq.com/s/5iyaamyir' },
+      { 'text': 'Bilibili', 'link': 'https://space.bilibili.com/330143408/dynamic' },
     ]
   },
 ]);
