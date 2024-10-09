@@ -6,6 +6,16 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-10-03
+
+- 优化 [帮你选择](../function/play/help_choose.md)：现在只输入指令头会返回使用提示了
+- 修复 [东方日历](../function/touhou/touhou_date.md)：修复了某些没有注释的日期不能正常查询的问题
+
+### 2024-10-02
+
+- 更新 [天气](../function/useful/weather.md)：添加了 `各种天气图片`
+- 修复 [东方原曲点歌](../function/touhou/touhou_music.md) 部分原曲显示不正常的问题
+
 ### 2024-09-30
 
 - 根据腾讯要求，在 `QQ官方` 平台将部分内容使用占位符替代
