@@ -6,6 +6,14 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-10-11
+
+- 优化 [wordle猜单词](../function/play/wordle.md)：添加更多可使用单词
+
+### 2024-10-10
+
+- 修复 [设定生成器系统](../function/play/shindanmaker.md) 某些时候不能使用的问题
+
 ### 2024-10-03
 
 - 优化 [帮你选择](../function/play/help_choose.md)：现在只输入指令头会返回使用提示了
