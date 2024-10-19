@@ -6,6 +6,15 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-10-19
+
+- 修复 [东方原曲点歌](../function/touhou/touhou_music.md) 与 [东方问答](../function/touhou/touhou_quiz.md)：修复部分原曲显示不正常的问题
+
+### 2024-10-14
+
+- 优化 [帮助]：优化了搜索帮助文档的耗时
+- 优化一些文案与图片，让 `QQ官方` 平台审核开心
+
 ### 2024-10-11
 
 - 优化 [wordle猜单词](../function/play/wordle.md)：添加更多可使用单词
