@@ -38,3 +38,5 @@
 |/随机鹿乃子||鹿乃子表情包|![arako_noriko](/images/random_meme/arako_noriko.webp =200x)|
 |/随机真寻||真寻表情包|![mahiro](/images/random_meme/mahiro.webp =200x)|
 |/随机甘城猫猫||甘城猫猫表情包|![natsuki](/images/random_meme/natsuki.webp =200x)|
+|/随机幸运星||幸运星表情包|![konata](/images/random_meme/konata.webp =200x)|
+|/随机卡拉彼丘||卡拉彼丘表情包|![karabichu](/images/random_meme/karabichu.webp =200x)|
