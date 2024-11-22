@@ -2,6 +2,7 @@
 next: /function/
 icon: signs-post
 ---
+<!-- markdownlint-disable MD045 -->
 
 # 开始
 
@@ -13,7 +14,7 @@ icon: signs-post
 
 它的名字来源于 [东方Project](https://zh.moegirl.org.cn/%E4%B8%9C%E6%96%B9Project) 的 [风见幽香 (Kazami Yuuka)](https://zh.moegirl.org.cn/%E9%A3%8E%E8%A7%81%E5%B9%BD%E9%A6%99)
 
-[![badge](https://github.com/MelodyYuuka/YuukaBot-docs/workflows/docs/badge.svg)](https://github.com/MelodyYuuka/YuukaBot-docs)
+[![](https://github.com/MelodyYuuka/YuukaBot-docs/workflows/docs/badge.svg)](https://github.com/MelodyYuuka/YuukaBot-docs)
 
 ## 邀请
 

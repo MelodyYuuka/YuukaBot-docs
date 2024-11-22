@@ -40,3 +40,6 @@
 |/随机甘城猫猫||甘城猫猫表情包|![natsuki](/images/random_meme/natsuki.webp =200x)|
 |/随机幸运星||幸运星表情包|![konata](/images/random_meme/konata.webp =200x)|
 |/随机卡拉彼丘||卡拉彼丘表情包|![karabichu](/images/random_meme/karabichu.webp =200x)|
+|/随机小鹦鹉||小鹦鹉表情包|![parakeet](/images/random_meme/parakeet.webp =200x)|
+|/随机gal||gal表情包|![gal](/images/random_meme/gal.webp =200x)|
+|/随机北方栖姬||北方栖姬表情包|![beifang](/images/random_meme/beifang.webp =200x)|
