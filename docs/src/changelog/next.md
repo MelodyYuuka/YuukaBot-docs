@@ -8,6 +8,7 @@ icon: clock
 
 ### 2024-11-22
 
+- 更新 [随机表情包](../function/img/random_meme.md)：更新更多 `/随机eveonecat`
 - 优化 [猜谜语](../function/play/riddle.md)
 
 ### 2024-11-21
