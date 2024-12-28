@@ -6,6 +6,60 @@ icon: clock
 
 ## 更新时间线
 
+### 2024-12-28
+
+- 优化 [人生重开](../function/play/remake.md)：优化在 `QQBot` 平台上偶尔发不出消息的问题
+
+### 2024-12-21
+
+- 新增 [抽卡模拟器](../function/play/draw_card.md)：新增 `/抽ba`，`/抽pcr`
+
+### 2024-12-20
+
+- 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机padoru`，原先的 `/随机padoru` 更名为 `/随机东方padoru`
+
+### 2024-12-19
+
+- 优化 `QQBot` 平台全局使用体验
+
+### 2024-12-17
+
+- 优化 [设定生成器系统](../function/play/shindanmaker.md)：优化使用体验
+
+### 2024-12-13
+
+- 优化 [东方日历](../function/touhou/touhou_date.md)：优化使用体验
+
+### 2024-12-12
+
+- 优化 [人生重开](../function/play/remake.md)：优化在 `QQBot` 平台上偶尔发不出消息的问题
+- 优化 [塔罗牌相关](../function/play/tarot.md)：修正一个拼写错误
+
+### 2024-12-08
+
+- 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机padoru`
+
+### 2024-12-05
+
+- 优化 [地震监测](../function/query/earthquake.md)：优化使用体验
+
+### 2024-12-02
+
+- 更新 [倒计时相关](../function/useful/countdown.md)：添加了 `/倒计时帮助`
+
+### 2024-12-01
+
+- 修复 [随机东方](../function/touhou/random_touhou.md)：修复部分人物偶尔不能正常搜到的问题
+- 优化 [汉兜猜成语](../function/play/handle.md)：优化使用体验
+
+### 2024-11-29
+
+- 修复 [人生重开](../function/play/remake.md)：在极端情况下重开失败不能正常回复的问题
+
+### 2024-11-23
+
+- 更新 [东方原曲点歌](../function/touhou/touhou_music.md)：新增 `/原曲信息`, `/原曲资料`
+
 ### 2024-11-22
 
 - 更新 [随机表情包](../function/img/random_meme.md)：更新更多 `/随机eveonecat`
