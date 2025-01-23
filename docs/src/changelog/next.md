@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-01-22
+
+- 更新 [100%鲜橙汁](../function/query/orange_juice.md)：更新到最新dlc信息
+
 ### 2025-01-18
 
 - 更新 [随机表情包](../function/img/random_meme.md)：添加 `/随机芙莉莲`, `/随机琪露诺`, `/随机少哭乐队`
