@@ -142,7 +142,9 @@ export default sidebar({
         'riddle.md',
         'wordle.md',
         'handle.md',
-        'emoji_idiom.md'
+        'emoji_idiom.md',
+        'draw_card.md',
+        'tongue_twister.md',
       ]
     },
     {
@@ -150,6 +152,7 @@ export default sidebar({
       collapsible: true,
       prefix: "/function/admin/",
       children: [
+        'plugin_manager_bot.md',
         'plugin_manager.md',
         'task_manager.md',
         'load_balance.md',

@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-01-25
+
+- 新增 [功能管理（for QQ官方）](../function/admin/plugin_manager_bot.md)：针对 `QQBot` 平台的分群功能开关
+
 ### 2025-01-22
 
 - 更新 [100%鲜橙汁](../function/query/orange_juice.md)：更新到最新dlc信息
