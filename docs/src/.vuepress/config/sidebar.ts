@@ -232,6 +232,7 @@ export default sidebar({
       prefix: "/changelog/",
       children: [
         'next.md',
+        'v6.10.0.md',
         'v6.9.0.md',
         'v6.8.0.md',
         'v6.7.0.md',
