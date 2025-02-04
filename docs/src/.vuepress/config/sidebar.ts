@@ -115,6 +115,7 @@ export default sidebar({
         'useful.md',
         'chatai.md',
         'lang_plugin.md',
+        'tongue_twister.md',
       ]
     },
     {
@@ -144,7 +145,6 @@ export default sidebar({
         'handle.md',
         'emoji_idiom.md',
         'draw_card.md',
-        'tongue_twister.md',
       ]
     },
     {
