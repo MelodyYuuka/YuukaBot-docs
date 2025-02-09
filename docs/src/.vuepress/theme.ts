@@ -10,7 +10,6 @@ export default hopeTheme({
     url: "https://github.com/MelodyYuuka",
   },
 
-  iconAssets: "fontawesome-with-brands",
   logo: "/images/logo.webp",
   repo: "MelodyYuuka/YuukaBot-docs",
   repoLabel: '文档仓库',
@@ -51,6 +50,41 @@ export default hopeTheme({
     notFoundMsg: ["呜哇，你怎么到这里来的"],
   },
 
+    markdown: {
+      align: true,
+      attrs: true,
+      codeTabs: true,
+      component: true,
+      demo: true,
+      figure: true,
+      imgLazyload: true,
+      imgSize: true,
+      include: true,
+      hint: true,
+      mark: true,
+      plantuml: true,
+      spoiler: true,
+      stylize: [
+        {
+          matcher: "Recommended",
+          replacer: ({ tag }) => {
+            if (tag === "em")
+              return {
+                tag: "Badge",
+                attrs: { type: "tip" },
+                content: "Recommended",
+              };
+          },
+        },
+      ],
+      sub: true,
+      sup: true,
+      tabs: true,
+      tasklist: true,
+      vPre: true,
+      math: true,
+    },
+
   // 在这里配置主题提供的插件
   plugins: {
     // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
@@ -63,6 +97,16 @@ export default hopeTheme({
       categoryId: "DIC_kwDOI6FjGM4CdVzV",
       strict: true,
       lazyLoading: true,
+    },
+
+    redirect: {
+      config: {
+        "/function/img/pjsk.md": "/function/img/stickers.md",
+      }
+    },
+
+    icon: {
+      assets: "fontawesome-with-brands",
     },
 
     docsearch: {
@@ -134,46 +178,6 @@ export default hopeTheme({
         // "VidStack",
         // "XiGua",
       ],
-      componentOptions: {
-        fontIcon: {
-          assets: "fontawesome",
-        },
-      },
-    },
-    // 此处开启了很多功能用于演示，你应仅保留用到的功能。
-    mdEnhance: {
-      align: true,
-      attrs: true,
-      codetabs: true,
-      component: true,
-      demo: true,
-      figure: true,
-      imgLazyload: true,
-      imgSize: true,
-      include: true,
-      hint: true,
-      mark: true,
-      plantuml: true,
-      spoiler: true,
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      tasklist: true,
-      vPre: true,
-      katex: true,
     },
   },
 });

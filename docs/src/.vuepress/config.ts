@@ -23,7 +23,7 @@ export default defineUserConfig({
     baiduAnalyticsPlugin({
       id: "7a0d3a4e8454cc167b63e7dc1de54488"
     }),
-    removeHtmlExtensionPlugin()
+    removeHtmlExtensionPlugin(),
   ],
   clientConfigFile: path.resolve(__dirname, "./client.ts"),
 });
