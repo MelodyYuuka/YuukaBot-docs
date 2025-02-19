@@ -7,6 +7,7 @@ heroText: YuukaBot
 tagline: 高性能の跨平台Bot
 heroImage: /images/logo.webp
 heroImageDark: /images/logo.webp
+footer: '<a href="https://beian.miit.gov.cn/" style="color: rgba(60, 60, 67, 0.78);">闽ICP备2024074800号-1</a>'
 actions:
   - text: 开始使用
     link: /start/
