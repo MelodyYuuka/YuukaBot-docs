@@ -45,3 +45,11 @@
 |/随机北方栖姬||北方栖姬表情包|![beifang](/images/random_meme/beifang.webp =200x)|
 |/随机padoru||padoru表情包|![padoru](/images/random_meme/all_padoru.webp =200x)|
 |/随机东方padoru||东方padoru表情包|![padoru](/images/random_meme/padoru.webp =200x)|
+
+### /随机分类表情包
+
+- 指令： `/随机分类表情包`
+
+- 详情：
+
+  随机获取某一分类的表情包
