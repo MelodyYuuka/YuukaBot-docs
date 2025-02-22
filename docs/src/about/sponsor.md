@@ -32,7 +32,7 @@ YuukaBot 是完全免费多功能的原创 Bot，一直致力于为家人们提�
 
 @tab QQ
 
-![QQ](/images/sponsor/qq.webp =300x)
+![QQ](/images/sponsor/qq_next.webp =300x)
 
 @tab QQ备用
 
