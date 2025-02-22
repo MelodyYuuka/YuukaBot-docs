@@ -34,4 +34,8 @@ YuukaBot 是完全免费多功能的原创 Bot，一直致力于为家人们提�
 
 ![QQ](/images/sponsor/qq.webp =300x)
 
+@tab QQ备用
+
+![QQ备用](/images/sponsor/qq2.webp =300x)
+
 :::
