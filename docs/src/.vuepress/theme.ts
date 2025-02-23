@@ -29,6 +29,8 @@ export default hopeTheme({
     end: ["Language", "GroupLink", "Repo", "Outlook", "Search"],
   },
 
+  pageInfo: false,
+
   license: "CC-BY-SA-4.0",
   copyright: "CC-BY-SA-4.0 Licensed | Copyright © 2019-present MelodyYuuka",
   displayFooter: true,
