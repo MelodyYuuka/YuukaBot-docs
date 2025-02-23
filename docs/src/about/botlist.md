@@ -26,8 +26,10 @@
 
 恋恋(Kook[测试姬])
 
-## QQ频道
+## QQ官方
 
 幽幽子(QQGuild)
+
+妖梦(QQGuild)
 
 冴月麟(QQGuild[测试姬])
