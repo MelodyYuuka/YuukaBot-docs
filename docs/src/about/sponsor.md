@@ -20,7 +20,7 @@ YuukaBot 是完全免费多功能的原创 Bot，一直致力于为家人们提�
 
 @tab 支付宝
 
-![支付宝](/images/sponsor/alipay.webp =300x)
+![支付宝](/images/sponsor/alipay_all.webp =600x)
 
 @tab 微信
 
