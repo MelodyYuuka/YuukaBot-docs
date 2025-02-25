@@ -125,7 +125,6 @@ export default sidebar({
       prefix: "/function/play/",
       children: [
         'fantasy.md',
-        'char_reverse.md',
         'help_choose.md',
         'hitokoto.md',
         'minesweeper.md',
@@ -147,6 +146,7 @@ export default sidebar({
         'emoji_idiom.md',
         'draw_card.md',
         'modern_word.md',
+        'char_reverse.md',
       ]
     },
     {
