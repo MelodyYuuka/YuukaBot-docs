@@ -46,8 +46,9 @@ export default sidebar({
         'random_scene.md',
         'touhou_music.md',
         'touhou_guess.md',
-        'yunmengdu.md',
+        'touhou_date.md',
         'random_shion.md',
+        'yunmengdu.md',
       ]
     },
     {
@@ -145,6 +146,7 @@ export default sidebar({
         'handle.md',
         'emoji_idiom.md',
         'draw_card.md',
+        'modern_word.md',
       ]
     },
     {
