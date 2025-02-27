@@ -52,7 +52,6 @@
 | /随机琪露诺                                     | 琪露诺表情包       | ![cirno](/images/random_meme/cirno.webp =200x)               |
 | /随机少哭乐队<br/>/随机gbc                      | 少哭乐队表情包     | ![gbc](/images/random_meme/gbc.webp =200x)                   |
 
-
 ### /随机分类表情包
 
 - 指令： `/随机分类表情包`
