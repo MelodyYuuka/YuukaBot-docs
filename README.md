@@ -30,7 +30,7 @@
 git clone https://github.com/MelodyYuuka/YuukaBot-docs
 # 拉取源码
 
-cd YuukaBot-docs
+cd YuukaBot-docs/docs
 
 yarn install
 # 安装依赖

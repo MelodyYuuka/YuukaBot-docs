@@ -88,7 +88,7 @@ YuukaBot 采用指令-参数式交互，支持通过指令前加 [**艾特**](..
 git clone https://github.com/MelodyYuuka/YuukaBot-docs
 # 拉取源码
 
-cd YuukaBot-docs
+cd YuukaBot-docs/docs
 
 yarn install
 # 安装依赖
@@ -103,7 +103,7 @@ yarn docs:dev
 git clone https://github.com/MelodyYuuka/YuukaBot-docs
 # 拉取源码
 
-cd YuukaBot-docs
+cd YuukaBot-docs/docs
 
 npm install
 # 安装依赖
