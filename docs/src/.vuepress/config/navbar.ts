@@ -34,6 +34,7 @@ export default navbar([
       { 'text': 'Kook', 'link': 'https://kook.top/4wZDH7' },
       { 'text': 'QQ 频道', 'link': 'https://pd.qq.com/s/5iyaamyir' },
       { 'text': 'Bilibili', 'link': 'https://space.bilibili.com/330143408/dynamic' },
+      { 'text': 'QQ 小程序', 'link': 'https://m.q.qq.com/a/s/d58a856a4d9d268aa5bc43caf1839723' },
     ]
   },
 ]);
