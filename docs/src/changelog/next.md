@@ -6,6 +6,15 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-03-07
+
+- 更新 [功能管理（for QQ官方）](../function/admin/plugin_manager_bot.md)：更新频道操作，新增 `/设置使用子频道` 和 `/取消子频道限制` 指令
+
+### 2025-03-01
+
+- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机邪神与厨二病`
+- 上线 [幽幽子小程序](https://m.q.qq.com/a/s/d58a856a4d9d268aa5bc43caf1839723)
+
 ### 2025-02-19
 
 - 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机分类表情包`
