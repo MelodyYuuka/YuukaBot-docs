@@ -56,6 +56,14 @@ icon: signs-post
 - 功能基本完整，可前往 [**Dreamer云梦都** (Kook频道)](https://kook.top/4wZDH7) 围观开发进度
 - 已经可以拉入自己的 KOOK 频道啦
 
+<VPCard
+  title="幽幽子"
+  desc="里吼啊，这里是墨染的吃货，快和我一起幻想入吧~"
+  logo="/images/avatar/yuyuko.webp"
+  link="https://www.kookapp.cn/app/oauth2/authorize?id=11923&permissions=1073741822&client_id=JO7YTQlqvDVwtHKL&redirect_uri=&scope=bot"
+  background="rgba(255, 183, 197, 0.25)"
+/>
+
 ## 使用
 
 YuukaBot 采用指令-参数式交互，支持通过指令前加 [**艾特**](../about/glossary.md#艾特) 来指定服务 Bot。详见 [**指令**](../function/) 部分
