@@ -31,10 +31,10 @@ icon: signs-post
 
 <VPCard
   title="幽幽子"
-  desc="里吼啊，这里是墨染的吃货，快和我一起幻想入吧~"
+  desc="QQ群/私聊 邀请链接"
   logo="/images/avatar/yuyuko.webp"
   link="https://qun.qq.com/qunpro/robot/qunshare?robot_uin=3889001246"
-  background="rgba(255, 183, 197, 0.25)"
+  background="rgba(34, 192, 252, 0.25)"
 />
 
 ### QQ 频道
@@ -45,7 +45,7 @@ icon: signs-post
 
 <VPCard
   title="幽幽子"
-  desc="里吼啊，这里是墨染的吃货，快和我一起幻想入吧~"
+  desc="QQ频道 邀请链接"
   logo="/images/avatar/yuyuko.webp"
   link="https://qun.qq.com/qunpro/robot/share?robot_appid=102076836"
   background="rgba(255, 183, 197, 0.25)"
@@ -58,10 +58,10 @@ icon: signs-post
 
 <VPCard
   title="幽幽子"
-  desc="里吼啊，这里是墨染的吃货，快和我一起幻想入吧~"
+  desc="KOOK（开黑啦）邀请链接"
   logo="/images/avatar/yuyuko.webp"
   link="https://www.kookapp.cn/app/oauth2/authorize?id=11923&permissions=1073741822&client_id=JO7YTQlqvDVwtHKL&redirect_uri=&scope=bot"
-  background="rgba(255, 183, 197, 0.25)"
+  background="rgba(116, 224, 26, 0.25)"
 />
 
 ## 使用
