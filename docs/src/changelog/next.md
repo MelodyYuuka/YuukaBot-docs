@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-03-14
+
+- 新增 [东方符卡功能](../function/touhou/touhou_spellcard.md)
+
 ### 2025-03-07
 
 - 更新 [功能管理（for QQ官方）](../function/admin/plugin_manager_bot.md)：更新频道操作，新增 `/设置使用子频道` 和 `/取消子频道限制` 指令
