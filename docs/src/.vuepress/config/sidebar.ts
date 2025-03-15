@@ -47,6 +47,7 @@ export default sidebar({
         'touhou_music.md',
         'touhou_guess.md',
         'touhou_date.md',
+        'touhou_spellcard.md',
         'random_shion.md',
         'yunmengdu.md',
       ]
