@@ -6,6 +6,13 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-03-23
+
+- 更新 [100%鲜橙汁](../function/query/orange_juice.md)：
+  - 现在查卡时可以使用英文名
+  - 现在查卡/抽卡时会有更多附加信息
+  - 现在排行榜可以将页码替换为角色名来搜索角色
+
 ### 2025-03-14
 
 - 新增 [东方符卡功能](../function/touhou/touhou_spellcard.md)
