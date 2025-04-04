@@ -6,6 +6,15 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-04-04
+
+- 新增 [东方幻存神签](../function/touhou/touhou_genson_shinju.md)
+- 更新 [表情包搜索器](../function/img/meme_searcher.md)：添加 `/搜mujica`
+
+### 2025-03-24
+
+- 新增 [表情包搜索器](../function/img/meme_searcher.md)：添加 `/搜mygo`
+
 ### 2025-03-23
 
 - 更新 [100%鲜橙汁](../function/query/orange_juice.md)：
