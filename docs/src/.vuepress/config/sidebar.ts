@@ -48,6 +48,7 @@ export default sidebar({
         'touhou_guess.md',
         'touhou_date.md',
         'touhou_spellcard.md',
+        'touhou_genson_shinju.md',
         'random_shion.md',
         'yunmengdu.md',
       ]
@@ -68,6 +69,7 @@ export default sidebar({
         'stickers.md',
         'rgb.md',
         'random_meme.md',
+        'meme_searcher.md'
       ]
     },
     {
