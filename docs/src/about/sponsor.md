@@ -24,11 +24,11 @@ YuukaBot 是完全免费多功能的原创 Bot，一直致力于为家人们提�
 
 @tab 微信
 
-![微信](/images/sponsor/wechat.webp =300x)
+![微信](./wechat1-20250405.webp =300x)
 
 @tab 微信备用
 
-![微信备用](/images/sponsor/wechat2.webp =300x)
+![微信备用](./wechat2-20250405.webp =300x)
 
 @tab QQ
 
