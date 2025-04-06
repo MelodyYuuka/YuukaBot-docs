@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-04-05
+
+- 修复 [东方符卡功能](../function/touhou/touhou_spellcard.md)：部分符卡不能正常显示图片的问题
+
 ### 2025-04-04
 
 - 新增 [东方幻存神签](../function/touhou/touhou_genson_shinju.md)
