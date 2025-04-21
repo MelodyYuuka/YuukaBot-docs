@@ -6,6 +6,28 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-04-19
+
+- 更新 [100% 橙汁](../function/query/orange_juice.md)：新增 `/查百橙地图`
+- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机莉莉白`
+
+### 2025-04-17
+
+- 更新 [100% 橙汁](../function/query/orange_juice.md)：新增 `/随机百橙地图`
+
+### 2025-04-12
+
+- 更新 [东方音乐](../function/touhou/touhou_music.md)：新增 `/随机同人音乐`、`/查原曲同人`
+
+### 2025-04-10
+
+- 在 `QQ官方` 平台：`妖梦` 与 `幽幽子` 数据现在部分互通
+
+### 2025-04-07
+
+- 更新 [东方问答](../function/touhou/touhou_quiz.md)：新增一些题目
+- 在 `QQ野生` 平台上重新支持 [网易云音乐功能](../function/useful/ncm_plugin.md) 与 [其他点歌相关](../function/useful/music.md)
+
 ### 2025-04-05
 
 - 修复 [东方符卡功能](../function/touhou/touhou_spellcard.md)：部分符卡不能正常显示图片的问题

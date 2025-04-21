@@ -26,7 +26,7 @@
 | /随机kemomimi<br/>/随机兽耳酱                   | ![kemomimi](/images/random_meme/kemomimi.webp =200x)         | 兽耳酱表情包       |
 | /随机mygo                                       | ![mygo](/images/random_meme/mygo.webp =200x)                 | mygo表情包         |
 | /随机狗妈<br/>/随机kagura_nana                  | ![kagura_nana](/images/random_meme/kagura_nana.webp =200x)   | 狗妈表情包         |
-| /随机碧蓝档案<br/>/随机ba                       | ![ba](/images/random_meme/ba.webp =200x)                     | 碧蓝档案表情包     |
+| /随机蔚蓝档案<br/>/随机碧蓝档案<br/>/随机ba     | ![ba](/images/random_meme/ba.webp =200x)                     | 碧蓝档案表情包     |
 | /随机阿尼亚<br/>/随机anya                       | ![anya](/images/random_meme/anya.webp =200x)                 | 阿尼亚表情包       |
 | /随机fufu                                       | ![fufu](/images/random_meme/fufu.webp =200x)                 | fufu表情包         |
 | /随机白圣女<br/>/随机cecilia                    | ![cecilia](/images/random_meme/cecilia.webp =200x)           | 白圣女表情包       |
