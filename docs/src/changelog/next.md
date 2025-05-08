@@ -6,6 +6,29 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-05-08
+
+- 更新 [100% 橙汁](../function/query/orange_juice.md)：
+  - 新增 `/随机百橙成就`
+  - 在 `/百橙个人统计` 上新增 `已解锁成就` 项，优化了经典场数/胜场的显示
+
+### 2025-05-06
+
+- 更新 [随机表情包](../function/img/random_meme.md)：更新 `/随机莉莉白`
+
+### 2025-05-01
+
+- 优化 [东方问答](../function/touhou/touhou_quiz.md)：`/原曲认知` 出题策略优化
+
+### 2025-04-27
+
+- 优化 [人生重开](../function/play/remake.md)：优化在 `QQBot-妖梦` 上的使用
+
+### 2025-04-26
+
+- 更新 [100% 橙汁](../function/query/orange_juice.md) 与 [Steam 功能](../function/query/steam.md)：
+  - 现在在输入 steamid 的时候会忽略除数字外的符号，方便用户直接粘贴个人资料链接
+
 ### 2025-04-23
 
 - 更新 [100% 橙汁](../function/query/orange_juice.md)：
