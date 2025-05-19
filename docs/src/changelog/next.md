@@ -6,6 +6,20 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-05-16
+
+- 修复 [东方日历](../function/touhou/touhou_date.md)：规避在 `QQBot` 平台上由于 `恋色` 二字而导致违规的问题
+- 优化在 `QQBot` 平台上 因使用 `QQ 9.1.65` 及以上版本而受影响的 用户体验
+
+### 2025-05-13
+
+- 更新 [100% 橙汁](../function/query/orange_juice.md)：优化一些地图的显示
+
+### 2025-05-12
+
+- 新增 [东方表情包](../function/touhou/touhou_sticker.md)：新增 `/随机东方表情包`、`/搜东方表情包 [角色名]`
+- 为东方人物添加更多别名，有更多别名投稿可以发邮件至 <Bot@yunmengdu.cn>
+
 ### 2025-05-08
 
 - 更新 [100% 橙汁](../function/query/orange_juice.md)：

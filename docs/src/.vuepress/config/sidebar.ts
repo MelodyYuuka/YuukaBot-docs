@@ -50,6 +50,7 @@ export default sidebar({
         'touhou_spellcard.md',
         'touhou_genson_shinju.md',
         'random_shion.md',
+        'touhou_sticker.md',
         'yunmengdu.md',
       ]
     },
