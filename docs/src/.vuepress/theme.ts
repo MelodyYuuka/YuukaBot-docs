@@ -87,7 +87,9 @@ export default hopeTheme({
       tabs: true,
       tasklist: true,
       vPre: true,
-      math: true,
+      math: {
+        type: "katex",
+      }
     },
 
   // 在这里配置主题提供的插件
