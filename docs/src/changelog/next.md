@@ -6,6 +6,40 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-06-28
+
+- 更新 [随机表情包](../function/img/random_meme.md)：更新 `/随机塔菲`
+
+### 2025-06-25
+
+- 更新 [云梦都相关](../function/touhou/yunmengdu.md)：
+  - 新增 `/setskin`，用于直接设置服务器内皮肤
+  - 新增 `/playerinfo`，用于查看玩家信息
+
+### 2025-06-18
+
+- 优化 [wordle猜单词](../function/play/wordle.md)：现在字典名称不区分大小写
+
+### 2025-06-15
+
+- 修复 [东方幻存神签](../function/touhou/touhou_genson_shinju.md)：偶尔可能出现的骰子点数不正确问题
+
+### 2025-06-10
+
+- 更新 [100% 橙汁](../function/query/orange_juice.md)：更新到最新DLC数据
+
+### 2025-06-07
+
+- 修复兽王园1.00a版本中 `少女曾见的日本原风景` 误写为 `信仰是为了虚幻之人` 的问题
+
+### 2025-06-05
+
+- 优化 [设定生成器系统](../function/play/shindanmaker.md) 的速度
+
+### 2025-05-31
+
+- 优化部分功能在 `QQBot` 平台上的使用体验
+
 ### 2025-05-16
 
 - 修复 [东方日历](../function/touhou/touhou_date.md)：规避在 `QQBot` 平台上由于 `恋色` 二字而导致违规的问题
