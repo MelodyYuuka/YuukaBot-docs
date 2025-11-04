@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-11-04
+
+- 更新 [随机表情包](../function/img/random_meme.md)：更新 `/随机雪莉`
+
 ### 2025-11-01
 
 - 应 `QQ官方` 平台要求，关闭 [发病语录](../function/play/fabing.md) 在 `QQ平台` 的使用

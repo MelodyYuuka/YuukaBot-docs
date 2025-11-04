@@ -51,6 +51,10 @@
 | /随机芙莉莲<br/>/随机菲伦<br/>/随机葬送的芙莉莲 | ![frieren](/images/random_meme/frieren.webp =200x)           | 芙莉莲表情包       |
 | /随机琪露诺                                     | ![cirno](/images/random_meme/cirno.webp =200x)               | 琪露诺表情包       |
 | /随机少哭乐队<br/>/随机gbc                      | ![gbc](/images/random_meme/gbc.webp =200x)                   | 少哭乐队表情包     |
+| /邪神与厨二病                                   | ![jashin-chan](/images/random_meme/jashin-chan.webp =200x)   | 邪神与厨二病表情包 |
+| /随机莉莉白                                     | ![lilywhite](/images/random_meme/lilywhite.webp =200x)       | 莉莉白表情包       |
+| /随机雪莉<br/>/随机橘雪莉                       | ![sheri](/images/random_meme/sheri.webp =200x)               | 橘雪莉表情包       |
+| /随机塔菲<br/>/随机永雏塔菲<br/>/随机taffy      | ![taffy](/images/random_meme/taffy.webp =200x)               | 永雏塔菲表情包     |
 
 ### /随机分类表情包
 
