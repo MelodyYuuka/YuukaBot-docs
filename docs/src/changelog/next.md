@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-11-13
+
+- 修复 [每日一句](../function/useful/everyday_en.md)
+
 ### 2025-11-04
 
 - 更新 [随机表情包](../function/img/random_meme.md)：更新 `/随机雪莉`
