@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-11-16-
+
+- 优化了 [天气](../function/useful/weather.md) 对于其他时区用户的使用体验
+
 ### 2025-11-13
 
 - 修复 [每日一句](../function/useful/everyday_en.md)
