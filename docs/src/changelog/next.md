@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-11-19
+
+- 更新 [随机表情包](../function/img/random_meme.md)：更新了更多的 `/随机雪莉`
+
 ### 2025-11-16
 
 - 优化了 [天气](../function/useful/weather.md) 对于其他时区用户的使用体验
