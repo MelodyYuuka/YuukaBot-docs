@@ -6,6 +6,11 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-11-26
+
+- 优化升级了 [tag识别](../function/img/img_deeper.md) 功能的模型，提升了识别的准确率
+- 由于不可抗力，在 `QQBot` 平台的 `幽幽子` 上关闭了 [tag识别](../function/img/img_deeper.md) 与 [bilibili 解析](../function/query/bilibili.md)，请考虑改用 [妖梦酱](https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854208350) 使用以上功能
+
 ### 2025-11-19
 
 - 更新 [随机表情包](../function/img/random_meme.md)：更新了更多的 `/随机雪莉`
