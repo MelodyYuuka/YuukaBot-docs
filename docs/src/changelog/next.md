@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-11-30
+
+- 更新 [随机表情包](../function/img/random_meme.md)：下架比较罕见的 `/随机capoo`
+
 ### 2025-11-26
 
 - 优化升级了 [tag识别](../function/img/img_deeper.md) 功能的模型，提升了识别的准确率
