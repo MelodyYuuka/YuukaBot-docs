@@ -55,6 +55,7 @@
 | /随机莉莉白                                     | ![lily_white](/images/random_meme/lily_white.webp =200x)       | 莉莉白表情包       |
 | /随机雪莉<br/>/随机橘雪莉                       | ![sheri](/images/random_meme/sheri.webp =200x)               | 橘雪莉表情包       |
 | /随机塔菲<br/>/随机永雏塔菲<br/>/随机taffy      | ![taffy](/images/random_meme/taffy.webp =200x)               | 永雏塔菲表情包     |
+| /随机猪<br/>/随机猪猪                            | ![pig](/images/random_meme/pig.webp =200x)                   | 猪猪表情包         |
 
 ### /随机分类表情包
 

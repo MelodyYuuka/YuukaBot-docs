@@ -6,6 +6,18 @@ icon: clock
 
 ## 更新时间线
 
+### 2025-12-29
+
+- 优化了 [地震监测](../function/query/earthquake.md) 功能的使用体验
+
+### 2025-12-09
+
+- 更新 [HTTP猫猫](../function/play/httpcat.md)：新增 `/httpfumo`
+
+### 2025-12-04
+
+- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机猪`
+
 ### 2025-11-30
 
 - 更新 [随机表情包](../function/img/random_meme.md)：下架比较罕见的 `/随机capoo`
