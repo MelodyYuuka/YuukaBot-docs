@@ -56,6 +56,10 @@
 | /随机雪莉<br/>/随机橘雪莉                       | ![sheri](/images/random_meme/sheri.webp =200x)               | 橘雪莉表情包       |
 | /随机塔菲<br/>/随机永雏塔菲<br/>/随机taffy      | ![taffy](/images/random_meme/taffy.webp =200x)               | 永雏塔菲表情包     |
 | /随机猪<br/>/随机猪猪                            | ![pig](/images/random_meme/pig.webp =200x)                   | 猪猪表情包         |
+| /随机kipfel                                  | ![kipfel](/images/random_meme/kipfel.webp =200x)             | kipfel表情包       |
+| /随机初音猫                                   | ![miku_cat](/images/random_meme/miku_cat.webp =200x)     | 初音猫表情包       |
+| /随机菲比啾比<br/>/随机菲比                     | ![phoebe](/images/random_meme/phoebe.webp =200x)             | 菲比啾比表情包     |
+| /随机小玛丽<br/>/随机mary                      | ![little_mari](/images/random_meme/little_mari.webp =200x)                 | 小玛丽表情包       |
 
 ### /随机分类表情包
 

@@ -8,6 +8,10 @@ icon: clock
 
 ### 2025-12-29
 
+- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机kipfel`、`/随机初音猫`、`/随机菲比啾比`、`/随机小玛丽`
+
+### 2025-12-28
+
 - 优化了 [地震监测](../function/query/earthquake.md) 功能的使用体验
 
 ### 2025-12-09
