@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /
+Sitemap: https://bot.yunmengdu.cn/sitemap.xml
+User-agent:*
+Disallow:
+
+Sitemap: https://bot.yunmengdu.cn/sitemap.xml
