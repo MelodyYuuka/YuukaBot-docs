@@ -18,9 +18,11 @@
 
   获取随机表情包菜单
 
+
+<!-- | /随机capoo<br/>/随机咖波                        | ![capoo](/images/random_meme/capoo.webp =200x)               | Capoo 表情包       | -->
+
 | 指令                                            | 预览                                                         | 详情               |
 | ----------------------------------------------- | ------------------------------------------------------------ | ------------------ |
-<!-- | /随机capoo<br/>/随机咖波                        | ![capoo](/images/random_meme/capoo.webp =200x)               | Capoo 表情包       | -->
 | /随机孤独摇滚<br/>/随机bocchi                   | ![bocchi](/images/random_meme/bocchi.webp =200x)             | 孤独摇滚表情包     |
 | /随机赛马娘<br/>/随机derby                      | ![derby](/images/random_meme/derby.webp =200x)               | 赛马娘表情包       |
 | /随机kemomimi<br/>/随机兽耳酱                   | ![kemomimi](/images/random_meme/kemomimi.webp =200x)         | 兽耳酱表情包       |

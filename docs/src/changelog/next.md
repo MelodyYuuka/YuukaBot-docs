@@ -9,6 +9,7 @@ icon: clock
 ### 2025-12-29
 
 - 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机kipfel`、`/随机初音猫`、`/随机菲比啾比`、`/随机小玛丽`
+- 优化 [塔罗牌相关](../function/play/tarot.md) 的使用体验
 
 ### 2025-12-28
 
