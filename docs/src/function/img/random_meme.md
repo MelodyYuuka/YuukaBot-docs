@@ -18,7 +18,6 @@
 
   获取随机表情包菜单
 
-
 <!-- | /随机capoo<br/>/随机咖波                        | ![capoo](/images/random_meme/capoo.webp =200x)               | Capoo 表情包       | -->
 
 | 指令                                            | 预览                                                         | 详情               |
@@ -54,14 +53,15 @@
 | /随机琪露诺                                     | ![cirno](/images/random_meme/cirno.webp =200x)               | 琪露诺表情包       |
 | /随机少哭乐队<br/>/随机gbc                      | ![gbc](/images/random_meme/gbc.webp =200x)                   | 少哭乐队表情包     |
 | /邪神与厨二病                                   | ![jashin-chan](/images/random_meme/jashin-chan.webp =200x)   | 邪神与厨二病表情包 |
-| /随机莉莉白                                     | ![lily_white](/images/random_meme/lily_white.webp =200x)       | 莉莉白表情包       |
+| /随机莉莉白                                     | ![lily_white](/images/random_meme/lily_white.webp =200x)     | 莉莉白表情包       |
 | /随机雪莉<br/>/随机橘雪莉                       | ![sheri](/images/random_meme/sheri.webp =200x)               | 橘雪莉表情包       |
 | /随机塔菲<br/>/随机永雏塔菲<br/>/随机taffy      | ![taffy](/images/random_meme/taffy.webp =200x)               | 永雏塔菲表情包     |
-| /随机猪<br/>/随机猪猪                            | ![pig](/images/random_meme/pig.webp =200x)                   | 猪猪表情包         |
-| /随机kipfel                                  | ![kipfel](/images/random_meme/kipfel.webp =200x)             | kipfel表情包       |
-| /随机初音猫                                   | ![miku_cat](/images/random_meme/miku_cat.webp =200x)     | 初音猫表情包       |
+| /随机猪<br/>/随机猪猪                           | ![pig](/images/random_meme/pig.webp =200x)                   | 猪猪表情包         |
+| /随机kipfel                                     | ![kipfel](/images/random_meme/kipfel.webp =200x)             | kipfel表情包       |
+| /随机初音猫                                     | ![miku_cat](/images/random_meme/miku_cat.webp =200x)         | 初音猫表情包       |
 | /随机菲比啾比<br/>/随机菲比                     | ![phoebe](/images/random_meme/phoebe.webp =200x)             | 菲比啾比表情包     |
-| /随机小玛丽<br/>/随机mary                      | ![little_mari](/images/random_meme/little_mari.webp =200x)                 | 小玛丽表情包       |
+| /随机小玛丽<br/>/随机mary                       | ![little_mari](/images/random_meme/little_mari.webp =200x)   | 小玛丽表情包       |
+| /随机母鸡卡<br/>/随机mujica<br/>/随机avemujica  | ![avemujica](/images/random_meme/avemujica.webp =200x)       | avemujica表情包    |
 
 ### /随机分类表情包
 
