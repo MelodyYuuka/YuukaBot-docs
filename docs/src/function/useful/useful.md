@@ -25,6 +25,7 @@
   返回所有可用的名言类型，有：
 
 <table>
+<tbody>
 <tr>
 <td>爱情</td><td>道德</td><td>青春</td><td>愿望</td><td>集体</td><td>理想</td><td>志向</td></tr>
 <tr>
@@ -40,6 +41,7 @@
 <tr>
 <td>人生</td><td>幸福</td><td>团结</td><td>随机</td>
 </tr>
+</tbody>
 </table>
 
 ### 歇后语

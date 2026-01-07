@@ -44,6 +44,7 @@
 ## 支持语言
 
 <table>
+<tbody>
 <tr>
 <td colspan="7">自 → 自动检测语言</td>
 </tr>
@@ -56,4 +57,5 @@
 <tr>
 <td>捷</td><td>罗</td><td>斯</td><td>瑞</td><td>匈</td><td>繁</td><td>越</td>
 </tr>
+</tbody>
 </table>
