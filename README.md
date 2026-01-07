@@ -16,7 +16,7 @@
 
 ![docs](https://github.com/MelodyYuuka/YuukaBot-docs/workflows/docs/badge.svg)
 <br/>
-[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-618356332-orange?style=flat-square)](https://qm.qq.com/q/yStfCAz2r8)
+[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-928161128-orange?style=flat-square)](https://qm.qq.com/q/yStfCAz2r8)
 [![QQ频道](https://img.shields.io/badge/QQ%E9%A2%91%E9%81%93-Dreamer云梦都-5492ff?style=flat-square)](https://pd.qq.com/s/5iyaamyir)
 [![KOOK](https://img.shields.io/badge/KOOK-Dreamer云梦都-007ec6?style=flat-square)](https://kook.top/4wZDH7)
 
