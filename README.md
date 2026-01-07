@@ -16,7 +16,7 @@
 
 ![docs](https://github.com/MelodyYuuka/YuukaBot-docs/workflows/docs/badge.svg)
 <br/>
-[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-618356332-orange?style=flat-square)](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ)
+[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-618356332-orange?style=flat-square)](https://qm.qq.com/q/yStfCAz2r8)
 [![QQ频道](https://img.shields.io/badge/QQ%E9%A2%91%E9%81%93-Dreamer云梦都-5492ff?style=flat-square)](https://pd.qq.com/s/5iyaamyir)
 [![KOOK](https://img.shields.io/badge/KOOK-Dreamer云梦都-007ec6?style=flat-square)](https://kook.top/4wZDH7)
 
@@ -41,7 +41,7 @@ yarn docs:dev
 
 ## 反馈问题
 
-欢迎在 [云梦都Q群](https://jq.qq.com/?_wv=1027&k=fV5yn9GQ) 或 [issue](https://github.com/MelodyYuuka/YuukaBot-docs/issues) 反馈问题
+欢迎在 [云梦都Q群](https://qm.qq.com/q/yStfCAz2r8) 或 [issue](https://github.com/MelodyYuuka/YuukaBot-docs/issues) 反馈问题
 
 [![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 YuukaBot-docs 采用 [知识共享 署名-相同方式共享 4.0 国际 许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
