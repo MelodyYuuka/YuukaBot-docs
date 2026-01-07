@@ -20,22 +20,22 @@
 
 @tab 支付宝
 
-![支付宝](/images/sponsor/alipay_all.webp =600x)
+![支付宝 =600x](/images/sponsor/alipay_all.webp )
 
 @tab 微信
 
-![微信](./wechat1-20250405.webp =300x)
+![微信 =300x](./wechat1-20250405.webp )
 
 @tab 微信备用
 
-![微信备用](./wechat2-20250405.webp =300x)
+![微信备用 =300x](./wechat2-20250405.webp )
 
 @tab QQ
 
-![QQ](/images/sponsor/qq_next.webp =300x)
+![QQ =300x](/images/sponsor/qq_next.webp )
 
 @tab QQ备用
 
-![QQ备用](/images/sponsor/qq2.webp =300x)
+![QQ备用 =300x](/images/sponsor/qq2.webp )
 
 :::
