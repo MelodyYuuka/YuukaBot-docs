@@ -90,7 +90,7 @@ YuukaBot 采用指令-参数式交互，支持通过指令前加 [**艾特**](..
 
 ::: code-tabs#shell
 
-@tab:active yarn
+@tab:active pnpm
 
 ```bash:no-line-numbers
 git clone https://github.com/MelodyYuuka/YuukaBot-docs
@@ -98,10 +98,10 @@ git clone https://github.com/MelodyYuuka/YuukaBot-docs
 
 cd YuukaBot-docs/docs
 
-yarn install
+pnpm install
 # 安装依赖
 
-yarn docs:dev
+pnpm docs:dev
 # 开始写作
 ```
 
