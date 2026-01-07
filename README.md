@@ -32,10 +32,10 @@ git clone https://github.com/MelodyYuuka/YuukaBot-docs
 
 cd YuukaBot-docs/docs
 
-yarn install
+pnpm install
 # 安装依赖
 
-yarn docs:dev
+pnpm docs:dev
 # 开始写作
 ```
 
