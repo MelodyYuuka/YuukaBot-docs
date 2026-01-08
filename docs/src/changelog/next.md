@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-01-07
+
+- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机干嘛猫`
+
 ### 2026-01-06
 
 - 更新 [随机表情包](../function/img/random_meme.md)：为 `/随机fumo` 添加了更多表情包
