@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-01-08
+
+- 新增 [今日猪猪](../function/play/today_pig.md)：新增 `/今日猪猪`，测测今日猪猪
+
 ### 2026-01-07
 
 - 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机干嘛猫`
