@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-01-14
+
+- 优化 [东方猜](../function/touhou/touhou_guess.md) 与 [东方问答](../function/touhou/touhou_quiz.md)：现在支持私聊游玩
+
 ### 2026-01-08
 
 - 新增 [今日猪猪](../function/play/today_pig.md)：新增 `/今日猪猪`，测测今日猪猪
