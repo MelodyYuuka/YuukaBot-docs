@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # 文档贡献指南
 
 :::tip
@@ -73,6 +75,10 @@
 
 ## Markdown 风格指南
 
+:::tip
+推荐使用 Visual Studio Code 插件，例如 [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) 来统一风格并检查语法
+:::
+
 ### 使用 ATX 风格的标题（1～6 个 # 号）
 
 ```diff:no-line-numbers
@@ -99,7 +105,110 @@
 + 这是一个*斜体*；这是一个**粗体**；这是一个***粗斜体***
 ```
 
+### 文件应以单个换行结尾
+
+```diff:no-line-numbers
+- 这是文档的最后一句话。
++ 这是文档的最后一句话。$
+```
+
+“$”在此表示换行（如 `U+000A` 换行字符，`\n` 换行转义序列，或轻击回车键）
+
+## Markdown 语法指南
+
+:::info
+更多信息请参阅 [Markdown 教程](https://markdown.com.cn/basic-syntax/)
+:::
+
+### 换行
+
+#### 输入两个空格然后按下回车键以换行
+
+Markdown | HTML | 效果
+--- | --- | ---
+这是第一行。&nbsp;&nbsp;<br>这是第二行。 | 这是第一行。\<br><br>这是第二行。 | 这是第一行。<br>这是第二行。
+
+### 反引号（`）
+
+#### 使用单个反引号（`）来以代码格式显示文本
+
+示例 | 效果
+--- | ---
+插入\`代码\`到文本中 | 插入`代码`到文本中
+
+#### 使用两个反引号（``）来转义其他反引号
+
+反引号转义 | 反斜线转义 | 效果
+--- | --- | ---
+\`\` 这是\`单个反引号\`的作用 \`\` | 这是\\\`单个反引号\\\`的作用 | 这是`单个反引号`的作用
+
+#### 使用三个反引号（```）来形成围栏代码块  
+
+示例：
+
+```Markdown
+```Python
+print("Hello World!")
+```
+```
+
+效果：
+
+```Python
+print("Hello World!")
+```
+
+将 `Python` 替换成其他语言可以添加对应语言的的语法高亮显示，而添加 `:no-line-numbers` 会移除代码块左侧的行数显示。  
+替换成`diff`则会用绿色显示以 `+` 开头的行，并用红色显示以 `-` 开头的行。具体效果参考[上文](#数字与英文单位之间加空格-与符号单位之间不加空格)。  
+通过缩进（四个空格或按下一次Tab）也可以实现代码块，但实践中请**优先**使用上述方式。
+
+### 表格
+
+:::danger
+在表格内添加原始HTML代码可能会导致 Vuepress 报错
+:::
+
+添加表格时，请使用三个或更多连字符（---）创建每列的标题，并使用竖线（|）分隔每列。其余文字内容以外的改变不会影响最终结果（例如连字符的数量，竖线前面的空格）。
+
+风格示例：
+
+```对齐风格的表格
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| EOL         | Line Feed   |
+```
+
+```紧凑风格的表格
+| Character | Meaning |
+| --- | --- |
+| Y | Yes |
+| N | No |
+```
+
+#### 表格对齐
+
+在连字符的左/右侧添加冒号（:）会将该列的内容向左/右对齐，而在两侧都添加冒号则会居中对齐。
+
+示例：
+
+```Markdown
+|       向左对齐 | 居中对齐 | 向右对齐       |
+|          :--- |  :----:  | ---:          |
+|   这依旧有文字 |  这是文字  | 这仍然是文字  |
+|   那还是有文字 |  那有文字  | 那是更多文字  |
+```
+
+效果：
+
+向左对齐 | 居中对齐 | 向右对齐
+:--- | :----: | ---:
+这依旧有文字 | 这是文字 | 这仍然是文字
+那还是有文字 | 那有文字 | 那是更多文字
+
 ## 参考资料
 
-- <https://stdrc.cc/style-guides/chinese>
-- <https://stdrc.cc/style-guides/markdown>
+1. <https://stdrc.cc/style-guides/chinese>
+2. <https://stdrc.cc/style-guides/markdown>
+3. <https://www.markdownguide.org/basic-syntax> （英文）  

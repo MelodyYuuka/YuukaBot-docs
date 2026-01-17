@@ -2,7 +2,7 @@
 
 ## 概述
 
-每一张猫猫/fumo都代表着一个HTTP状态码
+每一张猫猫/fumo都代表着一个 [HTTP状态码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Reference/Status)
 
 ## 指令
 
