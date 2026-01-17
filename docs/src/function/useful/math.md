@@ -1,6 +1,6 @@
 # 数学工具
 
-:::tip
+:::warning
 由于腾讯的要求，本功能在 `QQ官方` 平台上暂不可用
 :::
 
@@ -154,11 +154,11 @@
 
 - 参数：
 
-  - `公式`： latex 公式
+  - `公式`： LaTeX 公式
 
 - 详情：
 
-  生成 latex 公式图
+  生成 LaTeX 公式图
 
 ### /alpha
 
@@ -170,4 +170,4 @@
 
 - 详情：
 
-  问问 wolframalpha
+  问问 [Wolframalpha](https://www.wolframalpha.com/)

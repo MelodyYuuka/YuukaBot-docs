@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+
 # 文档贡献指南
 
 :::tip
@@ -71,35 +73,7 @@
 + 可以查询 [术语表](../glossary.md) 来找到相关信息
 ```
 
-## Markdown 风格指南
-
-### 使用 ATX 风格的标题（1～6 个 # 号）
-
-```diff:no-line-numbers
-- 一级标题
-- =======
-
-+ # 一级标题
-+ ## 二级标题
-+ ### 三级标题
-+ #### 四级标题
-```
-
-### 标题与 `#` 之间空一格
-
-```diff:no-line-numbers
-- ##一个标题
-+ ## 一个标题
-```
-
-### 使用一个、两个和三个 * 分别表示斜体、粗体和粗斜体
-
-```diff:no-line-numbers
-- 这是一个_斜体_；这是一个__粗体__；这是一个___粗斜体___
-+ 这是一个*斜体*；这是一个**粗体**；这是一个***粗斜体***
-```
-
 ## 参考资料
 
-- <https://stdrc.cc/style-guides/chinese>
-- <https://stdrc.cc/style-guides/markdown>
+1. <https://stdrc.cc/style-guides/chinese>
+2. <https://stdrc.cc/style-guides/markdown>

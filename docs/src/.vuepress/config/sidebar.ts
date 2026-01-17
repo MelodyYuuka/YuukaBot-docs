@@ -212,7 +212,9 @@ export default sidebar({
       text: '贡献指南',
       collapsible: false,
       children: [
-        '/about/contribute/docs.md'
+        '/about/contribute/zh_style.md',
+        '/about/contribute/md_style.md',
+        '/about/contribute/md_grammar.md',
       ]
     },
     {
