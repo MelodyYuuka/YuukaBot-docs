@@ -6,6 +6,16 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-01-19
+
+- 修复 [东方音乐](../function/touhou/touhou_music.md) 中黄昏作无法正确查找的问题
+- 现在未匹配指令时会帮助用户匹配相似指令
+
+### 2026-01-16
+
+- 更新 [随机东方表情包](../function/touhou/touhou_sticker.md)：删除了一些重复的表情包，添加了更多的表情包！
+- 实验性地汉化了部分 [东方幻存神签](../function/touhou/touhou_genson_shinju.md)，后续还会进一步优化通顺度。如果有关于幻存神签翻译的准确度和通顺度问题可以@幽幽子 /帮助 后选择"📝反馈/建议"提交
+
 ### 2026-01-14
 
 - 优化 [东方猜](../function/touhou/touhou_guess.md) 与 [东方问答](../function/touhou/touhou_quiz.md)：现在支持私聊游玩
