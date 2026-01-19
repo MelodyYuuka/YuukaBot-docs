@@ -137,6 +137,7 @@ export default sidebar({
         'saying.md',
         'shindanmaker.md',
         'today_luck.md',
+        'today_pig.md',
         'voice.md',
         'tarot.md',
         'fabing.md',
