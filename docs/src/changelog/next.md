@@ -6,6 +6,14 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-01-24
+
+- 更新 [RGB色图生成器](../function/img/rgb.md)：
+
+### 2026-01-21
+
+- 更新 [今日运势](../function/play/today_luck.md)：新增 `/今日幸运数字`
+
 ### 2026-01-19
 
 - 修复 [东方音乐](../function/touhou/touhou_music.md) 中黄昏作无法正确查找的问题
