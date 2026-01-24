@@ -8,7 +8,7 @@ icon: clock
 
 ### 2026-01-24
 
-- 更新 [RGB色图生成器](../function/img/rgb.md)：
+- 更新 [RGB色图生成器](../function/img/rgb.md)：新增 `/今日幸运色`
 
 ### 2026-01-21
 
