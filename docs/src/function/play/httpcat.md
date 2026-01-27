@@ -45,3 +45,7 @@
 - 详情：
 
   随机一只HTTP Fumo
+
+## 🙏感谢
+
+- [HTTP Fumos](https://github.com/smalllqiang/HTTP-Fumos) 项目提供部分图源
