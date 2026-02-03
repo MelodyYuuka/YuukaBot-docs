@@ -6,6 +6,15 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-01-30
+
+- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机柴犬`
+
+### 2026-01-27
+
+- 更新了更多的 [HTTPFumo](../function/play/httpcat.md)
+- 优化了 [东方音乐](../function/touhou/touhou_music.md) 中部分凭依华音乐无法被找到的问题
+
 ### 2026-01-24
 
 - 更新 [RGB色图生成器](../function/img/rgb.md)：新增 `/今日幸运色`
