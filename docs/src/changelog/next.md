@@ -6,6 +6,19 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-03-01
+
+- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机超时空辉夜姬`
+- 更新 [货币相关](../function/useful/exchange_rate.md)：补充 `卢布` 作为 `俄罗斯卢布` 的别名
+
+### 2026-02-13
+
+- 修复 [东方新闻](../function/touhou/touhou_news.md) 中偶尔出现的无法显示的问题
+
+### 2026-02-07
+
+- 新增 `/年度报告`：快来看看你的2025年度报告吧~ ( • ̀ω•́ )✧
+
 ### 2026-01-30
 
 - 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机柴犬`

@@ -10,7 +10,7 @@
 
 - 指令： `/emojimix [emoji1][emoji2]`
 
-- 别名： `/emoji合成`
+- 别名： `/emoji合成`, `/表情合成`
 
 - 参数：
 
