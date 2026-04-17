@@ -6,6 +6,24 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-04-17
+
+- 解决了 [随机东方](../function/touhou/random_touhou.md) 在 `QQBot` 平台上图片无法加载的问题
+
+### 2026-04-15
+
+- 更新 [Minecraft 功能](../function/query/minecraft.md)：新增 `/搜MC物品` 指令
+- 更新 [100% 橙汁](../function/query/orange_juice.md)：新增各种语音功能
+- 更新 [随机东方](../function/touhou/random_touhou.md)：新增 `/十连东方图`
+
+### 2026-04-05
+
+- 优化升级了 [tag识别](../function/img/img_deeper.md)，新增识别了一些东方冷门角色的tag，完善了多个角色的翻译
+
+### 2026-03-24
+
+- 对于东方功能，补充了 th20 的角色别名
+
 ### 2026-03-01
 
 - 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机超时空辉夜姬`
@@ -103,6 +121,10 @@ icon: clock
 
 - 优化升级了 [tag识别](../function/img/img_deeper.md) 功能的模型，提升了识别的准确率
 - 由于不可抗力，在 `QQBot` 平台的 `幽幽子` 上关闭了 [tag识别](../function/img/img_deeper.md) 与 [bilibili 解析](../function/query/bilibili.md)，请考虑改用 [妖梦酱](https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854208350) 使用以上功能
+
+### 2025-11-23
+
+- 更新 [Minecraft 功能](../function/query/minecraft.md)：新增 `/生成wymc名字` 指令
 
 ### 2025-11-19
 
