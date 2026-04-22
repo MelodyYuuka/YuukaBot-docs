@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-04-22
+
+- 更新 [100% 橙汁](../function/query/orange_juice.md)：更新到最新游戏数据
+
 ### 2026-04-17
 
 - 解决了 [随机东方](../function/touhou/random_touhou.md) 在 `QQBot` 平台上图片无法加载的问题
