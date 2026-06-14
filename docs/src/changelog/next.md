@@ -6,6 +6,15 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-06-14
+
+- 新增 [MC存活检查](../function/query/minecraft.md)：检查 Minecraft (Mojang) 服务器是否存活
+
+### 2026-05-30
+
+- 现在 [任务/主动功能管理](../function/admin/task_manager.md) 的部分推送功能可以在 `QQBot` 平台上使用
+- 新增 [东方日历](../function/touhou/touhou_date.md) 每日推送服务
+
 ### 2026-05-26
 
 - 更新 [点歌相关](../function/useful/music.md)：
