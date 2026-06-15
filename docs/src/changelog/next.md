@@ -8,7 +8,7 @@ icon: clock
 
 ### 2026-06-14
 
-- 新增 [MC存活检查](../function/query/minecraft.md)：检查 Minecraft (Mojang) 服务器是否存活
+- 新增 [MC存活检查](../function/query/minecraft.md#MC活着吗)：检查 Minecraft (Mojang) 服务器是否存活
 - 更新 [emoji合成](../function/play/emoji_mix.md)：更新了更多 emoji 合成！
 
 ### 2026-05-30
