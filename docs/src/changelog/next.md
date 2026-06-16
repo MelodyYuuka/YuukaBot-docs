@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-06-16
+
+- 现在 [功能管理](../function/admin/plugin_manager_bot.md) 的功能仅限管理员/群主使用
+
 ### 2026-06-14
 
 - 新增 [MC存活检查](../function/query/minecraft.md#MC活着吗)：检查 Minecraft (Mojang) 服务器是否存活
