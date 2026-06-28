@@ -6,6 +6,23 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-06-27
+
+- 新增 [群发言排行](../function/play/group_social.md)
+- 更新 [今日猪猪](../function/play/today_pig.md)：更新了更多猪猪！还有全新猪圈，猪猪图鉴将在稍后推出~
+
+### 2026-06-25
+
+- 修复 [酷我点歌](../function/useful/music.md) 偶发的无法点歌的问题
+
+### 2026-06-21
+
+- 优化一些功能的视觉效果
+
+### 2026-06-17
+
+- `QQBot` 平台现在已支持进群欢迎
+
 ### 2026-06-16
 
 - 现在 `QQBot` 平台上的 [功能管理](../function/admin/plugin_manager_bot.md) 的功能仅限管理员/群主使用
