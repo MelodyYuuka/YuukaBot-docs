@@ -6,6 +6,32 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-07-17
+
+- 现在 [点歌](../function/useful/ncm_plugin.md) 在 `QQBot` 平台上对于免费歌曲点歌会附带语音直听
+
+### 2026-07-15
+
+- 新增 [谐音梗大作战](../function/play/word_jokes.md)
+
+### 2026-07-11
+
+- 修复 [原曲认知](../function/touhou/touhou_quiz.md)：部分音频发送失败的问题
+- 优化了 `QQBot` 平台上部分图片的发送速度
+
+### 2026-07-04
+
+- 修复 [东方猜](../function/touhou/touhou_guess.md)：部分角色猜测匹配问题
+
+### 2026-07-03
+
+- 更新 [今日猪猪](../function/play/today_pig.md)：新增 `我的猪圈`
+- 更新 [RGB色图生成器](../function/img/rgb.md)：现在会展示颜色详情了
+
+### 2026-07-02
+
+- 优化 [支付宝到账](../function/play/voice.md#支付宝到账) 的速度与效果，现在允许用中文数字
+
 ### 2026-06-27
 
 - 新增 [群发言排行](../function/play/group_social.md)
