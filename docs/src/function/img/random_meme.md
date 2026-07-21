@@ -65,6 +65,7 @@
 | /随机干嘛猫<br/>/随机干嘛<br/>/随机没经济没建模小猫 | ![whatcat =200x](/images/random_meme/canny_cat.webp )         | 干嘛猫表情包       |
 | /随机柴犬<br/>/随机doge<br/>/随机cheems             | ![doge =200x](/images/random_meme/doge.webp )                 | 柴犬表情包         |
 | /随机超时空辉夜姬<br/>/随机辉夜姬<br/>/随机辉夜     | ![kaguya =200x](/images/random_meme/kaguya.webp )             | 辉夜姬表情包       |
+| /随机呆猫<br/>/随机艾露猫                           | ![felyne =200x](/images/random_meme/felyne.webp )             | 呆猫表情包         |
 
 ### /随机分类表情包
 
