@@ -6,6 +6,14 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-07-28
+
+- 优化了 `QQBot` 平台上部分图片的发送速度
+
+### 2026-07-25
+
+- 更新 [高考倒计时](../function/useful/countdown.md#高考倒计时)：高考倒计时现已加入推送列表套餐
+
 ### 2026-07-21
 
 - 更新 [100% 橙汁](../function/query/orange_juice.md)：
