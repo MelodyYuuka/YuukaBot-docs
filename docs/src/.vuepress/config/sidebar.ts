@@ -52,6 +52,7 @@ export default sidebar({
         'random_shion.md',
         'touhou_sticker.md',
         'yunmengdu.md',
+        'touhou_character_guess.md',
       ]
     },
     {
@@ -154,6 +155,8 @@ export default sidebar({
         'draw_card.md',
         'modern_word.md',
         'char_reverse.md',
+        'word_jokes.md',
+        'group_social.md',
       ]
     },
     {
