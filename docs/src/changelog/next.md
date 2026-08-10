@@ -8,6 +8,7 @@ icon: clock
 
 ### 2026-08-09
 
+- 新增 [猜东方角色](../function/touhou/touhou_character_guess.md)
 - 修复了 `因幡帝（因幡天为）`、`封兽魑魅` 别名无效的问题
 
 ### 2026-08-07
