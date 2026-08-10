@@ -6,6 +6,10 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-08-10
+
+- 更新 [东方问答](../function/touhou/touhou_quiz.md)：新增 `/困难原曲认知`，玩家需要直接写出原曲名，支持模糊匹配
+
 ### 2026-08-09
 
 - 新增 [猜东方角色](../function/touhou/touhou_character_guess.md)
