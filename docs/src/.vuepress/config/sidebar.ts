@@ -53,6 +53,7 @@ export default sidebar({
         'touhou_sticker.md',
         'yunmengdu.md',
         'touhou_character_guess.md',
+        'touhou_wiki.md',
       ]
     },
     {
@@ -88,6 +89,7 @@ export default sidebar({
         'minecraft.md',
         'patchyvideo.md',
         'shadowverse.md',
+        'steam.md',
         'weibo.md',
         'wiki.md',
         'ygo.md',
@@ -132,6 +134,8 @@ export default sidebar({
         'fantasy.md',
         'help_choose.md',
         'hitokoto.md',
+        'mathle.md',
+        'mcdle.md',
         'minesweeper.md',
         'poem_writer.md',
         'remake.md',
@@ -157,6 +161,7 @@ export default sidebar({
         'char_reverse.md',
         'word_jokes.md',
         'group_social.md',
+        'idiom_chain.md',
       ]
     },
     {
