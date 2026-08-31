@@ -6,10 +6,52 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-08-31
+
+- 更新 [MC 猜谜](../function/play/mcdle.md)：
+  - 补充了大量社区俗称、旧译名与常见简称，现在更容易猜中了
+  - 修复了同名但实际不同的条目被合并的问题
+- 对于东方功能，更新了 [东方音乐](../function/touhou/touhou_music.md) 更多的曲目说明/故事，包括 `东方锦上京` 与 `灵长新益京` 等
+
+### 2026-08-30
+
+- 现在指令支持使用全角斜杠开头
+- 对于东方功能，补充了 `灵长新益京` 的更多数据
+- 修复 [Math 猜等式](../function/play/mathle.md) 中棋盘可能显示错乱的问题
+- 修复 [100%鲜橙汁](../function/query/orange_juice.md) 中 Steam 接口异常会导致成就信息整体失效的问题
+- 修复了部分功能在网络异常时没有友好提示的问题
+
+### 2026-08-29
+
+- 更新 [Minecraft 功能](../function/query/minecraft.md)：搜索结果过多时只展示前 10 个
+- 修复 [东方幻存神签](../function/touhou/touhou_genson_shinju.md) 八面骰签值计算错误的问题
+- 修复 [东方日历](../function/touhou/touhou_date.md) 详情在部分平台无法使用的问题
+- 修复 [东方猜](../function/touhou/touhou_guess.md) 猜 ZUN 绘在不支持 Markdown 的平台上显示异常的问题
+- 修复 [抽卡模拟器](../function/play/draw_card.md) 在不支持按钮的平台上无法使用、以及按钮失效的问题
+- 修复 [100%鲜橙汁](../function/query/orange_juice.md) 模糊搜索无法使用别名的问题
+- 修复 [货币相关](../function/useful/exchange_rate.md) 无法识别 `0` 开头金额的问题
+- 修复 [Hypixel](../function/query/hypixel.md) 空岛战争数据计算错误的问题
+
+### 2026-08-28
+
+- 更新 [随机东方表情包](../function/touhou/touhou_sticker.md)：`/随机东方表情包` 现在可以直接跟角色名搜索
+- 更新 [MC 猜谜](../function/play/mcdle.md)：优化了大小写判断与提示文案
+
+### 2026-08-25
+
+- 优化 [油库里](../function/play/voice.md#油库里)：速度更快也更稳定；输入全是无法朗读的字符时会直接提示，而不再返回一段静音
+
+### 2026-08-24
+
+- 修复了 `QQBot` 平台上偶发的消息发送失败的问题
+- 修复了 [MC存活检查](../function/query/minecraft.md#MC活着吗) 的可用性
+
 ### 2026-08-23
 
-- 更新 [群发言排行](../function/play/group_social.md)：新增 `今日发言榜` 别名
-- 修复了油库里无法在私聊使用的问题
+- 更新 [东方角色百科](../function/touhou/touhou_wiki.md)：新增 `/角色资料 随机` 随机查看一位角色，以及 `/角色资料 <角色名> 简介` 单独查看简介
+- 更新 [以图搜图](../function/img/img_search.md)：以图搜番结果改为合并转发，更易阅读
+- 现在猜谜类游戏的开局消息在不支持按钮的平台上会展示对应的文字指令
+- 修复了 [油库里](../function/play/voice.md#油库里) 无法在私聊使用的问题
 
 ### 2026-08-20
 
