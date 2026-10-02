@@ -6,571 +6,90 @@ icon: clock
 
 ## 更新时间线
 
+### 2026-10-01
+
+- 更新猜谜游戏战绩：[Wordle猜单词](../function/play/wordle.md)、[汉兜](../function/play/handle.md)、[词影](../function/play/ciying.md)、[猜等式](../function/play/mathle.md)、[数迹](../function/play/numberle.md) 和 [猜宝可梦](../function/play/pokemonle.md) 新增个人战绩统计，可查看胜场、参与局数和活跃天数等等
+- 更新 [杀戮尖塔查卡](../function/query/sts.md)：
+  - 补充卡牌俗称与别名，优化卡牌详情排版
+  - 部分卡牌详情新增相关卡牌、事件关联和特殊卡牌来源；支持跳转查询相关卡牌，不支持按钮的平台会显示对应指令
+  - 二代卡牌统计明确区分基础版与升级版，避免混淆
+- 更新 [成语接龙](../function/play/idiom_chain.md)：群聊对局结束时展示本局玩家得分，使用提示词仍不计分
+- 更新 [节假日查询](../function/useful/holiday.md)：明日作息统一使用 `/节假日 明天` 查询，不再使用 `/上班吗`、`/明天上班吗`；优化假期剩余天数、补班和跨年安排的提示，减少重复提醒
+- 优化 [猜符卡](../function/touhou/touhou_spellcard_guess.md) 的题图截取，减少缺少弹幕或动作特效、难以辨认的题目
+- 修复 [MC 猜谜](../function/play/mcdle.md) 中「锁链」和「铁链」重复的问题
+- 优化多款猜谜游戏的提示文案与图文排版
+
+### 2026-09-30
+
+- 更新 [猜宝可梦](../function/play/pokemonle.md) 开局新增随机猜测示例，方便第一次游玩的玩家上手
+- 修复 [B站解析](../function/query/bilibili.md) 无法识别新版 QQ 小程序分享卡片的问题
+- 修复部分语音处理失败的问题
+
+### 2026-09-29
+
+- 更新 [人生重开](../function/play/remake.md)：
+  - 新增 `/人生统计`，查看最高寿命、最佳总评、属性纪录及天赋、事件收集进度
+  - 新增 `/人生成就`，查看成就总览，支持按分类、已解锁或未解锁筛选和翻页
+  - 对局结束后展示新纪录与收集成果，并优化图片排版；纪录和收集进度从功能上线后累计，历史成绩无法补算
+- 更新 [B站解析](../function/query/bilibili.md)：使用 `b解析 [BV/AV号]` 获取视频第一 P 的含音频 MP4 临时直链，也可以引用包含视频编号或 B站小程序的消息使用
+
+### 2026-09-28
+
+- 修复 [图片处理](../function/img/img_editor.md) 在引用图片、补发图片时可能报错或误取消的问题
+- 修复 [以图搜图](../function/img/img_search.md) 中 Yandex 搜图不可用的问题，无搜索结果时会给出提示
+- 修正 [人生重开](../function/play/remake.md)「贪婪」天赋的效果与提示
+
+### 2026-09-26
+
+- 新增 [猜宝可梦](../function/play/pokemonle.md)：使用 `/猜宝可梦` 开局，在 10 次机会内根据属性、种族值、世代、特性等线索猜出答案，支持查看个人战绩
+- 新增 [PJSK 猜卡面](../function/play/pjsk_guess_card.md)：从模糊、打乱、切割或局部截取的三星、四星卡面中猜角色，支持国服与日服题库，以及个人积分和战绩
+- 新增 [节假日查询与提醒](../function/useful/holiday.md)：
+  - `/节假日` 查看最近假期与放假倒计时，`/节假日 [日期]` 查询指定日期作息，`/放假安排 (年份)` 查看全年放假和调休安排
+  - 群内可通过 `开启任务 节假日提醒` 订阅每天的假期与明日作息提醒
+- [杀戮尖塔查卡](../function/query/sts.md) 扩展至一代与二代：`/尖塔查卡`、`/尖塔搜卡` 可查询两代卡牌，也可用 `/塔一查卡`、`/塔二查卡` 等指令限定代数；统计与排行榜仍仅提供二代数据
+- 更新 [云梦都相关](../function/touhou/yunmengdu.md)：`/mc绑定` 现在可在任意云梦都 QQ 群使用，不再限定单个服务器群
+- 更新 [MC 猜谜](../function/play/mcdle.md)：生物模式将鲑鱼、热带鱼合并为「鱼」，避免难以区分的重复答案
+- 下线 [群日程提醒](../function/useful/schedule_reminder.md)，不再提供导入日历、添加日程及日程查询等功能
+
+### 2026-09-25
+
+- 优化 [猜符卡](../function/touhou/touhou_spellcard_guess.md) 的开局与出图速度
+
+### 2026-09-20
+
+- 新增 [猜符卡](../function/touhou/touhou_spellcard_guess.md)：使用 `/猜符卡 (作品或分类)` 开局，从局部截图猜出符卡名称；猜错后逐步扩大截图，并解锁作品、难度或角色线索
+
+### 2026-09-16
+
+- 更新 [人生重开](../function/play/remake.md)：更新优化事件与天赋数据，修正部分天赋效果和随机属性分配
+
+### 2026-09-14
+
+- [杀戮尖塔 2 查卡](../function/query/sts.md) 新增社区卡牌胜率、选取率及各幕选取率排行榜，可通过 `/尖塔胜率排行`、`/尖塔选取率排行` 等指令查看和翻页
+
+### 2026-09-13
+
+- 新增 [杀戮尖塔 2 查卡](../function/query/sts.md)：可按卡名查询卡面、属性和效果，也可按名称或效果关键词搜索并翻页；有数据时展示社区胜率、选取率等统计
+- QQ 官方机器人新增 [禁言与解禁](../function/admin/group_action.md)，支持一次艾特多名成员；需先开启全量消息并将机器人设为管理员，由群主或管理员操作
+
+### 2026-09-09
+
+- 补充东方作品分类，修复「东方智灵奇传」未正确归入出版物的问题
+
+### 2026-09-08
+
+- 更新 [云梦都相关](../function/touhou/yunmengdu.md)：新增 QQ 与云梦都 Minecraft 账号绑定、查询和换绑指引
+- 更新 [东方符卡功能](../function/touhou/touhou_spellcard.md)：更新符卡资料与图片
+
+### 2026-09-01
+
+- 更新 [化学工具](../function/useful/chemical.md)：优化方程式配平，支持常见方程式、离子和电子的表示方式；暂不支持 QQ 官方机器人
+- 更新 [MC 猜谜](../function/play/mcdle.md)：新增紫水晶母岩、铜栏杆、矛、鹦鹉螺铠及相关变体
+
 ### 2026-08-31
 
-- 更新 [MC 猜谜](../function/play/mcdle.md)：
-  - 补充了大量社区俗称、旧译名与常见简称，现在更容易猜中了
-  - 修复了同名但实际不同的条目被合并的问题
-- 对于东方功能，更新了 [东方音乐](../function/touhou/touhou_music.md) 更多的曲目说明/故事，包括 `东方锦上京` 与 `灵长新益京` 等
-
-### 2026-08-30
-
-- 现在指令支持使用全角斜杠开头
-- 对于东方功能，补充了 `灵长新益京` 的更多数据
-- 修复 [Math 猜等式](../function/play/mathle.md) 中棋盘可能显示错乱的问题
-- 修复 [100%鲜橙汁](../function/query/orange_juice.md) 中 Steam 接口异常会导致成就信息整体失效的问题
-- 修复了部分功能在网络异常时没有友好提示的问题
-
-### 2026-08-29
-
-- 更新 [Minecraft 功能](../function/query/minecraft.md)：搜索结果过多时只展示前 10 个
-- 修复 [东方幻存神签](../function/touhou/touhou_genson_shinju.md) 八面骰签值计算错误的问题
-- 修复 [东方日历](../function/touhou/touhou_date.md) 详情在部分平台无法使用的问题
-- 修复 [东方猜](../function/touhou/touhou_guess.md) 猜 ZUN 绘在不支持 Markdown 的平台上显示异常的问题
-- 修复 [抽卡模拟器](../function/play/draw_card.md) 在不支持按钮的平台上无法使用、以及按钮失效的问题
-- 修复 [100%鲜橙汁](../function/query/orange_juice.md) 模糊搜索无法使用别名的问题
-- 修复 [货币相关](../function/useful/exchange_rate.md) 无法识别 `0` 开头金额的问题
-- 修复 [Hypixel](../function/query/hypixel.md) 空岛战争数据计算错误的问题
-
-### 2026-08-28
-
-- 更新 [随机东方表情包](../function/touhou/touhou_sticker.md)：`/随机东方表情包` 现在可以直接跟角色名搜索
-- 更新 [MC 猜谜](../function/play/mcdle.md)：优化了大小写判断与提示文案
-
-### 2026-08-25
-
-- 优化 [油库里](../function/play/voice.md#油库里)：速度更快也更稳定；输入全是无法朗读的字符时会直接提示，而不再返回一段静音
-
-### 2026-08-24
-
-- 修复了 `QQBot` 平台上偶发的消息发送失败的问题
-- 修复了 [MC存活检查](../function/query/minecraft.md#MC活着吗) 的可用性
-
-### 2026-08-23
-
-- 更新 [东方角色百科](../function/touhou/touhou_wiki.md)：新增 `/角色资料 随机` 随机查看一位角色，以及 `/角色资料 <角色名> 简介` 单独查看简介
-- 更新 [以图搜图](../function/img/img_search.md)：以图搜番结果改为合并转发，更易阅读
-- 现在猜谜类游戏的开局消息在不支持按钮的平台上会展示对应的文字指令
-- 修复了 [油库里](../function/play/voice.md#油库里) 无法在私聊使用的问题
-
-### 2026-08-20
-
-- 新增 [成语接龙](../function/play/idiom_chain.md)
-
-### 2026-08-19
-
-- 新增 [东方角色百科](../function/touhou/touhou_wiki.md)
-- `QQBot` 平台上新增限制：现在无法发送长音乐，部分功能的音乐会以多段形式发送
-
-### 2026-08-18
-
-- 更新 [100%鲜橙汁](../function/query/orange_juice.md)：新增 `/百橙抓宠物` 玩法
-
-### 2026-08-17
-
-- 更新 [以图搜图](../function/img/img_search.md)：新增 `以图搜番`，可以识别动画截图对应的番名、集数和时间点
-- 更新 [骰子相关](../function/useful/dice.md)：
-  - 新增 `D%`、`MIN/MAX`、单次与循环重骰
-  - 新增普通、复合与穿透爆炸骰
-  - 新增阈值成功/失败计数和升序/降序明细
-  - 支持组合使用重骰、爆炸、保留或丢弃、成功计数与排序
-
-### 2026-08-16
-
-- 对于东方功能，更新了 `灵长新益京` 的相关音乐，补充了部分东方曲的英文翻译
-
-### 2026-08-15
-
-- 新增 [MC 猜谜](../function/play/mcdle.md)：支持生物、方块和物品三种猜谜模式，以及个人战绩查询
-
-### 2026-08-14
-
-- 更新 [Minecraft 功能](../function/query/minecraft.md)：新增 MC 实体 ID 搜索，并支持同时搜索物品、方块和实体
-- 更新 [猜东方角色](../function/touhou/touhou_character_guess.md)：未命中的属性也会显示所猜角色的实际属性
-
-### 2026-08-13
-
-- 更新 [骰子相关](../function/useful/dice.md)：
-  - 新增多轮投掷、优势与劣势、保留与丢弃骰、Fate 骰等表达式语法
-  - 新增 C0～C5、Delta Green 和 BRP 群聊检定房规，默认使用 C2
-  - 修复百分骰、奖励骰和惩罚骰的边界问题
-  - 增加表达式长度、骰数、面数和多轮投掷限制，并细化错误提示
-
-### 2026-08-11
-
-- 新增 [Math 猜等式](../function/play/mathle.md)：支持自选等式长度、多棋盘以及普通、困难和超困难模式
-- 更新 [猜东方角色](../function/touhou/touhou_character_guess.md)：扩充可供猜测的角色题库
-
-### 2026-08-10
-
-- 更新 [东方问答](../function/touhou/touhou_quiz.md)：新增 `/困难原曲认知`，玩家需要直接写出原曲名，支持模糊匹配
-
-### 2026-08-09
-
-- 新增 [猜东方角色](../function/touhou/touhou_character_guess.md)
-- 修复了 `因幡帝（因幡天为）`、`封兽魑魅` 别名无效的问题
-
-### 2026-08-07
-
-- 新增 [词影猜成语](../function/play/ciying.md)
-- 新增 [数迹猜数字](../function/play/numberle.md)
-- 修复了某些塔罗牌阵抽牌数量错误的问题
-- 修复了油库里无法播放的问题
-
-### 2026-08-05
-
-- 更新 [wordle猜单词](../function/play/wordle.md)：新增 `经典` 词典
-- 更新 [汉兜猜成语](../function/play/handle.md)：增强了更多的可抽取词汇
-
-### 2026-08-04
-
-- 修复了 `绵月的符卡 ～ Lunatic Blue` 某引用作品名无效的问题
-
-### 2026-08-03
-
-- 更新 [今日猪猪](../function/play/today_pig.md)：新增了更多猪猪，还有独家车万猪！
-
-### 2026-07-28
-
-- 优化了 `QQBot` 平台上部分图片的发送速度
-
-### 2026-07-25
-
-- 更新 [高考倒计时](../function/useful/countdown.md#高考倒计时)：高考倒计时现已加入推送列表套餐
-
-### 2026-07-21
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：
-  - 更新数据到最新版本
-  - 恢复支持 `/今日百橙混合器`
-  - 添加 `/查百橙混合器` 支持查询任意日期的混合器
-  - 添加 `每日百橙混合器` 推送任务
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机呆猫`
-
-### 2026-07-17
-
-- 现在 [点歌](../function/useful/ncm_plugin.md) 在 `QQBot` 平台上对于免费歌曲点歌会附带语音直听
-
-### 2026-07-15
-
-- 新增 [谐音梗大作战](../function/play/word_jokes.md)
-
-### 2026-07-11
-
-- 修复 [原曲认知](../function/touhou/touhou_quiz.md)：部分音频发送失败的问题
-- 优化了 `QQBot` 平台上部分图片的发送速度
-
-### 2026-07-04
-
-- 修复 [东方猜](../function/touhou/touhou_guess.md)：部分角色猜测匹配问题
-
-### 2026-07-03
-
-- 更新 [今日猪猪](../function/play/today_pig.md)：新增 `我的猪圈`
-- 更新 [RGB色图生成器](../function/img/rgb.md)：现在会展示颜色详情了
-
-### 2026-07-02
-
-- 优化 [支付宝到账](../function/play/voice.md#支付宝到账) 的速度与效果，现在允许用中文数字
-
-### 2026-06-27
-
-- 新增 [群发言排行](../function/play/group_social.md)
-- 更新 [今日猪猪](../function/play/today_pig.md)：更新了更多猪猪！还有全新猪圈，猪猪图鉴将在稍后推出~
-
-### 2026-06-25
-
-- 修复 [酷我点歌](../function/useful/music.md) 偶发的无法点歌的问题
-
-### 2026-06-21
-
-- 优化一些功能的视觉效果
-
-### 2026-06-17
-
-- `QQBot` 平台现在已支持进群欢迎
-
-### 2026-06-16
-
-- 现在 `QQBot` 平台上的 [功能管理](../function/admin/plugin_manager_bot.md) 的功能仅限管理员/群主使用
-
-### 2026-06-14
-
-- 新增 [MC存活检查](../function/query/minecraft.md#MC活着吗)：检查 Minecraft (Mojang) 服务器是否存活
-- 更新 [emoji合成](../function/play/emoji_mix.md)：更新了更多 emoji 合成！
-
-### 2026-05-30
-
-- 现在 [任务/主动功能管理](../function/admin/task_manager.md) 的部分推送功能可以在 `QQBot` 平台上使用
-- 新增 [东方日历](../function/touhou/touhou_date.md) 每日推送服务
-
-### 2026-05-26
-
-- 更新 [点歌相关](../function/useful/music.md)：
-  - 优化了在 `QQBot` 平台上的显示与交互
-  - 优化了酷狗音乐的链接
-  - 修复了咪咕音乐的实现
-
-### 2026-05-24
-
-- 部分任务/主动功能已支持 `QQBot` 与 `KOOK` 平台使用
-
-### 2026-05-14
-
-- 更新 [塔罗牌相关](../function/play/tarot.md)：新增 `/抽百橙塔罗牌`
-
-### 2026-05-01
-
-- 修复 [100% 橙汁](../function/query/orange_juice.md)：一些卡面错误地拥有 Max 1 标志
-
-### 2026-04-23
-
-- 现在允许在没有早安的时候晚安
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：更新先驱者数据，更新所有卡面到最新版本
-
-### 2026-04-22
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：更新到最新游戏数据，包括卡片信息，地图信息，语音，表情，成就等
-
-### 2026-04-17
-
-- 解决了 [随机东方](../function/touhou/random_touhou.md) 在 `QQBot` 平台上图片无法加载的问题
-
-### 2026-04-15
-
-- 更新 [Minecraft 功能](../function/query/minecraft.md)：新增 `/搜MC物品` 指令
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：新增各种语音功能
-- 更新 [随机东方](../function/touhou/random_touhou.md)：新增 `/十连东方图`
-
-### 2026-04-05
-
-- 优化升级了 [tag识别](../function/img/img_deeper.md)，新增识别了一些东方冷门角色的tag，完善了多个角色的翻译
-
-### 2026-03-24
-
-- 对于东方功能，补充了 th20 的角色别名
-
-### 2026-03-01
-
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机超时空辉夜姬`
-- 更新 [货币相关](../function/useful/exchange_rate.md)：补充 `卢布` 作为 `俄罗斯卢布` 的别名
-
-### 2026-02-13
-
-- 修复 [东方新闻](../function/touhou/touhou_news.md) 中偶尔出现的无法显示的问题
-
-### 2026-02-07
-
-- 新增 `/年度报告`：快来看看你的2025年度报告吧~ ( • ̀ω•́ )✧
-
-### 2026-01-30
-
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机柴犬`
-
-### 2026-01-27
-
-- 更新了更多的 [HTTPFumo](../function/play/httpcat.md)
-- 优化了 [东方音乐](../function/touhou/touhou_music.md) 中部分凭依华音乐无法被找到的问题
-
-### 2026-01-24
-
-- 更新 [RGB色图生成器](../function/img/rgb.md)：新增 `/今日幸运色`
-
-### 2026-01-21
-
-- 更新 [今日运势](../function/play/today_luck.md)：新增 `/今日幸运数字`
-
-### 2026-01-19
-
-- 修复 [东方音乐](../function/touhou/touhou_music.md) 中黄昏作无法正确查找的问题
-- 现在未匹配指令时会提醒用户相似指令
-
-### 2026-01-16
-
-- 更新 [随机东方表情包](../function/touhou/touhou_sticker.md)：删除了一些重复的表情包，添加了更多的表情包！
-- 实验性地汉化了部分 [东方幻存神签](../function/touhou/touhou_genson_shinju.md)，后续还会进一步优化通顺度。如果有关于幻存神签翻译的准确度和通顺度问题可以@幽幽子 /帮助 后选择"📝反馈/建议"提交
-
-### 2026-01-14
-
-- 优化 [东方猜](../function/touhou/touhou_guess.md) 与 [东方问答](../function/touhou/touhou_quiz.md)：现在支持私聊游玩
-
-### 2026-01-08
-
-- 新增 [今日猪猪](../function/play/today_pig.md)：新增 `/今日猪猪`，测测今日猪猪
-
-### 2026-01-07
-
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机干嘛猫`
-
-### 2026-01-06
-
-- 更新 [随机表情包](../function/img/random_meme.md)：为 `/随机fumo` 添加了更多表情包
-
-### 2026-01-05
-
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机母鸡卡`
-
-### 2026-01-04
-
-- 更新 [塔罗牌相关](../function/play/tarot.md)：新增 `/抽塔罗牌阵`，支持牌阵占卜
-
-### 2026-01-01
-
-- 修复 `QQBot` 平台上由于平台样式更改而导致的橙汁功能名字不可见的问题
-
-### 2025-12-30
-
-- 更新 [塔罗牌相关](../function/play/tarot.md)：新增 `/抽ba塔罗牌`，用于抽取蔚蓝档案风格的塔罗牌
-
-### 2025-12-29
-
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机kipfel`、`/随机初音猫`、`/随机菲比啾比`、`/随机小玛丽`
-- 优化 [塔罗牌相关](../function/play/tarot.md) 的使用体验
-
-### 2025-12-28
-
-- 优化了 [地震监测](../function/query/earthquake.md) 功能的使用体验
-
-### 2025-12-09
-
-- 更新 [HTTP猫猫](../function/play/httpcat.md)：新增 `/httpfumo`
-
-### 2025-12-04
-
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机猪`
-
-### 2025-11-30
-
-- 更新 [随机表情包](../function/img/random_meme.md)：下架比较罕见的 `/随机capoo`
-
-### 2025-11-26
-
-- 优化升级了 [tag识别](../function/img/img_deeper.md) 功能的模型，提升了识别的准确率
-- 由于不可抗力，在 `QQBot` 平台的 `幽幽子` 上关闭了 [tag识别](../function/img/img_deeper.md) 与 [bilibili 解析](../function/query/bilibili.md)，请考虑改用 [妖梦酱](https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854208350) 使用以上功能
-
-### 2025-11-23
-
-- 更新 [Minecraft 功能](../function/query/minecraft.md)：新增 `/生成wymc名字` 指令
-
-### 2025-11-19
-
-- 更新 [随机表情包](../function/img/random_meme.md)：更新了更多的 `/随机雪莉`
-
-### 2025-11-16
-
-- 优化了 [天气](../function/useful/weather.md) 对于其他时区用户的使用体验
-
-### 2025-11-13
-
-- 修复 [每日一句](../function/useful/everyday_en.md)
-
-### 2025-11-04
-
-- 更新 [随机表情包](../function/img/random_meme.md)：更新 `/随机雪莉`
-
-### 2025-11-01
-
-- 应 `QQ官方` 平台要求，关闭 [发病语录](../function/play/fabing.md) 在 `QQ平台` 的使用
-
-### 2025-10-16
-
-- 优化了 [东方问答](../function/touhou/touhou_quiz.md)
-
-### 2025-09-16
-
-- 优化了东方功能的使用体验
-
-### 2025-09-02
-
-- 修复了上次更新出现的一些问题
-- 对于东方功能，更新了 `东方锦上京` 的立绘部分
-
-### 2025-08-30
-
-- 不好意思久等啦！最近比较忙，所以更新频率相对少了。更新了 `东方锦上京` 的音乐功能，包括 [东方音乐](../function/touhou/touhou_music.md)，[东方问答](../function/touhou/touhou_quiz.md)
-
-### 2025-08-10
-
-- 修复并更新了 [抽卡模拟器](../function/play/draw_card.md)
-
-### 2025-07-22
-
-- 优化了 `QQ官方` 平台上部分功能的使用体验
-
-### 2025-07-20
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：更新到最新DLC数据，优化所有卡片图片
-
-### 2025-06-28
-
-- 更新 [随机表情包](../function/img/random_meme.md)：更新 `/随机塔菲`
-
-### 2025-06-25
-
-- 更新 [云梦都相关](../function/touhou/yunmengdu.md)：
-  - 新增 `/setskin`，用于直接设置服务器内皮肤
-  - 新增 `/playerinfo`，用于查看玩家信息
-
-### 2025-06-18
-
-- 优化 [wordle猜单词](../function/play/wordle.md)：现在字典名称不区分大小写
-
-### 2025-06-15
-
-- 修复 [东方幻存神签](../function/touhou/touhou_genson_shinju.md)：偶尔可能出现的骰子点数不正确问题
-
-### 2025-06-10
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：更新到最新DLC数据
-
-### 2025-06-07
-
-- 修复兽王园1.00a版本中 `少女曾见的日本原风景` 误写为 `信仰是为了虚幻之人` 的问题
-
-### 2025-06-05
-
-- 优化 [设定生成器系统](../function/play/shindanmaker.md) 的速度
-
-### 2025-05-31
-
-- 优化部分功能在 `QQBot` 平台上的使用体验
-
-### 2025-05-16
-
-- 修复 [东方日历](../function/touhou/touhou_date.md)：规避在 `QQBot` 平台上由于 `恋色` 二字而导致违规的问题
-- 优化在 `QQBot` 平台上 因使用 `QQ 9.1.65` 及以上版本而受影响的 用户体验
-
-### 2025-05-13
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：优化一些地图的显示
-
-### 2025-05-12
-
-- 新增 [东方表情包](../function/touhou/touhou_sticker.md)：新增 `/随机东方表情包`、`/搜东方表情包 [角色名]`
-- 为东方人物添加更多别名，有更多别名投稿可以发邮件至 <Bot@yunmengdu.cn>
-
-### 2025-05-08
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：
-  - 新增 `/随机百橙成就`
-  - 在 `/百橙个人统计` 上新增 `已解锁成就` 项，优化了经典场数/胜场的显示
-
-### 2025-05-06
-
-- 更新 [随机表情包](../function/img/random_meme.md)：更新 `/随机莉莉白`
-
-### 2025-05-01
-
-- 优化 [东方问答](../function/touhou/touhou_quiz.md)：`/原曲认知` 出题策略优化
-
-### 2025-04-27
-
-- 优化 [人生重开](../function/play/remake.md)：优化在 `QQBot-妖梦` 上的使用
-
-### 2025-04-26
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md) 与 [Steam 功能](../function/query/steam.md)：
-  - 现在在输入 steamid 的时候会忽略除数字外的符号，方便用户直接粘贴个人资料链接
-
-### 2025-04-23
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：
-  - 新增 `/随机百橙表情`
-  - 现在在 `/百橙菜单` 上可以看到 `100% Orange Juice` 当前在线人数
-  - 在 `/百橙查卡` 时，现在同名但不同类型的卡牌不会被认为是同一张卡牌（比如 `神出鬼没`）
-  - 在 `QQBot` 平台规避 `京介` 的 Hyper `脱衣` 所造成的违规内容问题
-  - 修复了地图不能正确显示 `Coop` 版本的问题
-  - 修复了一些地图渲染不正确的问题
-  - 优化 `混合器` 的显示
-
-### 2025-04-22
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：新增 `/今日百橙混合器`
-
-### 2025-04-19
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：新增 `/查百橙地图`
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机莉莉白`
-
-### 2025-04-17
-
-- 更新 [100% 橙汁](../function/query/orange_juice.md)：新增 `/随机百橙地图`
-
-### 2025-04-12
-
-- 更新 [东方音乐](../function/touhou/touhou_music.md)：新增 `/随机同人音乐`、`/查原曲同人`
-
-### 2025-04-10
-
-- 在 `QQ官方` 平台：`妖梦` 与 `幽幽子` 数据现在部分互通
-
-### 2025-04-07
-
-- 更新 [东方问答](../function/touhou/touhou_quiz.md)：新增一些题目
-- 在 `QQ野生` 平台上重新支持 [网易云音乐功能](../function/useful/ncm_plugin.md) 与 [其他点歌相关](../function/useful/music.md)
-
-### 2025-04-05
-
-- 修复 [东方符卡功能](../function/touhou/touhou_spellcard.md)：部分符卡不能正常显示图片的问题
-
-### 2025-04-04
-
-- 新增 [东方幻存神签](../function/touhou/touhou_genson_shinju.md)
-- 更新 [表情包搜索器](../function/img/meme_searcher.md)：添加 `/搜mujica`
-
-### 2025-03-24
-
-- 新增 [表情包搜索器](../function/img/meme_searcher.md)：添加 `/搜mygo`
-
-### 2025-03-23
-
-- 更新 [100%鲜橙汁](../function/query/orange_juice.md)：
-  - 现在查卡时可以使用英文名
-  - 现在查卡/抽卡时会有更多附加信息
-  - 现在排行榜可以将页码替换为角色名来搜索角色
-
-### 2025-03-14
-
-- 新增 [东方符卡功能](../function/touhou/touhou_spellcard.md)
-
-### 2025-03-07
-
-- 更新 [功能管理（for QQ官方）](../function/admin/plugin_manager_bot.md)：更新频道操作，新增 `/设置使用子频道` 和 `/取消子频道限制` 指令
-
-### 2025-03-01
-
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机邪神与厨二病`
-- 上线 [幽幽子小程序](https://m.q.qq.com/a/s/d58a856a4d9d268aa5bc43caf1839723)
-
-### 2025-02-19
-
-- 更新 [随机表情包](../function/img/random_meme.md)：新增 `/随机分类表情包`
-
-### 2025-02-18
-
-- 更新 [100%鲜橙汁](../function/query/orange_juice.md)：查卡时支持使用别名
-- 更新 [emoji合成](../function/play/emoji_mix.md)：新增 `/随机emoji合成`
-
-### 2025-02-11
-
-- 新增 [Steam 功能](../function/query/steam.md)：新增 `/steambind` 绑定 Steam 账号
-
-### 2025-02-10
-
-- 更新 [100%鲜橙汁](../function/query/orange_juice.md)：新增 `/橙汁个人统计`
-
-### 2025-02-06
-
-- 更新 [100%鲜橙汁](../function/query/orange_juice.md)：新增 `/橙汁全局统计`, `/橙汁今日统计`, `/橙汁昨日统计`, `/橙汁周统计`, `/橙汁月统计`
-
-### 2025-02-04
-
-- 新增 [词语新解](../function/play/modern_word.md)
-
-### 2025-02-02
-
-- 发布 [v6.10.0](./v6.10.0.md)
+- 发布 [v6.11](./v6.11.md)
 
 :::tip
-之前的更新内容可以前往 [v6.10.0](./v6.10.0.md) 查看~
+2026 年 8 月 31 日及之前的更新内容，可以前往 [v6.11](./v6.11.md) 查看~
 :::
