@@ -35,6 +35,7 @@ export default sidebar({
     },
     {
       text: '⛩️东方相关',
+      link: '/function/touhou/',
       collapsible: true,
       prefix: "/function/touhou/",
       children: [

@@ -1,9 +1,11 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./config/navbar.js";
 import sidebar from "./config/sidebar.js";
+import { seo } from "./seo.js";
+import { hostname } from "./site.js";
 
 export default hopeTheme({
-  hostname: "https://bot.yunmengdu.cn",
+  hostname,
 
   author: {
     name: "旋律",
@@ -160,12 +162,10 @@ export default hopeTheme({
         },
       },
     },
-    seo: {
-    },
+    seo,
     sitemap: {
       excludePaths: ['/404.html'],
       sitemapFilename: 'sitemap.xml',
-      changefreq: 'daily',
     },
     components: {
       components: [

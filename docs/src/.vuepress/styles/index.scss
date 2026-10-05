@@ -1,1 +1,9 @@
 // place your custom styles here
+// Catalog 各级页面链接默认使用主题强调色，不改变标题定位锚点。
+.vp-catalog {
+  a.vp-catalog-title,
+  a.vp-sub-catalog-link,
+  .vp-sub-catalog > a {
+    color: var(--vp-c-accent);
+  }
+}

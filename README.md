@@ -39,6 +39,10 @@ pnpm docs:dev
 # 开始写作
 ```
 
+## 本地构建
+
+在 `docs/` 目录运行 `pnpm docs:build` 构建网站。
+
 ## 反馈问题
 
 欢迎在 [云梦都Q群](https://qm.qq.com/q/yStfCAz2r8) 或 [issue](https://github.com/MelodyYuuka/YuukaBot-docs/issues) 反馈问题

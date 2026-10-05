@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { siteDescription } from "./site.js";
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension';
 import { baiduAnalyticsPlugin } from '@vuepress/plugin-baidu-analytics';
 import { getDirname, path } from 'vuepress/utils';
@@ -12,7 +13,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   host: '0.0.0.0',
   title: 'YuukaBot',
-  description: '高性能の跨平台Bot',
+  description: siteDescription,
   head: [
     [
       'link', { rel: 'icon', href: '/images/logo.webp' }

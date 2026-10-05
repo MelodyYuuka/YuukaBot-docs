@@ -1,4 +1,5 @@
 ---
+description: 里吼阿，初次见面，请多指教！这里有 YuukaBot 的邀请入口和入门说明，把幽幽子领回群里吧～
 next: /function/
 icon: signs-post
 ---
@@ -26,7 +27,9 @@ icon: signs-post
 - 第三方野生 Bot （容易死）：
   > 目前此类 bot 非必要不外放
 
-- 官方 Bot （不容易死，每次使用需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9)）：
+- 官方 Bot （不容易死，默认需要 [**艾特**](/about/glossary.md#%E8%89%BE%E7%89%B9)）：
+
+  **QQ 群可以参考 [免艾特开启流程](../FAQ/#qq-群怎么开启免艾特-全量消息) 开启免艾特，QQ 频道仍需艾特**。
 
   > 点击下方链接可以直接邀请进群
 
@@ -124,5 +127,5 @@ npm run docs:dev
 :::
 
 :::tip
-更多可见 [文档贡献指南](../about/contribute/docs.md)
+更多可见 [文档写作规范](../about/contribute/md_style.md)
 :::
