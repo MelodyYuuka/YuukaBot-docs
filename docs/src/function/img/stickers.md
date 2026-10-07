@@ -6,21 +6,32 @@
 
 ## 概述
 
-本功能提供了 pjsk 表情包制作的功能
+支持制作 **PJSK** 和 **BanG Dream!** 贴纸表情包，可以选择底图、添加文字，也可以调整文字的位置、大小、颜色和描边。BanG Dream! 目前提供 62 张底图。
 
 ## 指令
 
+| 功能 | PJSK | BanG Dream! |
+| --- | --- | --- |
+| 进入交互制作 | `/pjsk` | `/bang表情` |
+| 查看角色与表情列表 | `/pjsk列表` | `/bang表情列表` |
+| 查看某个角色的表情 | `/pjsk列表 [角色名]` | `/bang表情列表 [角色名]` |
+| 查看命令帮助 | `/pjsk -h` | `/bang表情 -h` |
+
+两套表情使用各自的 ID，请以对应列表为准
+
 ### 交互模式
 
-- 指令： `/pjsk`
+- 指令： `/pjsk` 或 `/bang表情`
 
 - 详情：
 
-  进入交互制作表情包模式
+  按提示依次选择角色、表情 ID 和文字。也可以直接输入表情 ID，或发送 `随机` 选择一张底图；交互过程中发送 `0` 可以退出。
 
 ### 命令模式
 
-- 帮助菜单： `/pjsk -h`
+- 帮助菜单： `/pjsk -h` 或 `/bang表情 -h`
+
+两种表情共用下面的参数。制作 BanG Dream! 表情时，将命令开头的 `/pjsk` 换成 `/bang表情` 即可。
 
 ```bash:no-line-numbers
 用法: /pjsk [-i ID] [-h] [-x X] [-y Y] [-r ROTATE] [-s SIZE] [-c FONT_COLOR]
@@ -37,7 +48,7 @@
   -y Y                  文字的中心 y 坐标
   -r ROTATE, --rotate ROTATE
                         文字旋转的角度
-  -s SIZE, --size SIZE  文字的大小，不指定时会以默认大小为最大值自动调整
+  -s SIZE, --size SIZE  文字的大小，不指定时会以默认大小为上限自动缩小，尽量让文字放入底图
   -c FONT_COLOR, --font-color FONT_COLOR
                         文字颜色，使用十六进制格式
   -W STROKE_WIDTH, --stroke-width STROKE_WIDTH
