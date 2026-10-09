@@ -33,6 +33,8 @@
 
 两种表情共用下面的参数。制作 BanG Dream! 表情时，将命令开头的 `/pjsk` 换成 `/bang表情` 即可。
 
+BanG Dream! 的默认字号为 `92`。不指定 `-s` 时，会以默认字号为上限自动缩小，尽量放下文字；需要指定字号时可使用 `-s [大小]`。
+
 ```bash:no-line-numbers
 用法: /pjsk [-i ID] [-h] [-x X] [-y Y] [-r ROTATE] [-s SIZE] [-c FONT_COLOR]
             [-W STROKE_WIDTH] [-C STROKE_COLOR] [-S LINE_SPACING]
