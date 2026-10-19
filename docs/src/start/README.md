@@ -57,7 +57,7 @@ icon: signs-post
 
 ### KOOK （开黑啦）
 
-- 功能基本完整，可前往 [**Dreamer云梦都** (Kook频道)](https://kook.top/4wZDH7) 围观开发进度
+- 功能基本完整，可前往 [**Dreamer云梦都** (Kook频道)](https://kook.vip/4wZDH7) 围观开发进度
 - 已经可以拉入自己的 KOOK 频道啦
 
 <VPCard
