@@ -8,7 +8,7 @@ description: 认得出这片弹幕吗？听得出这首原曲吗？这里收着�
 
 ## 角色名与别名
 
-填写东方角色名时，可以使用正式名称、常用别名，以及部分日文写法或假名简称。以下写法适用于 [东方角色百科](./touhou_wiki.md)、[猜东方角色](./touhou_character_guess.md)、[随机东方图](./random_touhou.md) 和 [东方表情包](./touhou_sticker.md) 等功能：
+填写东方角色名时，可以使用正式名称、常用别名，以及部分日文写法或简称。以下写法适用于 [东方角色百科](./touhou_wiki.md)、[猜东方角色](./touhou_character_guess.md)、[随机东方图](./random_touhou.md) 和 [东方表情包](./touhou_sticker.md) 等功能：
 
 | 角色 | 可用写法示例 |
 | --- | --- |

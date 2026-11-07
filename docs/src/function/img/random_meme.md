@@ -2,13 +2,13 @@
 
 ## 概述
 
-本功能用于随机各种表情包
+聊天时缺一张表情？直接抱走一组吧～给聊天小库存补补货
 
 ## 指令
 
 ### /随机表情包
 
-- 指令： `/随机表情包 [页数]`
+- 指令： `/随机表情包 (页码)`
 
 - 参数：
 
@@ -66,6 +66,7 @@
 | /随机柴犬<br/>/随机doge<br/>/随机cheems             | ![doge =200x](/images/random_meme/doge.webp )                 | 柴犬表情包         |
 | /随机超时空辉夜姬<br/>/随机辉夜姬<br/>/随机辉夜     | ![kaguya =200x](/images/random_meme/kaguya.webp )             | 辉夜姬表情包       |
 | /随机呆猫<br/>/随机艾露猫                           | ![felyne =200x](/images/random_meme/felyne.webp )             | 呆猫表情包         |
+| /随机大肥鱼<br/>/随机deepseek                       | ![deepseek =200x](/images/random_meme/deepseek.webp )         | 大肥鱼表情包       |
 
 ### /随机分类表情包
 

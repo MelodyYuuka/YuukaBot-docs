@@ -66,7 +66,7 @@
 
 ### /bdislike
 
-- 指令： `/blike`
+- 指令： `/bdislike`
 
 - 参数：
 
