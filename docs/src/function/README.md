@@ -20,15 +20,6 @@ icon: lightbulb
 | [实用工具](./useful/) | 天气、翻译、计算和其他日常小工具 | [天气](./useful/weather.md)、[翻译](./useful/translate.md)、[化学配平](./useful/chemical.md) |
 | [管理功能](./admin/) | 查看功能帮助、管理群内服务、绑定跨平台身份 | [功能管理](./admin/plugin_manager.md)、[跨平台绑定](./admin/platform.md) |
 
-## 近期新增
-
-| 功能 | 先试这条指令 | 玩法 |
-| --- | --- | --- |
-| [猜 BA 学生](./play/blue_archive_student_guess.md) | `/猜ba学生` | 六项属性猜学生，可选国服、国际服或日服 |
-| [猜鸣潮](./play/wuthering_waves_character_guess.md) | `/猜鸣潮` | 六项属性猜共鸣者，每局 8 次机会 |
-| [猜塔卡牌](./play/sts_card_guess.md) | `/猜塔` | 两代混合卡牌，八项线索全部匹配即可获胜 |
-| [以撒道具图鉴](./query/isaac.md) | `/以撒菜单` | 按名称和效果查询、筛选或随机抽取道具 |
-
 ## 聊天内菜单
 
 不想先翻文档？在聊天里发送 `/菜单` 或 `/帮助`，也可以直接打开分类菜单：
